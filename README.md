@@ -39,7 +39,7 @@ Review of Hours. What I did. Concentration level.
 + 21:00 - 22:00 | E-mail to RYOSHO(wheel transducer), Studied "Appendix A, Ultrasonic Waves in Solid Media"
 ! 22:00 - 23:00 | ML Basic Course search
 ```
-
+<!--
 #### -TEMPLATE-
 
 #### <YYYY/MM/DD>
@@ -60,3 +60,4 @@ Review of Hours. What I did. Concentration level.
 # 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
 ```
+-->
