@@ -14,7 +14,7 @@ Review of Hours. What I did. Concentration level.
 #### <2023/06/14>
 ```diff
 ! 17:00 - 18:00 | Made this Git, Read Paper "InceptionTime: Finding AlexNet for Time Series Classification"
-# 18:00 - 19:00 | TBD
++ 18:00 - 19:00 | Read "Corrosion Detection in Aircraft Structures using Guided Lamb Waves"
 # 19:00 - 20:00 | TBD
 # 20:00 - 21:00 | TBD
 # 21:00 - 22:00 | TBD
