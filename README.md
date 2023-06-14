@@ -1,5 +1,5 @@
 # Today I Researched ~
-Review of Hours. What I learned. Concentration level.
+Review of Hours. What I did. Concentration level.
 ```diff
 + Green / Did well! Happy :).
 ! Orange / Soso..
