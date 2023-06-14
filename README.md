@@ -16,8 +16,8 @@ Review of Hours. What I did. Concentration level.
 ! 17:00 - 18:00 | Made this Git, Read Paper "InceptionTime: Finding AlexNet for Time Series Classification"
 + 18:00 - 19:00 | Read "Corrosion Detection in Aircraft Structures using Guided Lamb Waves"
 # 19:00 - 20:00 | Dinner
-+ 20:00 - 21:00 | Studied "Ultrasonic Waves in Solid Media, Ultrasonic Nondestructive Testing Principles, Analysis", Re-Read Paper "Ultrasonic guided waves interaction with cracks in the front glass of thin-film solar photovoltaic module"
-# 21:00 - 22:00 | E-mail to RYOSHO(wheel transducer), Studied "Ultrasonic Waves in Solid Media, Ultrasonic Nondestructive Testing Principles, Analysis"
++ 20:00 - 21:00 | Studied "Ultrasonic Nondestructive Testing Principles Analysis, Ultrasonic Waves in Solid Media", Re-Read Paper "Ultrasonic guided waves interaction with cracks in the front glass of thin-film solar photovoltaic module"
+# 21:00 - 22:00 | E-mail to RYOSHO(wheel transducer), Studied "Appendix A, Ultrasonic Waves in Solid Media"
 # 22:00 - 23:00 | TBD
 ```
 
