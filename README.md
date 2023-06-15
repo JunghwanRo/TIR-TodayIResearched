@@ -14,7 +14,7 @@ Review of Hours. What I did. Concentration level.
 #### <2023/06/15>
 ```diff
 ! 09:00 - 10:00 | Studied Calculus - 3Blue1Brown
-# 10:00 - 11:00 | TBD
++ 10:00 - 11:00 | Studying ML by Andrew ng 1st week 
 # 11:00 - 12:00 | TBD
 # 12:00 - 13:00 | Lunch
 # 13:00 - 14:00 | TBD
