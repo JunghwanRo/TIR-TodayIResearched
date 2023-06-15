@@ -19,9 +19,9 @@ Review of Hours. What I did. Concentration level.
 # 12:00 - 13:00 | Lunch
 + 13:00 - 14:00 | Read "Mode&Frequency choice for UGW - Ultrasonic Waves in Solid Media"
 + 14:00 - 15:00 | Read "Key Wave Propagation Experiments - Ultrasonic Waves in Solid Media", Checked spec of ALTISCAN
-# 15:00 - 16:00 | Workspace Update, New setup(Monitor stand, Computer arrangement)
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
+# 15:00 - 16:00 | Workspace Update - New setup(Monitor stand, Computer arrangement)
+! 16:00 - 17:00 | Discussion with Prof. Nico
+# 17:00 - 18:00 | Workspace Update - Monitor, Trello
 # 18:00 - 19:00 | Dinner
 # 19:00 - 20:00 | TBD
 # 20:00 - 21:00 | TBD
