@@ -24,7 +24,7 @@ Review of Hours. What I did. Concentration level.
 # 17:00 - 18:00 | Workspace Update - Monitor, Trello
 # 18:00 - 19:00 | Dinner
 ! 19:00 - 20:00 | Studied "French"
-+ 20:00 - 21:00 | Studied "Graph - Computer Algorithm"
++ 20:00 - 21:00 | Studied "Graph - Algorithms"
 # 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
 ```
