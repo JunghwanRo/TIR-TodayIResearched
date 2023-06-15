@@ -15,7 +15,7 @@ Review of Hours. What I did. Concentration level.
 ```diff
 ! 09:00 - 10:00 | Studied Calculus - 3Blue1Brown
 + 10:00 - 11:00 | Studied Supervised Learning - ML by Andrew ng 
-# 11:00 - 12:00 | Studied Unsupervised Learning - ML by Andrew ng
+# 11:00 - 12:00 | Studied Regression Model + Unsupervised Learning - ML by Andrew ng
 # 12:00 - 13:00 | Lunch
 # 13:00 - 14:00 | TBD
 # 14:00 - 15:00 | TBD
