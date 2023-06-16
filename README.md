@@ -22,7 +22,7 @@ Review of Hours. What I did. Concentration level.
 - 14:00 - 15:00 | Underperformance
 - 15:00 - 16:00 | Wasted
 ! 16:00 - 17:00 | Studied "Multiple Linear Model - Andrew Ng"
-# 17:00 - 18:00 | TBD
++ 17:00 - 18:00 | Studied and Finished "Linear Regression - Andrew Ng"
 # 18:00 - 19:00 | Dinner
 # 19:00 - 20:00 | TBD
 # 20:00 - 21:00 | TBD
