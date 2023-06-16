@@ -18,7 +18,7 @@ Review of Hours. What I did. Concentration level.
 ! 10:00 - 11:00 | Studied "Regression Model - Andrew Ng"
 + 11:00 - 12:00 | Studied "Gradient decent - Andrew Ng"
 - 12:00 - 13:00 | Distracted by community, Studied "Gradient decent - Andrew Ng"
-# 13:00 - 14:00 | TBD
+- 13:00 - 14:00 | Underperformance
 # 14:00 - 15:00 | TBD
 # 15:00 - 16:00 | TBD
 # 16:00 - 17:00 | TBD
