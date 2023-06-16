@@ -16,7 +16,7 @@ Review of Hours. What I did. Concentration level.
 + 08:11 - 09:00 | Respond to "Wheel Transducer company", Warm up "Vector for CS - 3Blue1Brown"
 ! 09:00 - 10:00 | Actual Reply to "Wheel Transducer company", Warm up "Linear Algebra - 3Blue1Brown"
 ! 10:00 - 11:00 | Studied "Regression Model - Andrew Ng"
-# 11:00 - 12:00 | TBD
++ 11:00 - 12:00 | Studied "Gradient decent - Andrew Ng"
 # 12:00 - 13:00 | Lunch
 # 13:00 - 14:00 | TBD
 # 14:00 - 15:00 | TBD
