@@ -11,7 +11,7 @@ Review of Hours. What I did. Concentration level.
 
 ### June.
 
-#### <2023/06/16>
+#### <2023/06/16 FRI>
 ```diff
 + 08:11 - 09:00 | Respond to "Wheel Transducer company", Warm up "Vector for CS - 3Blue1Brown"
 ! 09:00 - 10:00 | Actual Reply to "Wheel Transducer company", Warm up "Linear Algebra - 3Blue1Brown"
@@ -30,7 +30,7 @@ Review of Hours. What I did. Concentration level.
 # 22:00 - 23:00 | TBD
 ```
 
-#### <2023/06/15>
+#### <2023/06/15 THU>
 ```diff
 ! 09:00 - 10:00 | Studied "Calculus - 3Blue1Brown"
 + 10:00 - 11:00 | Studied "Supervised Learning - ML by Andrew ng"
@@ -48,7 +48,7 @@ Review of Hours. What I did. Concentration level.
 + 22:00 - 23:00 | Studied "BFS Graph - Algorithms", Back Home
 ```
 
-#### <2023/06/14>
+#### <2023/06/14 WED>
 ```diff
 REVIEW START!
 ! 17:00 - 18:00 | Made this Git, Read Paper "InceptionTime: Finding AlexNet for Time Series Classification"
@@ -61,7 +61,7 @@ REVIEW START!
 <!--
 #### -TEMPLATE-
 
-#### <YYYY/MM/DD>
+#### <YYYY/MM/DD DAY>
 ```diff
 # 08:00 - 09:00 | TBD
 # 09:00 - 10:00 | TBD
