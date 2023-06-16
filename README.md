@@ -26,7 +26,7 @@ Review of Hours. What I did. Concentration level.
 + 18:00 - 19:00 | Studied "Logistic Regression - Andrew Ng"
 # 19:00 - 20:00 | Dinner, Studied "French"
 + 20:00 - 21:00 | Skimmed "PoTATO: A Dataset for Analyzing Polarimetric Traces of Afloat Trash Objects", Read about "Deep Learning", "Turing Award"
-# 21:00 - 22:00 | Found "Automated Damage Detection Using Lamb Wave-Based Phase-Sensitive OTDR and Support Vector Machines"
+# 21:00 - 22:00 | Found "Automated Damage Detection Using Lamb Wave-Based Phase-Sensitive OTDR and Support Vector Machines", Studied "Greedy Algorithm"
 # 22:00 - 23:00 | TBD
 ```
 
