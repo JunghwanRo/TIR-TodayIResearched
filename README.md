@@ -21,7 +21,7 @@ WAKE UP!!!
 + 15:00 - 16:00 | Studied "Time Complexity - Algorithms - Abdul Bari"
 + 16:00 - 17:00 | Studied "Asymptotic Notations - Algorithms - Abdul Bari"
 + 17:00 - 18:00 | Studied "Algorithms - Abdul Bari"
-# 18:00 - 19:00 | Dinner
+# 18:00 - 19:00 | Dinner, Studied "Little French"
 # 19:00 - 20:00 | TBD
 # 20:00 - 21:00 | TBD
 # 21:00 - 22:00 | TBD
