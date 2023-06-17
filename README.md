@@ -18,7 +18,7 @@ WAKE UP!!!
 ! 12:00 - 13:00 | Prepared "MID1 - Algorithms", Warm up "Calculus - 3Blue1Brown"
 + 13:00 - 14:00 | Studied "Quicksort - Algorithms"
 + 14:00 - 15:00 | Studied "Time Complexity - Algorithms - Abdul Bari"
-# 15:00 - 16:00 | TBD
++ 15:00 - 16:00 | Studied "Time Complexity - Algorithms - Abdul Bari"
 # 16:00 - 17:00 | TBD
 # 17:00 - 18:00 | TBD
 # 18:00 - 19:00 | Dinner
