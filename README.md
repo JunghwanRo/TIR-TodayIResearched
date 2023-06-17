@@ -45,7 +45,7 @@ WAKE UP!!!
 + 20:00 - 21:00 | Studied "Master's Theorem - Algorithms - Abdul Bari"
 + 21:00 - 22:00 | Studied "Recurrence Relation - Algorithms - Abdul Bari"
 + 22:00 - 23:00 | Studied "MergeSort - Algorithms - Abdul Bari"
-# 23:00 - 24:00 | TBD
++ 23:00 - 24:00 | Studied "QuickSort - Algorithms - Abdul Bari"
 ```
 
 #### <2023/06/16 FRI>
