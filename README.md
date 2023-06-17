@@ -15,7 +15,7 @@ Review of Hours. What I did. Concentration level.
 ```diff
 WAKE UP!!!
 ! 11:27 - 12:00 | Gathered and Printed out Study Docs
-# 12:00 - 13:00 | Lunch
+! 12:00 - 13:00 | Prepared "MID1 - Algorithms", Warm up "Calculus - 3Blue1Brown"
 # 13:00 - 14:00 | TBD
 # 14:00 - 15:00 | TBD
 # 15:00 - 16:00 | TBD
