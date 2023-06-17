@@ -14,7 +14,7 @@ Review of Hours. What I did. Concentration level.
 #### <2023/06/17 SAT>
 ```diff
 WAKE UP!!!
-# 11:27 - 12:00 | TBD
+! 11:27 - 12:00 | Gathered and Printed out Study Docs
 # 12:00 - 13:00 | Lunch
 # 13:00 - 14:00 | TBD
 # 14:00 - 15:00 | TBD
