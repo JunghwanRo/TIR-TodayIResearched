@@ -23,7 +23,7 @@ WAKE UP!!!
 + 17:00 - 18:00 | Studied "Algorithms - Abdul Bari"
 # 18:00 - 19:00 | Dinner, Studied "Little French"
 ! 19:00 - 20:00 | Studied "Recurrence Relation - Algorithms - Abdul Bari"
-# 20:00 - 21:00 | TBD
++ 20:00 - 21:00 | Studied "Master's Theorem - Algorithms - Abdul Bari"
 # 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
 ```
