@@ -14,7 +14,7 @@ Review of Hours. What I did. Concentration level.
 #### <2023/06/17 SAT>
 ```diff
 WAKE UP!!!
-! 11:27 - 12:00 | Gathered and Printed out Study Docs
+# 11:27 - 12:00 | Lunch, Gathered and Printed out Study Docs
 ! 12:00 - 13:00 | Prepared "MID1 - Algorithms", Warm up "Calculus - 3Blue1Brown"
 + 13:00 - 14:00 | Studied "Quicksort - Algorithms"
 + 14:00 - 15:00 | Studied "Time Complexity - Algorithms - Abdul Bari"
