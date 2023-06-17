@@ -24,7 +24,7 @@ WAKE UP!!!
 # 18:00 - 19:00 | Dinner, Studied "Little French"
 ! 19:00 - 20:00 | Studied "Recurrence Relation - Algorithms - Abdul Bari"
 + 20:00 - 21:00 | Studied "Master's Theorem - Algorithms - Abdul Bari"
-# 21:00 - 22:00 | TBD
++ 21:00 - 22:00 | Studied "Recurrence Relation"
 # 22:00 - 23:00 | TBD
 ```
 
