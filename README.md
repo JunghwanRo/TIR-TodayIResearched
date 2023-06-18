@@ -13,7 +13,7 @@ Review of Hours. What I did. Concentration level.
 
 #### <2023/06/18 SUN>
 ```diff
-! 09:15 - 10:00 | TBD
+! 09:15 - 10:00 | Studied "Randomized Algorithm - Algorithms"
 # 10:00 - 11:00 | TBD
 # 11:00 - 12:00 | TBD
 # 12:00 - 13:00 | Lunch
