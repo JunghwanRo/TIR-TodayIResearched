@@ -27,6 +27,7 @@ Review of Hours. What I did. Concentration level.
 + 20:00 - 21:00 | Exam - "Algorithms"
 + 21:00 - 22:00 | Exam - "Algorithms"
 ! 22:00 - 23:00 | Studied - "Compression - Algorithms", Rest "How to become a good graduate student"
+! 23:00 - 24:00 | Studied - "Compression - Algorithms", Studied "little French"
 ```
 
 #### <2023/06/17 SAT>
