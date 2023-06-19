@@ -14,8 +14,8 @@ Review of Hours. What I did. Concentration level.
 #### <2023/06/19 MON>
 ```diff
 ! 08:11 - 09:00 | Studied "Huffman Coding - Algorithms"
-# 09:00 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
++ 09:00 - 10:00 | Studied "Graph Search - Algorithms"
+# 10:00 - 11:00 | Studied "Greedy Algorithm - Algorithms"
 # 11:00 - 12:00 | TBD
 # 12:00 - 13:00 | Lunch
 # 13:00 - 14:00 | TBD
