@@ -23,8 +23,8 @@ Review of Hours. What I did. Concentration level.
 ! 15:00 - 16:00 | Discussion with pete "Bugwright2 and phD"
 ! 16:00 - 17:00 | Discussion with pete "Bugwright2 and phD"
 + 17:00 - 18:00 | Studied "logistic regression - Andrew Ng"
-# 18:00 - 19:00 | Studied "Finished Machine Learning Specialization Course 1 - Andrew Ng"
-# 19:00 - 20:00 | TBD
++ 18:00 - 19:00 | Studied "Finished Machine Learning Specialization Course 1 - Andrew Ng"
+! 19:00 - 20:00 | Watched "Inspiring video from Andrew Ng & FeiFei"
 # 20:00 - 21:00 | TBD
 # 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
