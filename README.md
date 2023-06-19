@@ -18,10 +18,10 @@ Review of Hours. What I did. Concentration level.
 + 10:00 - 11:00 | Studied "Greedy Algorithm - Algorithms"
 + 11:00 - 12:00 | Studied "Graph/Greedy Problems - Algorithms"
 # 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
+! 13:00 - 14:00 | Studied "Cost Function of Logistic Regression - Andrew Ng"
++ 14:00 - 15:00 | Discussion with HW mates "Algorithms"
+! 15:00 - 16:00 | Discussion with pete "Bugwright2 and phD"
+! 16:00 - 17:00 | Discussion with pete "Bugwright2 and phD"
 # 17:00 - 18:00 | TBD
 # 18:00 - 19:00 | Dinner
 # 19:00 - 20:00 | TBD
