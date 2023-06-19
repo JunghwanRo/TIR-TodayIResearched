@@ -26,7 +26,7 @@ Review of Hours. What I did. Concentration level.
 + 18:00 - 19:00 | Studied "Finished Machine Learning Specialization Course 1 - Andrew Ng"
 ! 19:00 - 20:00 | Watched "Inspiring video from Andrew Ng & FeiFei"
 ! 20:00 - 21:00 | Studied "Module 5,6 Assignment - Algorithms"
-# 21:00 - 22:00 | TBD
++ 21:00 - 22:00 | Studied "Module 5,6 Assignment - Algorithms"
 # 22:00 - 23:00 | TBD
 ```
 
