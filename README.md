@@ -27,7 +27,7 @@ Review of Hours. What I did. Concentration level.
 ! 19:00 - 20:00 | Watched "Inspiring video from Andrew Ng & FeiFei"
 ! 20:00 - 21:00 | Studied "Module 5,6 Assignment - Algorithms"
 + 21:00 - 22:00 | Studied "Module 5,6 Assignment - Algorithms"
-# 22:00 - 23:00 | TBD
+# 22:00 - 23:00 | Studied "Little French"
 ```
 
 #### <2023/06/18 SUN>
