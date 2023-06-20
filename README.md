@@ -20,8 +20,8 @@ Review of Hours. What I did. Concentration level.
 # 12:00 - 13:00 | Lunch
 ! 13:00 - 14:00 | Studied "Practice Neural Networks - Andrew Ng"
 + 14:00 - 15:00 | Studied "Neural Network Training - Andrew Ng"
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
+! 15:00 - 16:00 | Coffee with Pooja, Studied "Neural Network Training - Andrew Ng"
+# 16:00 - 17:00 | Studied "Module5/6 Assignment - Algorithms"
 # 17:00 - 18:00 | TBD
 # 18:00 - 19:00 | Dinner
 # 19:00 - 20:00 | TBD
