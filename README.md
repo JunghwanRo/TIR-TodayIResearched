@@ -13,7 +13,7 @@ Review of Hours. What I did. Concentration level.
 
 #### <2023/06/20 TUE>
 ```diff
-# 08:11 - 09:00 | TBD
++ 08:11 - 09:00 | Studied "Neural Network - Andrew Ng"
 # 09:00 - 10:00 | TBD
 # 10:00 - 11:00 | TBD
 # 11:00 - 12:00 | TBD
