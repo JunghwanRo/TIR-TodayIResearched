@@ -16,7 +16,7 @@ Review of Hours. What I did. Concentration level.
 + 08:11 - 09:00 | Studied "Neural Networks - Andrew Ng"
 + 09:00 - 10:00 | Weekly Meeting! Had Fun
 + 10:00 - 11:00 | Studied "Neural Networks - Andrew Ng"
-# 11:00 - 12:00 | TBD
++ 11:00 - 12:00 | Studied "Neural Networks - Andrew Ng"
 # 12:00 - 13:00 | Lunch
 # 13:00 - 14:00 | TBD
 # 14:00 - 15:00 | TBD
