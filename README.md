@@ -21,8 +21,8 @@ Review of Hours. What I did. Concentration level.
 ! 13:00 - 14:00 | Studied "NLP and future of AI - Chat with Andrew Ng"
 + 14:00 - 15:00 | Studied "Unsupervised Learning - Andrew Ng"
 ! 15:00 - 16:00 | Studied "Unsupervised Learning - Andrew Ng", Coffee chat with Pooja
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
++ 16:00 - 17:00 | Studied "Finished Unsupervised Learning - Andrew Ng"
++ 17:00 - 18:00 | Studied "Collaborative Filtering - Andrew Ng"
 # 18:00 - 19:00 | Dinner
 # 19:00 - 20:00 | TBD
 # 20:00 - 21:00 | TBD
