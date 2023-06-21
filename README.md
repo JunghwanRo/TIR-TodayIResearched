@@ -23,11 +23,9 @@ Review of Hours. What I did. Concentration level.
 ! 15:00 - 16:00 | Studied "Unsupervised Learning - Andrew Ng", Coffee chat with Pooja
 + 16:00 - 17:00 | Studied "Finished Unsupervised Learning - Andrew Ng"
 + 17:00 - 18:00 | Studied "Collaborative Filtering - Andrew Ng"
-# 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
+# 18:00 - 19:00 | Studied "Collaborative Filtering - Andrew Ng"
+# 19:00 - 20:00 | Dinner
+Music Day with Dream Lab Members :)
 ```
 
 #### <2023/06/20 TUE>
