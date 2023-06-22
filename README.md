@@ -19,8 +19,8 @@ Review of Hours. What I did. Concentration level.
 + 11:00 - 12:00 | Studied "Reinforcement Learning - Andrew Ng"
 # 12:00 - 13:00 | Lunch
 ! 13:00 - 14:00 | Debate with Prof. Hong
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
++ 14:00 - 15:00 | Planned Data Acquisition, Studied "Reinforcement Learning - Andrew Ng"
+! 15:00 - 16:00 | Coffee break, Studied "Reinforcement Learning - Andrew Ng"
 # 16:00 - 17:00 | TBD
 # 17:00 - 18:00 | TBD
 # 18:00 - 19:00 | Dinner
