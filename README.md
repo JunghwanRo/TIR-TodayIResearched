@@ -13,9 +13,9 @@ Review of Hours. What I did. Concentration level.
 
 #### <2023/06/22 THU>
 ```diff
-# 08:31 - 09:00 | TBD
-# 09:00 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
+! 08:31 - 09:00 | Studied "Collaborative Filtering - Andrew Ng"
++ 09:00 - 10:00 | Studied "Recommend Systems - Andrew Ng"
++ 10:00 - 11:00 | Studied "PCA - Andrew Ng"
 # 11:00 - 12:00 | TBD
 # 12:00 - 13:00 | Lunch
 # 13:00 - 14:00 | TBD
