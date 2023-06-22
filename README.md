@@ -23,9 +23,9 @@ Review of Hours. What I did. Concentration level.
 ! 15:00 - 16:00 | Coffee break, Studied "Reinforcement Learning - Andrew Ng"
 + 16:00 - 17:00 | Studied "Lunar Lander Reinforcement Learning - Andrew Ng"
 + 17:00 - 18:00 | Studied "Continuous State Space - Andrew Ng"
-# 18:00 - 19:00 | 
++ 18:00 - 19:00 | Studied "Finished Machine Learning Specialization - Andrew Ng"
 # 19:00 - 20:00 | Dinner
-# 20:00 - 21:00 | TBD
+# 20:00 - 21:00 | 2000th day with Julia
 # 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
 ```
