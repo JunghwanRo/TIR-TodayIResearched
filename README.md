@@ -27,7 +27,7 @@ Review of Hours. What I did. Concentration level.
 # 19:00 - 20:00 | Dinner
 # 20:00 - 21:00 | Conversation - 2000th day with Julia
 + 21:00 - 22:00 | Researched "Having fun applying ML to 230mm coated data"
-+ 22:00 - 23:00 | Researched "Having fun applying ML to 230mm coated data"
+! 22:00 - 23:00 | Researched "Having fun applying ML to 230mm coated data"
 ```
 
 #### <2023/06/21 WED>
