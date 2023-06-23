@@ -18,9 +18,9 @@ Review of Hours. What I did. Concentration level.
 + 10:00 - 11:00 | Discussion Meeting with Prof. Cedric, Prepare "Trial data Acquisition Same Distance, on long Steel plate/Aluminum Plate"
 + 11:00 - 12:00 | Studied "Introduction to Deep Learning - MIT"
 # 12:00 - 13:00 | Lunch
-+ 13:00 - 14:00 | Plan/Prepare "Trial data Acquisition Same Distance, on long Steel plate/Aluminum Plate"
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
+! 13:00 - 14:00 | Plan/Prepare "Trial data Acquisition Same Distance, on long Steel plate/Aluminum Plate"
++ 14:00 - 15:00 | Plan/Prepare "Trial data Acquisition Same Distance, on long Steel plate/Aluminum Plate"
+! 15:00 - 16:00 | Skimed "Papers about Lamb Wave on Steel plate"
 # 16:00 - 17:00 | TBD
 # 17:00 - 18:00 | TBD
 # 18:00 - 19:00 | Dinner
