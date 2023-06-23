@@ -21,7 +21,7 @@ Review of Hours. What I did. Concentration level.
 ! 13:00 - 14:00 | Plan/Prepare "Trial data Acquisition Same Distance, on long Steel plate/Aluminum Plate"
 + 14:00 - 15:00 | Plan/Prepare "Trial data Acquisition Same Distance, on long Steel plate/Aluminum Plate"
 ! 15:00 - 16:00 | Skimed "Papers about Lamb Wave on Steel plate"
-# 16:00 - 17:00 | TBD
+# 16:00 - 17:00 | Wasted
 # 17:00 - 18:00 | TBD
 # 18:00 - 19:00 | Dinner
 # 19:00 - 20:00 | TBD
