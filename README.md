@@ -15,7 +15,7 @@ Review of Hours. What I did. Concentration level.
 ```diff
 ! 08:30 - 09:00 | Researched "Fun with small data from 0612"
 + 09:00 - 10:00 | Warm up "Exponential - 3Blue1Brown", Search "How people simulate defect on metal plate by adding layer on it"
-+ 10:00 - 11:00 | Discussion Meeting with Prof. Cedric
++ 10:00 - 11:00 | Discussion Meeting with Prof. Cedric, Prepare "Trial data Acquisition Same Distance, on long Steel plate/Aluminum Plate"
 # 11:00 - 12:00 | TBD
 # 12:00 - 13:00 | Lunch
 # 13:00 - 14:00 | TBD
