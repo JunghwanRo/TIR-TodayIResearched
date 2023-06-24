@@ -19,7 +19,7 @@ Laundry, Cleaned, Shopped weekly FOOD...
 + 18:00 - 19:00 | Researched "Experiment on Alumi plate"
 + 19:00 - 20:00 | Researched "Experiment on Alumi plate"
 + 20:00 - 21:00 | Researched "Experiment on Alumi plate"
-# 21:00 - 22:00 | Quick Dinner
+! 21:00 - 22:00 | Quick Dinner, Studied "Graph Greedy Algorithm - Algorithms"
 # 22:00 - 23:00 | TBD
 ```
 
