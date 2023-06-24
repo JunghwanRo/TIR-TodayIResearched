@@ -11,6 +11,18 @@ Review of Hours. What I did. Concentration level.
 
 ### June.
 
+#### <2023/06/24 SAT>
+```diff
+Laundry, Cleaned, Shopped weekly FOOD...
++ 16:00 - 17:00 | Researched "Experiment on long Steel plate"
++ 17:00 - 18:00 | Researched "Experiment on long Steel plate"
++ 18:00 - 19:00 | Researched "Experiment on Alumi plate"
++ 19:00 - 20:00 | Researched "Experiment on Alumi plate"
++ 20:00 - 21:00 | Researched "Experiment on Alumi plate"
+# 21:00 - 22:00 | Quick Dinner
+# 22:00 - 23:00 | TBD
+```
+
 #### <2023/06/23 FRI>
 ```diff
 ! 08:30 - 09:00 | Researched "Fun with small data from 0612"
