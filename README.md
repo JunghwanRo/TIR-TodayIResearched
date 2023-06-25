@@ -18,7 +18,7 @@ Sleep...
 ! 12:00 - 13:00 | Quick Lunch, Studied "Kruskal's Algorithm - Algorithms"
 + 13:00 - 14:00 | Studied "Graph Greedy Algorithm - Algorithms"
 + 14:00 - 15:00 | Studied "Graph Greedy Algorithm - Algorithms"
-# 15:00 - 16:00 | TBD
+# 15:00 - 16:00 | Chat with Julia
 # 16:00 - 17:00 | TBD
 # 17:00 - 18:00 | TBD
 # 18:00 - 19:00 | Dinner
