@@ -16,10 +16,10 @@ Review of Hours. What I did. Concentration level.
 ! 08:30 - 09:00 | Warm up "Calculus - 3Blue1Brown"
 ! 09:00 - 10:00 | How to learn "Needed skill for ML, Google Cloud"
 + 10:00 - 11:00 | Studied "Numpy, Pandas", "Calculus - 3Blue1Brown"
-# 11:00 - 12:00 | TBD
++ 11:00 - 12:00 | Studied "Tensorflow"
 # 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
+! 13:00 - 14:00 | Studied "ML, colab, google cloud"
+! 14:00 - 15:00 | Studied "ML, colab, google cloud"
 # 15:00 - 16:00 | TBD
 # 16:00 - 17:00 | TBD
 # 17:00 - 18:00 | TBD
