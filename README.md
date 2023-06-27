@@ -15,11 +15,11 @@ Review of Hours. What I did. Concentration level.
 ```diff
 ! 08:23 - 09:00 | Prepared "Weekly Meeting, figure"
 + 09:00 - 10:00 | Researched "Wavelet of Aluminium Experiment"
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
-# 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
++ 10:00 - 11:00 | Researched "Wavelet of Aluminium Experiment, Steel Experiment"
++ 11:00 - 12:00 | "Weekly Meeting"
++ 12:00 - 13:00 | "Weekly Meeting"
+# 13:00 - 14:00 | Lunch
+# 14:00 - 15:00 | Lunch (Since PostDoc Cedric Joined)
 # 15:00 - 16:00 | TBD
 # 16:00 - 17:00 | TBD
 # 17:00 - 18:00 | TBD
