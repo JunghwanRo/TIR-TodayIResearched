@@ -20,8 +20,8 @@ Review of Hours. What I did. Concentration level.
 + 12:00 - 13:00 | "Weekly Meeting"
 # 13:00 - 14:00 | Lunch
 # 14:00 - 15:00 | Lunch (Since PostDoc Cedric Joined)
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
++ 15:00 - 16:00 | Researched "ML on steel plate"
+! 16:00 - 17:00 | Researched "ML on steel plate", Discussion "with Cedric le gentil"
 # 17:00 - 18:00 | TBD
 # 18:00 - 19:00 | Dinner
 # 19:00 - 20:00 | TBD
