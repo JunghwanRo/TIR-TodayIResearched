@@ -24,6 +24,7 @@ Review of Hours. What I did. Concentration level.
 ! 16:00 - 17:00 | Studied "SLAM - Udacity"
 + 17:00 - 18:00 | Studied "SLAM - Udacity"
 ! 18:00 - 19:00 | Quick Dinner, Studied "Robotics Software Engineer - Udacity"
++ 19:00 - 20:00 | Studied "Dynamic Programming - Algorithms"
 Tired... Little bit early END
 ```
 
