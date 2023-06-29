@@ -14,7 +14,7 @@ Review of Hours. What I did. Concentration level.
 #### <2023/06/29 THU>
 ```diff
 ! 08:30 - 09:00 | Studied "Dynamic Programming - Algorithms"
-# 09:00 - 10:00 | TBD
++ 09:00 - 10:00 | Warm up "Linear Algebra - 3Blue1Brown", Studied "Dynamic Programming - Algorithms"
 # 10:00 - 11:00 | TBD
 # 11:00 - 12:00 | TBD
 # 12:00 - 13:00 | Lunch
