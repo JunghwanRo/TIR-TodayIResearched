@@ -20,7 +20,7 @@ Review of Hours. What I did. Concentration level.
 # 12:00 - 13:00 | Lunch
 + 13:00 - 14:00 | Literature Review "InceptionTIme & Development of Frequency-Mixed Point-Focusing Shear Horizontal Guided-Wave EMAT for Defect Inspection Using Deep Neural Network"
 + 14:00 - 15:00 | Reading "PoTATO: A Dataset for Analyzing Polarimetric Traces of Afloat Trash Objects"
-# 15:00 - 16:00 | TBD
++ 15:00 - 16:00 | Learned "How to use the GPU Server", Read "PoTATO: A Dataset for Analyzing Polarimetric Traces of Afloat Trash Objects"
 # 16:00 - 17:00 | TBD
 # 17:00 - 18:00 | TBD
 # 18:00 - 19:00 | Dinner
