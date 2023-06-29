@@ -23,11 +23,9 @@ Review of Hours. What I did. Concentration level.
 + 15:00 - 16:00 | Learned "How to use the GPU Server", Read "PoTATO: A Dataset for Analyzing Polarimetric Traces of Afloat Trash Objects"
 ! 16:00 - 17:00 | Got access to "GPU server", Discussion with "Luis"
 ! 17:00 - 18:00 | Reading "InceptionTime", Checked "Grade of Algorithms"
-# 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
+! 18:00 - 19:00 | Reading "InceptionTime"
+# 19:00 - 20:00 | Dinner
+Lab Farewell Party - LUCA
 ```
 
 #### <2023/06/28 WED>
