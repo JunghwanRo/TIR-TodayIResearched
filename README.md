@@ -15,8 +15,8 @@ Review of Hours. What I did. Concentration level.
 ```diff
 ! 08:30 - 09:00 | Studied "Dynamic Programming - Algorithms"
 + 09:00 - 10:00 | Warm up "Linear Algebra - 3Blue1Brown", Studied "Dynamic Programming - Algorithms"
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
++ 10:00 - 11:00 | Reading "Development of Frequency-Mixed Point-Focusing Shear Horizontal Guided-Wave EMAT for Defect Inspection Using Deep Neural Network"
++ 11:00 - 12:00 | Conversation with "Pete", Reading "Development of Frequency-Mixed Point-Focusing Shear Horizontal Guided-Wave EMAT for Defect Inspection Using Deep Neural Network"
 # 12:00 - 13:00 | Lunch
 # 13:00 - 14:00 | TBD
 # 14:00 - 15:00 | TBD
