@@ -18,8 +18,8 @@ Review of Hours. What I did. Concentration level.
 ! 10:00 - 11:00 | Researched "Research Meeting with Prof. Cedric", Warm up "Linear Algebra - Algorithms"
 + 11:00 - 12:00 | Studied "Dynamic Programming - Algorithms"
 # 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
+! 13:00 - 14:00 | Discussion "Assignment Meeting with Classmates - Algorithms", Studied "Intro to Deep Learning"
++ 14:00 - 15:00 | Studied "Intro to Deep Learning"
 # 15:00 - 16:00 | TBD
 # 16:00 - 17:00 | TBD
 # 17:00 - 18:00 | TBD
