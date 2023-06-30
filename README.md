@@ -14,9 +14,9 @@ Review of Hours. What I did. Concentration level.
 #### <2023/06/30 FRI>
 ```diff
 ! 08:35 - 09:00 | Studied "Prepare Assignment Meeting - Algorithms"
-# 09:00 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
++ 09:00 - 10:00 | Prepared "Research Meeting with Prof. Cedric"
+! 10:00 - 11:00 | Researched "Research Meeting with Prof. Cedric", Warm up "Linear Algebra - Algorithms"
++ 11:00 - 12:00 | Studied "Dynamic Programming - Algorithms"
 # 12:00 - 13:00 | Lunch
 # 13:00 - 14:00 | TBD
 # 14:00 - 15:00 | TBD
