@@ -22,7 +22,7 @@ Review of Hours. What I did. Concentration level.
 + 14:00 - 15:00 | Studied "Intro to Deep Learning"
 + 15:00 - 16:00 | Studied "Intro to Deep Learning - Andrew Ng"
 + 16:00 - 17:00 | Studied "Bayes Theorem - 3Blue1Brown", Studied "LeetCode - Python"
-# 17:00 - 18:00 | TBD
++ 17:00 - 18:00 | Studied "Back Propagation - 3Blue1Brown"
 # 18:00 - 19:00 | Dinner
 # 19:00 - 20:00 | TBD
 # 20:00 - 21:00 | TBD
