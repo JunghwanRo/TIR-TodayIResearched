@@ -20,8 +20,8 @@ Review of Hours. What I did. Concentration level.
 # 12:00 - 13:00 | Lunch
 ! 13:00 - 14:00 | Discussion "Assignment Meeting with Classmates - Algorithms", Studied "Intro to Deep Learning"
 + 14:00 - 15:00 | Studied "Intro to Deep Learning"
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
++ 15:00 - 16:00 | Studied "Intro to Deep Learning - Andrew Ng"
++ 16:00 - 17:00 | Studied "LeetCode - Python"
 # 17:00 - 18:00 | TBD
 # 18:00 - 19:00 | Dinner
 # 19:00 - 20:00 | TBD
