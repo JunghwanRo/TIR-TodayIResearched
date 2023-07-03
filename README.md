@@ -15,8 +15,8 @@ Review of Hours. What I did. Concentration level.
 ```diff
 Weekend Totally Wasted...
 ! 09:30 - 10:00 | Studied "Assignment 7/8 - Algorithms"
-# 10:00 - 11:00 | Studied "Assignment 7/8 - Algorithms"
-# 11:00 - 12:00 | TBD
++ 10:00 - 11:00 | Studied "Assignment 7/8 - Algorithms"
++ 11:00 - 12:00 | Studied "Needleman-Wunsch Algorithm - Algorithms"
 # 12:00 - 13:00 | Lunch
 # 13:00 - 14:00 | TBD
 # 14:00 - 15:00 | TBD
