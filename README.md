@@ -11,8 +11,17 @@ Review of Hours. What I did. Concentration level.
 
 ### June.
 
-#### <2023/07/02 SUN>
+#### <2023/07/03 MON>
 ```diff
+Weekend Totally Wasted...
+! 09:30 - 10:00 | Studied "Assignment 7/8 - Algorithms"
+# 10:00 - 11:00 | Studied "Assignment 7/8 - Algorithms"
+# 11:00 - 12:00 | TBD
+# 12:00 - 13:00 | Lunch
+# 13:00 - 14:00 | TBD
+# 14:00 - 15:00 | TBD
+# 15:00 - 16:00 | TBD
+# 16:00 - 17:00 | TBD
 # 17:00 - 18:00 | TBD
 # 18:00 - 19:00 | Dinner
 # 19:00 - 20:00 | TBD
