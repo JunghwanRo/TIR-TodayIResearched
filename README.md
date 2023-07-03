@@ -24,7 +24,7 @@ Weekend Totally Wasted...
 + 16:00 - 17:00 | Studied "Dynamic Programming Assignment - Algorithms"
 ! 17:00 - 18:00 | Studied "Finished Dynamic Programming Assignment - Algorithms"
 # 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
+# 19:00 - 20:00 | Wasted
 # 20:00 - 21:00 | TBD
 # 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
