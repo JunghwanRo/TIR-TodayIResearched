@@ -15,8 +15,8 @@ Review of Hours. What I did. Concentration level.
 ```diff
 ! 08:28 - 09:00 | Researched "Clustering - Aluminium Plate Experiment"
 + 09:00 - 10:00 | Prepared "Weekly Meeting"
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
++ 10:00 - 11:00 | Studied "Logistic Regression as NN" - Andrew Ng"
++ 11:00 - 12:00 | Weekly Meeting
 # 12:00 - 13:00 | Lunch
 # 13:00 - 14:00 | TBD
 # 14:00 - 15:00 | TBD
