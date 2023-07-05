@@ -44,7 +44,7 @@ Today came at 08:20; tomorrow, let's aim at 08:10!
 # 12:00 - 13:00 | Lunch
 + 13:00 - 14:00 | Studied "Finished Week 3 - Shallow Neural Networks - Andrew Ng"
 ! 14:00 - 15:00 | Learned "How to use GPU Server - Aishwarya"
-# 15:00 - 16:00 | TBD
++ 15:00 - 16:00 | Researched "Paper - Development of Frequency-Mixed PF SH Guided-Wave EMAT"
 # 16:00 - 17:00 | TBD
 # 17:00 - 18:00 | TBD
 # 18:00 - 19:00 | Dinner
