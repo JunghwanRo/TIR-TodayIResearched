@@ -7,9 +7,52 @@ Review of Hours. What I did. Concentration level.
 # Gray / NA
 ```
 
+<!--
+#### -TEMPLATE-
+
+#### <YYYY/MM/DD DAY>
+```diff
+# 08:00 - 09:00 | TBD
+# 09:00 - 10:00 | TBD
+# 10:00 - 11:00 | TBD
+# 11:00 - 12:00 | TBD
+# 12:00 - 13:00 | Lunch
+# 13:00 - 14:00 | TBD
+# 14:00 - 15:00 | TBD
+# 15:00 - 16:00 | TBD
+# 16:00 - 17:00 | TBD
+# 17:00 - 18:00 | TBD
+# 18:00 - 19:00 | Dinner
+# 19:00 - 20:00 | TBD
+# 20:00 - 21:00 | TBD
+# 21:00 - 22:00 | TBD
+# 22:00 - 23:00 | TBD
+```
+-->
+
 ## 2023
 
 ### June.
+
+#### <2023/07/05>
+```diff
+Today came at 08:20; tomorrow, let's aim at 08:10!
+# 08:20 - 09:00 | Warm up "Linear Algebra - 3Blue1Brown"
+# 09:00 - 10:00 | TBD
+# 10:00 - 11:00 | TBD
+# 11:00 - 12:00 | TBD
+# 12:00 - 13:00 | Lunch
+# 13:00 - 14:00 | TBD
+# 14:00 - 15:00 | TBD
+# 15:00 - 16:00 | TBD
+# 16:00 - 17:00 | TBD
+# 17:00 - 18:00 | TBD
+# 18:00 - 19:00 | Dinner
+# 19:00 - 20:00 | TBD
+# 20:00 - 21:00 | TBD
+# 21:00 - 22:00 | TBD
+# 22:00 - 23:00 | TBD
+```
 
 #### <2023/07/04 TUE>
 ```diff
@@ -27,7 +70,7 @@ Review of Hours. What I did. Concentration level.
 + 19:00 - 20:00 | Studied "Logistic Regression as NN" - Andrew Ng"
 + 20:00 - 21:00 | Studied "Assignment - Logistic Regression - Andrew Ng"
 + 21:00 - 22:00 | Studied "Finished Week 2 Deep Learning - Andrew Ng"
-# 22:00 - 23:00 | TBD
+From today, sleep early, wake up early!
 ```
 
 #### <2023/07/03 MON>
@@ -338,25 +381,4 @@ REVIEW START!
 + 21:00 - 22:00 | E-mail to RYOSHO(wheel transducer), Studied "Appendix A, Ultrasonic Waves in Solid Media"
 ! 22:00 - 23:00 | ML Basic Course search
 ```
-<!--
-#### -TEMPLATE-
 
-#### <YYYY/MM/DD DAY>
-```diff
-# 08:00 - 09:00 | TBD
-# 09:00 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
-# 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
-# 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
-```
--->
