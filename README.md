@@ -38,7 +38,7 @@ Review of Hours. What I did. Concentration level.
 ```diff
 Today came at 08:20; tomorrow, let's aim at 08:10!
 ! 08:20 - 09:00 | Warm up "Linear Algebra - 3Blue1Brown"
-# 09:00 - 10:00 | TBD
++ 09:00 - 10:00 | Studied "Start Shallow Neural Networks - Andrew Ng"
 # 10:00 - 11:00 | TBD
 # 11:00 - 12:00 | TBD
 # 12:00 - 13:00 | Lunch
