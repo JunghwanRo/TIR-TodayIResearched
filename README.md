@@ -42,7 +42,7 @@ Today came at 08:20; tomorrow, let's aim at 08:10!
 + 10:00 - 11:00 | Studied "Shallow Neural Networks - Andrew Ng"
 + 11:00 - 12:00 | Studied "Shallow Neural Networks - Andrew Ng"
 # 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
++ 13:00 - 14:00 | Studied "Finished Week 3 - Shallow Neural Networks - Andrew Ng"
 # 14:00 - 15:00 | TBD
 # 15:00 - 16:00 | TBD
 # 16:00 - 17:00 | TBD
