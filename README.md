@@ -37,7 +37,7 @@ Review of Hours. What I did. Concentration level.
 #### <2023/07/05>
 ```diff
 Today came at 08:20; tomorrow, let's aim at 08:10!
-# 08:20 - 09:00 | Warm up "Linear Algebra - 3Blue1Brown"
+! 08:20 - 09:00 | Warm up "Linear Algebra - 3Blue1Brown"
 # 09:00 - 10:00 | TBD
 # 10:00 - 11:00 | TBD
 # 11:00 - 12:00 | TBD
