@@ -48,8 +48,8 @@ Today came at 08:20; tomorrow, let's aim at 08:10!
 + 16:00 - 17:00 | Researched "Reproduce Development of Frequency-Mixed PF SH Guided-Wave EMAT - scammed"
 # 17:00 - 18:00 | Wasted
 # 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
+# 19:00 - 20:00 | Wasted
+# 20:00 - 21:00 | Wasted
 # 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
 ```
