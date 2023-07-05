@@ -39,8 +39,8 @@ Review of Hours. What I did. Concentration level.
 Today came at 08:20; tomorrow, let's aim at 08:10!
 ! 08:20 - 09:00 | Warm up "Linear Algebra - 3Blue1Brown"
 + 09:00 - 10:00 | Studied "Start Shallow Neural Networks - Andrew Ng"
-+ 10:00 - 11:00 | Studied "Start Shallow Neural Networks - Andrew Ng"
-+ 11:00 - 12:00 | Studied "Start Shallow Neural Networks - Andrew Ng"
++ 10:00 - 11:00 | Studied "Shallow Neural Networks - Andrew Ng"
++ 11:00 - 12:00 | Studied "Shallow Neural Networks - Andrew Ng"
 # 12:00 - 13:00 | Lunch
 # 13:00 - 14:00 | TBD
 # 14:00 - 15:00 | TBD
