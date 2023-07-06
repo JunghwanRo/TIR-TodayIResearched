@@ -39,10 +39,10 @@ Review of Hours. What I did. Concentration level.
 ! 08:30 - 09:00 | Warm up "Linear Algebra - 3Blue1Brown", Regrade Request for "Module 5/6 - Algorithms"
 + 09:00 - 10:00 | Studied "Deep Neural Network - Andrew Ng"
 ! 10:00 - 11:00 | Studied "Deep Neural Network - Andrew Ng", Checked "LOA on program, Tuition"
-# 11:00 - 12:00 | TBD
++ 11:00 - 12:00 | Studied "Deep Neural Network - Andrew Ng"
 # 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
+# 13:00 - 14:00 | Wasted
+# 14:00 - 15:00 | Wasted
 # 15:00 - 16:00 | TBD
 # 16:00 - 17:00 | TBD
 # 17:00 - 18:00 | TBD
