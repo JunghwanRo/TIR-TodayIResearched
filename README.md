@@ -37,7 +37,7 @@ Review of Hours. What I did. Concentration level.
 #### <2023/07/06 THU>
 ```diff
 ! 08:30 - 09:00 | Warm up "Linear Algebra - 3Blue1Brown", Regrade Request for "Module 5/6 - Algorithms"
-# 09:00 - 10:00 | TBD
++ 09:00 - 10:00 | Studied "Deep Neural Network - Andrew Ng"
 # 10:00 - 11:00 | TBD
 # 11:00 - 12:00 | TBD
 # 12:00 - 13:00 | Lunch
