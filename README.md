@@ -32,9 +32,28 @@ Review of Hours. What I did. Concentration level.
 
 ## 2023
 
-### June.
+### July.
 
-#### <2023/07/05>
+#### <2023/07/06 THU>
+```diff
+! 08:30 - 09:00 | Warm up "Linear Algebra - 3Blue1Brown", Regrade Request for "Module 5/6 - Algorithms"
+# 09:00 - 10:00 | TBD
+# 10:00 - 11:00 | TBD
+# 11:00 - 12:00 | TBD
+# 12:00 - 13:00 | Lunch
+# 13:00 - 14:00 | TBD
+# 14:00 - 15:00 | TBD
+# 15:00 - 16:00 | TBD
+# 16:00 - 17:00 | TBD
+# 17:00 - 18:00 | TBD
+# 18:00 - 19:00 | Dinner
+# 19:00 - 20:00 | TBD
+# 20:00 - 21:00 | TBD
+# 21:00 - 22:00 | TBD
+# 22:00 - 23:00 | TBD
+```
+
+#### <2023/07/05 WED>
 ```diff
 Today came at 08:20; tomorrow, let's aim at 08:10!
 ! 08:20 - 09:00 | Warm up "Linear Algebra - 3Blue1Brown"
@@ -50,8 +69,6 @@ Today came at 08:20; tomorrow, let's aim at 08:10!
 # 18:00 - 19:00 | Dinner
 # 19:00 - 20:00 | Wasted
 # 20:00 - 21:00 | Wasted
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
 ```
 
 #### <2023/07/04 TUE>
@@ -88,6 +105,7 @@ Weekend Totally Wasted...
 # 18:00 - 19:00 | Dinner
 # 19:00 - 20:00 | Wasted
 ```
+### June.
 
 #### <2023/06/30 FRI>
 ```diff
