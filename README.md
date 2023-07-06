@@ -47,7 +47,7 @@ Review of Hours. What I did. Concentration level.
 # 16:00 - 17:00 | Wasted
 # 17:00 - 18:00 | Wasted
 # 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
+# 19:00 - 20:00 | Wasted
 # 20:00 - 21:00 | TBD
 # 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
