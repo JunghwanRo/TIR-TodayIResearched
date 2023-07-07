@@ -39,9 +39,9 @@ Review of Hours. What I did. Concentration level.
 + 08:11 - 09:00 | Prepared "Research Meeting"
 + 09:00 - 10:00 | Prepared "Research Meeting", Warm up "Linear Algebra - 3Blue1Brown"
 ! 10:00 - 11:00 | Researched "Research Meeting"
-+ 11:00 - 12:00 | Studied "Deep Neural Network - Andrew Ng"
++ 11:00 - 12:00 | Studied "Deep Neural Network Quizzes- Andrew Ng"
 # 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
++ 13:00 - 14:00 | Studied "Deep Neural Network Programming - Andrew Ng"
 # 14:00 - 15:00 | TBD
 # 15:00 - 16:00 | TBD
 # 16:00 - 17:00 | TBD
