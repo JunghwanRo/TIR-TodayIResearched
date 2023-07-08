@@ -41,7 +41,7 @@ Laundry, Grocery, etc.
 # 17:00 - 18:00 | Wasted
 # 18:00 - 19:00 | Dinner
 ! 19:00 - 20:00 | Studied "Improving Deep Neural Network Assignment - Andrew Ng"
-# 20:00 - 21:00 | TBD
+# 20:00 - 21:00 | Studied "Finished Improving Deep Neural Network - Andrew Ng"
 # 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
 ```
