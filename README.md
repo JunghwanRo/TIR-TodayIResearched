@@ -37,7 +37,7 @@ Review of Hours. What I did. Concentration level.
 #### <2023/07/09 SUN>
 ```diff
 Regret...
- 20:00 - 21:00 | TBD
+! 20:00 - 21:00 | Warm up "Linear Algebra - 3Blue1Brown"
 # 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
 ```
