@@ -50,8 +50,8 @@ Review of Hours. What I did. Concentration level.
 # 19:00 - 20:00 | Took a Nap
 # 20:00 - 21:00 | Took a Nap
 ! 21:00 - 22:00 | Researched "Reading Inceptiontime"
-# 22:00 - 23:00 | TBD
-# 23:00 - 23:30 | TBD
++ 22:00 - 23:00 | Researched "Reading Inceptiontime"
++ 23:00 - 23:30 | Researched "Reading Inceptiontime"
 ```
 
 #### <2023/07/09 SUN>
