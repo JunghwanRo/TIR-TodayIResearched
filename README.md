@@ -36,8 +36,8 @@ Review of Hours. What I did. Concentration level.
 
 #### <2023/07/10 MON>
 ```diff
-# 08:00 - 09:00 | TBD
-# 09:00 - 10:00 | TBD
+# 08:35 - 09:00 | Booked "Train to Orlean, meeting former Thesis Supervisor"
+! 09:00 - 10:00 | Warm up "Linear Algebra - 3Blue1Brown"
 # 10:00 - 11:00 | TBD
 # 11:00 - 12:00 | TBD
 # 12:00 - 13:00 | Lunch
