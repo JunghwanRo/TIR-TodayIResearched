@@ -39,7 +39,7 @@ Review of Hours. What I did. Concentration level.
 # 08:35 - 09:00 | Booked "Train to Orlean, meeting former Thesis Supervisor"
 ! 09:00 - 10:00 | Warm up "Linear Algebra - 3Blue1Brown"
 + 10:00 - 11:00 | Warm up "Finished Linear Algebra - 3Blue1Brown", Watched "TED ChatGPT - Greg Brockman"
-# 11:00 - 12:00 | TBD
+# 11:00 - 12:00 | Wasted
 # 12:00 - 13:00 | Lunch
 # 13:00 - 14:00 | TBD
 # 14:00 - 15:00 | TBD
