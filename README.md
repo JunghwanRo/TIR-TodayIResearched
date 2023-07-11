@@ -40,7 +40,7 @@ Review of Hours. What I did. Concentration level.
 + 09:00 - 10:00 | Researched "Prepared Time Series Classification - Weekly Meeting"
 + 10:00 - 11:00 | Researched "Prepared Time Series Classification - Weekly Meeting"
 + 11:00 - 12:00 | Weekly Meeting, Researched "Prepared Time Series Classification - Weekly Meeting"
-# 12:00 - 13:00 | Lunch
+! 12:00 - 13:00 | Weekly Meeting, Lunch
 # 13:00 - 14:00 | TBD
 # 14:00 - 15:00 | TBD
 # 15:00 - 16:00 | TBD
