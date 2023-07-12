@@ -41,7 +41,7 @@ Looking around the City Orlean, City of Jeanne d'Arc
 ! 16:00 - 17:00 | Studied "Greedy Algorithm - Abdul Bari", Transfer to Metz
 # 17:00 - 18:00 | Transfer to Metz
 + 18:00 - 19:00 | Studied "Dijkstra Algorithm - Abdul Bari"
-# 19:00 - 20:00 | TBD
+1 19:00 - 20:00 | Studied "Dynamic Programming - Abdul Bari"
 # 20:00 - 21:00 | TBD
 # 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
