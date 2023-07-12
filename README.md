@@ -44,7 +44,7 @@ Looking around the City Orlean, City of Jeanne d'Arc
 ! 19:00 - 20:00 | Studied "Dynamic Programming - Abdul Bari"
 # 20:00 - 21:00 | Dinner
 # 21:00 - 22:00 | Wasted
-# 22:00 - 23:00 | TBD
++ 22:00 - 23:00 | Studied "Hyperparameter Tuning - Andrew Ng"
 ```
 
 #### <2023/07/11 TUE>
