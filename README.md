@@ -48,8 +48,8 @@ Woke up little late
 # 18:00 - 19:00 | Slept
 # 19:00 - 20:00 | Slept
 # 20:00 - 21:00 | Dinner
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
+! 21:00 - 22:00 | Studied "Batch Normalization - Andrew Ng"
++ 22:00 - 23:00 | Studied "Programming Frameworks - Andrew Ng"
 ```
 
 #### <2023/07/12 WED>
