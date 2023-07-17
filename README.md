@@ -46,7 +46,7 @@ Review of Hours. What I did. Concentration level.
 # 14:00 - 15:00 | Wasted
 # 15:00 - 16:00 | Wasted
 ! 16:00 - 17:00 | Studied "Introduction to ML Strategy - Andrew Ng"
-# 17:00 - 18:00 | TBD
++ 17:00 - 18:00 | Studied "Introduction to ML Strategy - Andrew Ng", Sent email to Wheel Transducer, Send email to VIP Project - Autobot
 # 18:00 - 19:00 | Dinner
 # 19:00 - 20:00 | TBD
 # 20:00 - 21:00 | TBD
