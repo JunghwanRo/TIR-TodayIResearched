@@ -36,10 +36,9 @@ Review of Hours. What I did. Concentration level.
 
 #### -TEMPLATE-
 
-#### <YYYY/MM/DD DAY>
+#### <2023/07/17 MON>
 ```diff
-# 08:00 - 09:00 | TBD
-# 09:00 - 10:00 | TBD
+# 08:57 - 10:00 | TBD
 # 10:00 - 11:00 | TBD
 # 11:00 - 12:00 | TBD
 # 12:00 - 13:00 | Lunch
