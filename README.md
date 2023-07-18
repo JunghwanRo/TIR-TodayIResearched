@@ -39,10 +39,10 @@ Review of Hours. What I did. Concentration level.
 ! 08:00 - 09:00 | Studied "Assignment Check FF/Matching Algorithm - Algorithms"
 + 09:00 - 10:00 | Studied "Mismatched and Dev/Test Set - Andrew Ng"
 + 10:00 - 11:00 | Studied "What is time series classification? - IBM Webpage"
-# 11:00 - 12:00 | TBD
++ 11:00 - 12:00 | Weekly Meeting
 # 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
+# 13:00 - 14:00 | Long French Lunch
+# 14:00 - 15:00 | Long French Lunch
 # 15:00 - 16:00 | TBD
 # 16:00 - 17:00 | TBD
 # 17:00 - 18:00 | TBD
