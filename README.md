@@ -51,6 +51,7 @@ Review of Hours. What I did. Concentration level.
 # 20:00 - 21:00 | TBD
 # 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
+```
 
 #### <2023/07/17 MON>
 ```diff
