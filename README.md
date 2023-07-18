@@ -36,6 +36,24 @@ Review of Hours. What I did. Concentration level.
 
 #### -TEMPLATE-
 
+#### <2023/07/18 TUE>
+```diff
+! 08:00 - 09:00 | Studied "Assignment Check FF/Matching Algorithm - Algorithms"
++ 09:00 - 10:00 | Studied "Mismatched and Dev/Test Set - Andrew Ng"
++ 10:00 - 11:00 | Studied "What is time series classification? - IBM Webpage"
+# 11:00 - 12:00 | TBD
+# 12:00 - 13:00 | Lunch
+# 13:00 - 14:00 | TBD
+# 14:00 - 15:00 | TBD
+# 15:00 - 16:00 | TBD
+# 16:00 - 17:00 | TBD
+# 17:00 - 18:00 | TBD
+# 18:00 - 19:00 | Dinner
+# 19:00 - 20:00 | TBD
+# 20:00 - 21:00 | TBD
+# 21:00 - 22:00 | TBD
+# 22:00 - 23:00 | TBD
+
 #### <2023/07/17 MON>
 ```diff
 + 08:57 - 10:00 | Studied "Ford Fulkerson Algorithm - Algorithms"
@@ -48,10 +66,9 @@ Review of Hours. What I did. Concentration level.
 ! 16:00 - 17:00 | Studied "Introduction to ML Strategy - Andrew Ng"
 + 17:00 - 18:00 | Studied "Introduction to ML Strategy - Andrew Ng", Sent email to Wheel Transducer, Send email to VIP Project - Autobot
 # 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
++ 19:00 - 20:00 | Studied "Introduction to ML Strategy - Andrew Ng"
++ 20:00 - 21:00 | Studied "Error Analysis - Andrew Ng"
+Went home at 2100
 ```
 
 #### <2023/07/14 FRI>
