@@ -34,8 +34,6 @@ Review of Hours. What I did. Concentration level.
 
 ### July.
 
-#### -TEMPLATE-
-
 #### <2023/07/18 TUE>
 ```diff
 ! 08:00 - 09:00 | Studied "Assignment Check FF/Matching Algorithm - Algorithms"
