@@ -46,8 +46,8 @@ Severe Eye(Left) Pain...
 + 16:00 - 17:00 | Studied "Brief-introduction-to-time-series-classification-algorithms - TDS"
 + 17:00 - 18:00 | Studied "Recurrent Neural Networks, Transformers, and Attention - MIT"
 # 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
+# 19:00 - 20:00 | Wasted
+! 20:00 - 21:00 | Studied "HIVE-COTE - TDS"
 # 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
 ```
