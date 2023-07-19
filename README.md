@@ -48,8 +48,8 @@ Severe Eye(Left) Pain...
 # 18:00 - 19:00 | Dinner
 # 19:00 - 20:00 | Wasted
 ! 20:00 - 21:00 | Studied "HIVE-COTE - TDS"
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
++ 21:00 - 22:00 | Studied "HIVE-COTE, ROCKET - TDS"
+! 22:00 - 23:00 | Studied "ROCKET - TDS", Came back home
 ```
 
 #### <2023/07/18 TUE>
