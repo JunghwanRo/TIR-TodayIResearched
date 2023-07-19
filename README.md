@@ -42,7 +42,7 @@ Severe Eye(Left) Pain...
 # 12:00 - 13:00 | Lunch
 ! 13:00 - 14:00 | Studied "Tried Time Series Classification API - IBM"
 + 14:00 - 15:00 | Studied "Tried Time Series Classification API - IBM / Not Useful"
-# 15:00 - 16:00 | TBD
++ 15:00 - 16:00 | Studied "Time Series Classification - TDS"
 # 16:00 - 17:00 | TBD
 # 17:00 - 18:00 | TBD
 # 18:00 - 19:00 | Dinner
