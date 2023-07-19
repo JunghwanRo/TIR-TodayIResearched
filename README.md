@@ -44,7 +44,7 @@ Severe Eye(Left) Pain...
 + 14:00 - 15:00 | Studied "Tried Time Series Classification API - IBM / Not Useful"
 + 15:00 - 16:00 | Studied "Time Series Classification - TDS"
 + 16:00 - 17:00 | Studied "Brief-introduction-to-time-series-classification-algorithms - TDS"
-# 17:00 - 18:00 | TBD
++ 17:00 - 18:00 | Studied "Recurrent Neural Networks, Transformers, and Attention - MIT"
 # 18:00 - 19:00 | Dinner
 # 19:00 - 20:00 | TBD
 # 20:00 - 21:00 | TBD
