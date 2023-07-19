@@ -38,9 +38,9 @@ Review of Hours. What I did. Concentration level.
 Severe Eye(Left) Pain...
 ! 09:19 - 10:00 | Studied "Final confirm M0910 assignment - Algorithms"
 ! 10:00 - 11:00 | Studied "Little French", Studied "Time Series Classification - IBM"
-# 11:00 - 12:00 | TBD
+# 11:00 - 12:00 | Wasted
 # 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
+! 13:00 - 14:00 | Studied "Tried Time Series Classification API - IBM"
 # 14:00 - 15:00 | TBD
 # 15:00 - 16:00 | TBD
 # 16:00 - 17:00 | TBD
