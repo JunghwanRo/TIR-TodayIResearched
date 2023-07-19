@@ -50,6 +50,7 @@ Severe Eye(Left) Pain...
 ! 20:00 - 21:00 | Studied "HIVE-COTE - TDS"
 + 21:00 - 22:00 | Studied "HIVE-COTE, ROCKET - TDS"
 ! 22:00 - 23:00 | Studied "ROCKET - TDS", Came back home
++ 23:00 - 23:40 | Studied "Retake Structuring Machine Learning Projects Quiz - Andrew Ng"
 ```
 
 #### <2023/07/18 TUE>
