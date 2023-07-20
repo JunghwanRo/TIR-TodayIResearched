@@ -48,7 +48,7 @@ Little Eye(Left) Pain.
 ! 17:00 - 18:00 | Quick Dinner, "Dynamic Programming introduction - Abdul Bari"
 # 18:00 - 19:00 | Wasted
 + 19:00 - 20:00 | Studied "MultiStage Graph Dynamic Programming - Abdul Bari"
-# 20:00 - 21:00 | TBD
+! 20:00 - 21:00 | Studied "BFS DFS Graph Search - Abdul Bari", Short Walk around Campus
 # 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
 ```
