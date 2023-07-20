@@ -46,7 +46,7 @@ Little Eye(Left) Pain.
 + 15:00 - 16:00 | Research Meeting
 # 16:00 - 17:00 | Wasted
 ! 17:00 - 18:00 | Quick Dinner, "Dynamic Programming introduction - Abdul Bari"
-# 18:00 - 19:00 | TBD
+# 18:00 - 19:00 | Wasted
 # 19:00 - 20:00 | TBD
 # 20:00 - 21:00 | TBD
 # 21:00 - 22:00 | TBD
