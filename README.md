@@ -69,7 +69,8 @@ Little Eye(Left) Pain.
 + 19:00 - 20:00 | Studied "MultiStage Graph Dynamic Programming - Abdul Bari"
 ! 20:00 - 21:00 | Studied "BFS DFS Graph Search - Abdul Bari", Short Walk around Campus
 ! 21:00 - 22:00 | Prepared "Midterm2 Documents- Algorithms"
-! 22:00 - 23:00 | Prepared "Midterm2 Documents- Algorithms", came home
+# 22:00 - 23:00 | Came home
+! 23:00 - 24:00 | Studied "Floyd-Warshall Dynamic Programming - Abdul Bari"
 ```
 
 #### <2023/07/19 WED>
