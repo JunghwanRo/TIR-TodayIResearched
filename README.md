@@ -41,7 +41,7 @@ Little Eye(Left) Pain.
 + 10:00 - 11:00 | Studied "ROCKET, MiniRocket - TDS"
 + 11:00 - 12:00 | Researched "InceptionTime Run"
 # 12:00 - 13:00 | Lunch
-+ 13:00 - 14:00 | TBD
++ 13:00 - 14:00 | Researched "Setting machine, tensorflow-gpu and CUDA"
 # 14:00 - 15:00 | TBD
 # 15:00 - 16:00 | TBD
 # 16:00 - 17:00 | TBD
