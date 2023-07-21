@@ -36,8 +36,8 @@ Review of Hours. What I did. Concentration level.
 
 #### <2023/07/21 FRI>
 ```diff
-# 08:00 - 09:00 | TBD
-# 09:00 - 10:00 | TBD
+Woke up late...
+# 09:44 - 10:00 | TBD
 # 10:00 - 11:00 | TBD
 # 11:00 - 12:00 | TBD
 # 12:00 - 13:00 | Lunch
