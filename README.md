@@ -50,7 +50,7 @@ Woke up late...
 # 19:00 - 20:00 | Wasted
 # 20:00 - 21:00 | Wasted
 # 21:00 - 22:00 | Wasted
-# 22:00 - 23:00 | TBD
++ 22:00 - 23:00 | Studied "Midterm2 Key Takeaways - Algorithms"
 ```
 
 #### <2023/07/20 THU>
