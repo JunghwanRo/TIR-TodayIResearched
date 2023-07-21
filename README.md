@@ -38,7 +38,7 @@ Review of Hours. What I did. Concentration level.
 ```diff
 Woke up late...
 ! 09:44 - 10:00 | Studied "Retake the quiz Convolutional Neural Network - Andrew Ng"
-# 10:00 - 11:00 | TBD
+! 10:00 - 11:00 | Studied "Midterm2 Key Takeaways - Algorithms"
 # 11:00 - 12:00 | TBD
 # 12:00 - 13:00 | Lunch
 # 13:00 - 14:00 | TBD
