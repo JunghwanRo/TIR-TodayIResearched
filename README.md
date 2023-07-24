@@ -37,11 +37,11 @@ Review of Hours. What I did. Concentration level.
 #### <2023/07/24 MON>
 ```diff
 + 02:00 - 09:00 | Studied "Prepared Midterm2 - Algorithms"
-+ 03:00 - 04:00 | Took "Midtern2 - Algorithms"
-+ 14:00 - 05:00 | Took "Midtern2 - Algorithms"
-+ 05:00 - 06:00 | Took "Midtern2 - Algorithms"
-Slept...
-# 13:00 - 14:00 | Lunch
++ 03:00 - 04:00 | Took "Midterm2 - Algorithms"
++ 14:00 - 05:00 | Took "Midterm2 - Algorithms"
++ 05:00 - 06:00 | Took "Midterm2 - Algorithms"
+Nap after Exam...
+# 13:00 - 14:00 | Campus, Lunch
 # 14:00 - 15:00 | TBD
 # 15:00 - 16:00 | TBD
 # 16:00 - 17:00 | TBD
@@ -55,40 +55,25 @@ Slept...
 
 #### <2023/07/23 SUN>
 ```diff
-# 08:00 - 09:00 | TBD
-# 09:00 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
-# 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
+Sunday... little rest
+# 17:00 - 18:00 | Studied "Huffman Coding - Algorithms"
 # 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
+# 19:00 - 20:00 | Studied "Heaps, MST - Algorithms"
+# 20:00 - 21:00 | Studied "Sequence Alignment - Algorithms"
+# 21:00 - 22:00 | Studied "Made an allowed sheet - Algorithms"
+# 22:00 - 23:00 | Studied "Intro to Dynamic Programming - Algorithms"
+# 23:00 - 24:00 | Studied "HW, Recite, Practice Exam - Algorithms"
 ```
 
 #### <2023/07/22 SAT>
 ```diff
-# 08:00 - 09:00 | TBD
-# 09:00 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
-# 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
+Laundry, Shopping, Recharge...
+# 17:00 - 18:00 | Studied "Greedy Algorithm - Abdul Bari"
 # 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
++ 19:00 - 20:00 | Studied "Graphs and Graph Traversals - Algorithms"
+# 20:00 - 21:00 | Studied "Prim Algorithm - Abdul Bari"
+# 21:00 - 22:00 | Studied "Overall Key Takeaways - Algorithms"
+# 22:00 - 23:00 | Studied "Intro to Greedy Algorithms - Algorithms"
 ```
 
 #### <2023/07/21 FRI>
