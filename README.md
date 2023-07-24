@@ -42,7 +42,7 @@ Review of Hours. What I did. Concentration level.
 + 05:00 - 06:00 | Took "Midterm2 - Algorithms"
 Nap after Exam...
 # 13:00 - 14:00 | Campus, Lunch
-# 14:00 - 15:00 | TBD
+# 14:00 - 15:00 | Wasted
 # 15:00 - 16:00 | TBD
 # 16:00 - 17:00 | TBD
 # 17:00 - 18:00 | TBD
