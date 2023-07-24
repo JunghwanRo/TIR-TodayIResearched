@@ -56,24 +56,24 @@ Nap after Exam...
 #### <2023/07/23 SUN>
 ```diff
 Sunday... little rest
-# 17:00 - 18:00 | Studied "Huffman Coding - Algorithms"
++ 17:00 - 18:00 | Studied "Huffman Coding - Algorithms"
 # 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | Studied "Heaps, MST - Algorithms"
-# 20:00 - 21:00 | Studied "Sequence Alignment - Algorithms"
-# 21:00 - 22:00 | Studied "Made an allowed sheet - Algorithms"
-# 22:00 - 23:00 | Studied "Intro to Dynamic Programming - Algorithms"
-# 23:00 - 24:00 | Studied "HW, Recite, Practice Exam - Algorithms"
++ 19:00 - 20:00 | Studied "Heaps, MST - Algorithms"
++ 20:00 - 21:00 | Studied "Sequence Alignment - Algorithms"
++ 21:00 - 22:00 | Studied "Made an allowed sheet - Algorithms"
++ 22:00 - 23:00 | Studied "Intro to Dynamic Programming - Algorithms"
++ 23:00 - 24:00 | Studied "HW, Recite, Practice Exam - Algorithms"
 ```
 
 #### <2023/07/22 SAT>
 ```diff
 Laundry, Shopping, Recharge...
-# 17:00 - 18:00 | Studied "Greedy Algorithm - Abdul Bari"
++ 17:00 - 18:00 | Studied "Greedy Algorithm - Abdul Bari"
 # 18:00 - 19:00 | Dinner
 + 19:00 - 20:00 | Studied "Graphs and Graph Traversals - Algorithms"
-# 20:00 - 21:00 | Studied "Prim Algorithm - Abdul Bari"
-# 21:00 - 22:00 | Studied "Overall Key Takeaways - Algorithms"
-# 22:00 - 23:00 | Studied "Intro to Greedy Algorithms - Algorithms"
++ 20:00 - 21:00 | Studied "Prim Algorithm - Abdul Bari"
++ 21:00 - 22:00 | Studied "Overall Key Takeaways - Algorithms"
++ 22:00 - 23:00 | Studied "Intro to Greedy Algorithms - Algorithms"
 ```
 
 #### <2023/07/21 FRI>
