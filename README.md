@@ -12,12 +12,12 @@ Review of Hours. What I did. Concentration level.
 
 #### <YYYY/MM/DD DAY>
 ```diff
-+ 02:00 - 09:00 | Studied "Prepared Midterm2 - Algorithms"
-+ 03:00 - 04:00 | Took "Midtern2 - Algorithms"
-+ 14:00 - 05:00 | Took "Midtern2 - Algorithms"
-+ 05:00 - 06:00 | Took "Midtern2 - Algorithms"
-Slept...
-# 13:00 - 14:00 | Lunch
+# 08:00 - 09:00 | TBD
+# 09:00 - 10:00 | TBD
+# 10:00 - 11:00 | TBD
+# 11:00 - 12:00 | TBD
+# 12:00 - 13:00 | Lunch
+# 13:00 - 14:00 | TBD
 # 14:00 - 15:00 | TBD
 # 15:00 - 16:00 | TBD
 # 16:00 - 17:00 | TBD
@@ -36,12 +36,12 @@ Slept...
 
 #### <2023/07/24 MON>
 ```diff
-# 08:00 - 09:00 | TBD
-# 09:00 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
-# 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
++ 02:00 - 09:00 | Studied "Prepared Midterm2 - Algorithms"
++ 03:00 - 04:00 | Took "Midtern2 - Algorithms"
++ 14:00 - 05:00 | Took "Midtern2 - Algorithms"
++ 05:00 - 06:00 | Took "Midtern2 - Algorithms"
+Slept...
+# 13:00 - 14:00 | Lunch
 # 14:00 - 15:00 | TBD
 # 15:00 - 16:00 | TBD
 # 16:00 - 17:00 | TBD
