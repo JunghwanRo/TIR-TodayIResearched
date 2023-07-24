@@ -46,7 +46,7 @@ Nap after Exam...
 ! 15:00 - 16:00 | Studied "Assignment Convolutional Neural Network - Andrew Ng"
 ! 16:00 - 17:00 | Studied "Assignment Convolutional Neural Network - Andrew Ng"
 ! 17:00 - 18:00 | Studied "Yann LeCun Interview, Assignment Convolutional Neural Network - Andrew Ng"
-# 18:00 - 19:00 | Dinner
+! 18:00 - 19:00 | Researched "WSL2 Install and learning curve"
 # 19:00 - 20:00 | TBD
 # 20:00 - 21:00 | TBD
 # 21:00 - 22:00 | TBD
