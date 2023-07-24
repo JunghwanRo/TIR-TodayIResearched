@@ -43,7 +43,7 @@ Review of Hours. What I did. Concentration level.
 Nap after Exam...
 # 13:00 - 14:00 | Campus, Lunch
 # 14:00 - 15:00 | Wasted
-# 15:00 - 16:00 | TBD
+! 15:00 - 16:00 | Studied "Assignment Convolutional Neural Network - Andrew Ng"
 # 16:00 - 17:00 | TBD
 # 17:00 - 18:00 | TBD
 # 18:00 - 19:00 | Dinner
