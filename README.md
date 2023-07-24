@@ -36,7 +36,7 @@ Review of Hours. What I did. Concentration level.
 
 #### <2023/07/24 MON>
 ```diff
-+ 02:00 - 09:00 | Studied "Prepared Midterm2 - Algorithms"
++ 02:00 - 03:00 | Studied "Prepared Midterm2 - Algorithms"
 + 03:00 - 04:00 | Took "Midterm2 - Algorithms"
 + 14:00 - 05:00 | Took "Midterm2 - Algorithms"
 + 05:00 - 06:00 | Took "Midterm2 - Algorithms"
