@@ -36,14 +36,11 @@ Review of Hours. What I did. Concentration level.
 
 #### <2023/07/25 TUE>
 ```diff
-# 08:00 - 09:00 | TBD
-# 09:00 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
+# 11:00 - 12:00 | Wasted
 # 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
+# 13:00 - 14:00 | Wasted
+# 14:00 - 15:00 | Wasted
+# 15:00 - 16:00 | Wasted
 # 16:00 - 17:00 | TBD
 # 17:00 - 18:00 | TBD
 # 18:00 - 19:00 | Dinner
