@@ -45,8 +45,8 @@ Review of Hours. What I did. Concentration level.
 + 17:00 - 18:00 | Studied "Intractability - Algorithms"
 + 18:00 - 19:00 | Studied "Intractability - Algorithms"
 # 19:00 - 20:00 | Dinner
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
++ 20:00 - 21:00 | Studied "Prediction and Linear Programming - Algorithms"
++ 21:00 - 22:00 | Studied "Prediction and Linear Programming - Algorithms"
 # 22:00 - 23:00 | TBD
 ```
 
