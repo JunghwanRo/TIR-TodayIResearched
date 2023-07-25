@@ -42,9 +42,9 @@ Review of Hours. What I did. Concentration level.
 # 14:00 - 15:00 | Wasted
 # 15:00 - 16:00 | Wasted
 ! 16:00 - 17:00 | Studied "P-NP Problem - Algorithms"
-# 17:00 - 18:00 | TBD
-# 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
++ 17:00 - 18:00 | Studied "Intractability - Algorithms"
++ 18:00 - 19:00 | Studied "Intractability - Algorithms"
+# 19:00 - 20:00 | Dinner
 # 20:00 - 21:00 | TBD
 # 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
