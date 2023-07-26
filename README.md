@@ -34,6 +34,21 @@ Review of Hours. What I did. Concentration level.
 
 ### July.
 
+#### <2023/07/26 WED>
+```diff
+# 12:00 - 13:00 | Lunch
+! 13:00 - 14:00 | Discussion for boat with Luis
+# 14:00 - 15:00 | Wasted
+# 15:00 - 16:00 | Wasted
+# 16:00 - 17:00 | Wasted
+# 17:00 - 18:00 | TBD
+# 18:00 - 19:00 | Dinner
+# 19:00 - 20:00 | TBD
+# 20:00 - 21:00 | TBD
+# 21:00 - 22:00 | TBD
+# 22:00 - 23:00 | TBD
+```
+
 #### <2023/07/25 TUE>
 ```diff
 Sleep Cycle Fucked up by yesterday Midterm
@@ -48,7 +63,6 @@ Sleep Cycle Fucked up by yesterday Midterm
 # 19:00 - 20:00 | Dinner
 + 20:00 - 21:00 | Studied "Prediction and Linear Programming - Algorithms"
 + 21:00 - 22:00 | Studied "Prediction and Linear Programming - Algorithms"
-# 22:00 - 23:00 | TBD
 ```
 
 #### <2023/07/24 MON>
