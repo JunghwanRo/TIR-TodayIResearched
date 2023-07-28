@@ -46,8 +46,8 @@ JULIA Coming :)
 #### <2023/07/28 FRI>
 ```diff
 # 12:00 - 13:00 | Free Lunch~
-+ 13:00 - 14:00 | Studied "11/12 Assignment - Algorithms", Studied "Robotics - 2 minute papers"
-# 14:00 - 15:00 | TBD
++ 13:00 - 14:00 | Studied "11/12 Assignment - Algorithms", Watched "Robotics - 2 minute papers"
+! 14:00 - 15:00 | Watched "Robotics - 2 minute papers"
 # 15:00 - 16:00 | TBD
 # 16:00 - 17:00 | TBD
 # 17:00 - 18:00 | TBD
