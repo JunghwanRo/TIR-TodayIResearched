@@ -72,7 +72,7 @@ Sick...Air Conditioner?
 # 13:00 - 14:00 | Wasted
 + 14:00 - 15:00 | Studied "Practical Time Series Analysis - Aileen Nielsen"
 + 15:00 - 16:00 | Studied "Introduction to Time Series Mining - Keogh Eamonn"
-# 16:00 - 17:00 | Wasted
+! 16:00 - 17:00 | Studied "Introduction to Time Series Mining - Keogh Eamonn"
 # 17:00 - 18:00 | TBD
 ! 18:00 - 19:00 | Quick Dinner, Studied "Practical Time Series Analysis - Aileen Nielsen"
 ```
