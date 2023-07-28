@@ -57,12 +57,12 @@ Review of Hours. What I did. Concentration level.
 ```diff
 Sick...Air Conditioner?
 # 12:00 - 13:00 | Free Lunch! 
-# 13:00 - 14:00 | TBD
+# 13:00 - 14:00 | Wasted
 # 14:00 - 15:00 | TBD
 # 15:00 - 16:00 | TBD
 # 16:00 - 17:00 | TBD
 # 17:00 - 18:00 | TBD
-# 18:00 - 19:00 | Dinner
+! 18:00 - 19:00 | Quick Dinner, Studied "Practical Time Series Analysis - Aileen Nielsen"
 ```
 
 #### <2023/07/26 WED>
