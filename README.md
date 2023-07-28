@@ -34,7 +34,27 @@ Review of Hours. What I did. Concentration level.
 
 ### July.
 
-#### <2023/07/18 FRI>
+#### <2023/07/29 SAT>
+```diff
+# 08:00 - 09:00 | TBD
+# 09:00 - 10:00 | TBD
+# 10:00 - 11:00 | TBD
+# 11:00 - 12:00 | TBD
+JULIA Coming :)
+# 12:00 - 13:00 | Lunch
+# 13:00 - 14:00 | TBD
+# 14:00 - 15:00 | TBD
+# 15:00 - 16:00 | TBD
+# 16:00 - 17:00 | TBD
+# 17:00 - 18:00 | TBD
+# 18:00 - 19:00 | Dinner
+# 19:00 - 20:00 | TBD
+# 20:00 - 21:00 | TBD
+# 21:00 - 22:00 | TBD
+# 22:00 - 23:00 | TBD
+```
+
+#### <2023/07/28 FRI>
 ```diff
 # 12:00 - 13:00 | Free Lunch~
 # 13:00 - 14:00 | TBD
@@ -45,7 +65,7 @@ Review of Hours. What I did. Concentration level.
 # 18:00 - 19:00 | Free Dinner~
 ```
 
-#### <2023/07/17 THU>
+#### <2023/07/27 THU>
 ```diff
 Sick...Air Conditioner?
 # 12:00 - 13:00 | Free Lunch! 
