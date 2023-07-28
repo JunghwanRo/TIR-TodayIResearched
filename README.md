@@ -50,7 +50,7 @@ Review of Hours. What I did. Concentration level.
 Sick...Air Conditioner?
 # 12:00 - 13:00 | Free Lunch! 
 # 13:00 - 14:00 | Wasted
-# 14:00 - 15:00 | TBD
++ 14:00 - 15:00 | Studied "Practical Time Series Analysis - Aileen Nielsen"
 # 15:00 - 16:00 | TBD
 # 16:00 - 17:00 | Wasted
 # 17:00 - 18:00 | TBD
