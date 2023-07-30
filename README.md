@@ -57,10 +57,12 @@ Review of Hours. What I did. Concentration level.
 ```diff
 JULIA...
 + 22:00 - 23:00 | Studied "11/12 Assignment - Algorithms"
++ 23:00 - 24:00 | Studied "11/12 Assignment - Algorithms"
 ```
 
 #### <2023/07/29 SAT>
 ```diff
++ 11:00 - 12:00 | Studied "11/12 Assignment - Algorithms"
 JULIA Coming :)
 Time with Lab members family
 ```
