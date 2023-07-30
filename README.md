@@ -34,6 +34,11 @@ Review of Hours. What I did. Concentration level.
 
 ### July.
 
+#### <2023/07/30 SUN>
+```diff
+JULIA
+```
+
 #### <2023/07/29 SAT>
 ```diff
 JULIA Coming :)
