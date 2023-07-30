@@ -56,6 +56,7 @@ Review of Hours. What I did. Concentration level.
 #### <2023/07/30 SUN>
 ```diff
 JULIA...
++ 22:00 - 23:00 | Studied "11/12 Assignment - Algorithms"
 ```
 
 #### <2023/07/29 SAT>
