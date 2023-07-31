@@ -42,7 +42,7 @@ Review of Hours. What I did. Concentration level.
 # 14:00 - 15:00 | Lunch, Coffee
 + 15:00 - 16:00 | Studied "Go with weighted Majority - Algorithms"
 + 16:00 - 17:00 | Studied "Go with weighted Majority - Algorithms"
-# 17:00 - 18:00 | TBD
+# 17:00 - 18:00 | Shopping in CORA
 # 18:00 - 19:00 | Dinner
 # 19:00 - 20:00 | TBD
 # 20:00 - 21:00 | TBD
