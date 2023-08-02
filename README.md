@@ -38,7 +38,7 @@ Review of Hours. What I did. Concentration level.
 ```diff
 # 12:00 - 13:00 | Lunch
 # 13:00 - 14:00 | Coffee
-# 14:00 - 15:00 | TBD
+! 14:00 - 15:00 | Saw "Robogami - Jamie Park"
 # 15:00 - 16:00 | TBD
 # 16:00 - 17:00 | TBD
 # 17:00 - 18:00 | TBD
