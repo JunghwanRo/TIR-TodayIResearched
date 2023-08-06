@@ -62,9 +62,9 @@ Review of Hours. What I did. Concentration level.
 # 16:00 - 17:00 | Mr. Shin, Salim
 # 17:00 - 18:00 | Mr. Shin, Salim
 # 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | Mr. Shin, Salim
-# 20:00 - 21:00 | Mr. Shin, Salim
-# 21:00 - 22:00 | Mr. Shin, Salim
+# 19:00 - 20:00 | Mr. Shin
+# 20:00 - 21:00 | Mr. Shin
+# 21:00 - 22:00 | Mr. Shin
 + 22:00 - 23:00 | Studied "8 algorithms for TSC - Medium"
 ! 23:00 - 24:00 | Studied "8 algorithms for TSC - Medium"
 ```
