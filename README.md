@@ -36,21 +36,47 @@ Review of Hours. What I did. Concentration level.
 
 #### <2023/08/06 SUN>
 ```diff
-# 08:00 - 09:00 | TBD
-# 09:00 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
++ 09:00 - 10:00 | Studied "Meething for Assignment 13 - Algorithms"
+! 10:00 - 11:00 | Studied "Deep Learning for Time Series - Medium"
+! 11:00 - 12:00 | Studied "Deep Learning for Time Series - Medium"
 # 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
-# 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
+# 13:00 - 14:00 | Pyramid
+# 14:00 - 15:00 | Pyramid
++ 15:00 - 16:00 | Studied "Introduction to Time Series Mining - Keogh Eamonn"
++ 16:00 - 17:00 | Studied "Introduction to Time Series Mining - Keogh Eamonn"
+! 17:00 - 18:00 | Studied "Introduction to Time Series Mining - Keogh Eamonn"
+# 18:00 - 19:00 | Back to Metz
++ 19:00 - 20:00 | Studied "Introduction to Time Series Mining - Keogh Eamonn"
 # 20:00 - 21:00 | TBD
 # 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
+```
+
+#### <2023/08/05 SAT>
+```diff
+# 11:00 - 12:00 | Studied 
+# 12:00 - 13:00 | Lunch
+# 13:00 - 14:00 | Mr. Shin, Salim
+# 14:00 - 15:00 | Mr. Shin, Salim
+# 15:00 - 16:00 | Mr. Shin, Salim
+# 16:00 - 17:00 | Mr. Shin, Salim
+# 17:00 - 18:00 | Mr. Shin, Salim
+# 18:00 - 19:00 | Dinner
+# 19:00 - 20:00 | Mr. Shin, Salim
+# 20:00 - 21:00 | Mr. Shin, Salim
+# 21:00 - 22:00 | Mr. Shin, Salim
++ 22:00 - 23:00 | Studied "8 algorithms for TSC - Medium"
+! 23:00 - 24:00 | Studied "8 algorithms for TSC - Medium"
+```
+
+#### <2023/08/04 FRI>
+```diff
+# 18:00 - 19:00 | Dinner
+# 19:00 - 20:00 | Move to Paris
+# 20:00 - 21:00 | Move to Paris
+# 21:00 - 22:00 | Move to Paris
+# 22:00 - 23:00 | Meet Mr.Shin
++ 23:00 - 24:00 | Studied "NP and LP - Algorithms"
 ```
 
 #### <2023/08/02 WED>
