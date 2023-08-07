@@ -41,9 +41,9 @@ Review of Hours. What I did. Concentration level.
 + 11:00 - 12:00 | Researched "Making Intro to TSC ppt"
 + 12:00 - 13:00 | Researched "Making Intro to TSC ppt"
 + 13:00 - 14:00 | Researched "Making Intro to TSC ppt"
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
++ 14:00 - 15:00 | Researched "Making Intro to TSC ppt"
+! 15:00 - 16:00 | Studied "InceptionTime - Medium"
++ 16:00 - 17:00 | Studied "Convolutional Neural Networks - Andrew Ng"
 # 17:00 - 18:00 | TBD
 # 18:00 - 19:00 | Dinner
 # 19:00 - 20:00 | TBD
