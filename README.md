@@ -39,13 +39,13 @@ Review of Hours. What I did. Concentration level.
 
 #### <2023/08/08 TUE>
 ```diff
-# 09:10 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
-# 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
++ 09:10 - 10:00 | Researched "Making Intro to TSC ppt"
++ 10:00 - 11:00 | Researched "Making Intro to TSC ppt"
++ 11:00 - 12:00 | Weekly Meeting
+! 12:00 - 13:00 | Weekly Meeting, Lunch
+# 13:00 - 14:00 | Lunch
++ 14:00 - 15:00 | Researched "Running InceptionTime on GPU Server"
+! 15:00 - 16:00 | Researched "Running InceptionTime on GPU Server"
 # 16:00 - 17:00 | TBD
 # 17:00 - 18:00 | TBD
 # 18:00 - 19:00 | Dinner
