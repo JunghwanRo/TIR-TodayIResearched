@@ -33,9 +33,24 @@ Review of Hours. What I did. Concentration level.
 
 ## 2023
 
-### July.
+### August.
 
-#### -TEMPLATE-
+#### <2023/08/08 WED>
+```diff
+# 10:20 - 11:00 | TBD
+# 11:00 - 12:00 | TBD
+# 12:00 - 13:00 | Lunch
+# 13:00 - 14:00 | TBD
+# 14:00 - 15:00 | TBD
+# 15:00 - 16:00 | TBD
+# 16:00 - 17:00 | TBD
+# 17:00 - 18:00 | TBD
+# 18:00 - 19:00 | Dinner
+# 19:00 - 20:00 | TBD
+# 20:00 - 21:00 | TBD
+# 21:00 - 22:00 | TBD
+# 22:00 - 23:00 | TBD
+```
 
 #### <2023/08/08 TUE>
 ```diff
@@ -51,8 +66,8 @@ Review of Hours. What I did. Concentration level.
 ! 18:00 - 19:00 | Researched "Making Intro to TSC ppt"
 # 19:00 - 20:00 | Dinner
 # 20:00 - 21:00 | Shop for BBQ
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
++ 21:00 - 22:00 | Researched "Running MINIROCKET"
+! 22:00 - 22:30 | Researched "Running MINIROCKET"
 ```
 
 #### <2023/08/07 MON>
@@ -136,6 +151,8 @@ Review of Hours. What I did. Concentration level.
 # 18:00 - 19:00 | Farewell Julia, come back campus
 # 19:00 - 20:00 | Dinner
 ```
+
+### July.
 
 #### <2023/07/31 MON>
 ```diff
