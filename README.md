@@ -35,6 +35,26 @@ Review of Hours. What I did. Concentration level.
 
 ### August.
 
+#### <2023/08/10 FRI>
+```diff
++ 07:20 - 08:00 | Researched "Various Algorithms on UCR Dataset"
++ 08:00 - 09:00 | Researched "Various Algorithms on UCR Dataset"
++ 09:00 - 10:00 | Researched "Data Loading MiniRocket"
+# 10:00 - 11:00 | TBD
+# 11:00 - 12:00 | TBD
+# 12:00 - 13:00 | Lunch
+# 13:00 - 14:00 | TBD
+# 14:00 - 15:00 | TBD
+# 15:00 - 16:00 | TBD
+# 16:00 - 17:00 | TBD
+# 17:00 - 18:00 | TBD
+# 18:00 - 19:00 | Dinner
+# 19:00 - 20:00 | TBD
+# 20:00 - 21:00 | TBD
+# 21:00 - 22:00 | TBD
+# 22:00 - 23:00 | TBD
+```
+
 #### <2023/08/09 THU>
 ```diff
 ! 10:20 - 11:00 | Researched "Data Loading - UltraTest"
@@ -47,9 +67,9 @@ Review of Hours. What I did. Concentration level.
 # 17:00 - 18:00 | Wasted
 # 18:00 - 19:00 | Dinner
 # 19:00 - 20:00 | Wasted
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
+! 20:00 - 21:00 | Researched "Various Algorithms on UCR Dataset"
++ 21:00 - 22:00 | Researched "Various Algorithms on UCR Dataset"
++ 22:00 - 23:00 | Researched "Various Algorithms on UCR Dataset"
 ```
 
 #### <2023/08/08 WED>
