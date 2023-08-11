@@ -43,9 +43,9 @@ Review of Hours. What I did. Concentration level.
 + 10:00 - 11:00 | Research Meeting
 # 11:00 - 12:00 | Moved to DreamLab
 # 12:00 - 13:00 | Moved to DreamLab
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
+! 13:00 - 14:00 | Robotics Possible Start ups joining with Oceanography
+! 14:00 - 15:00 | Studied "Deep Convolutional Model - Andrew Ng"
++ 15:00 - 16:00 | Studied "Deep Convolutional Model - Andrew Ng"
 # 16:00 - 17:00 | TBD
 # 17:00 - 18:00 | TBD
 # 18:00 - 19:00 | Dinner
