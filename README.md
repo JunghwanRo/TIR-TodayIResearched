@@ -47,9 +47,9 @@ Review of Hours. What I did. Concentration level.
 ! 14:00 - 15:00 | Studied "Deep Convolutional Model - Andrew Ng"
 + 15:00 - 16:00 | Studied "Deep Convolutional Model - Andrew Ng"
 + 16:00 - 17:00 | Studied "Deep Convolutional Model - Andrew Ng", Studied "Final, Key Takeaways - Algorithms"
-# 17:00 - 18:00 | TBD
+! 17:00 - 18:00 | Studied "Final, Key Takeaways - Algorithms"
 # 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
+! 19:00 - 20:00 | Researched "2023 Dream Lab Papers abstract and conclusion"
 # 20:00 - 21:00 | TBD
 # 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
