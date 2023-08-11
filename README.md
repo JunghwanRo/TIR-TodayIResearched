@@ -50,9 +50,9 @@ Review of Hours. What I did. Concentration level.
 ! 17:00 - 18:00 | Studied "Final, Key Takeaways - Algorithms"
 # 18:00 - 19:00 | Dinner
 ! 19:00 - 20:00 | Researched "2023 Dream Lab Papers abstract and conclusion"
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
+! 20:00 - 21:00 | Researched "2023 Dream Lab Papers abstract and conclusion"
+# 21:00 - 22:00 | Applied for CAF
+# 22:00 - 22:30 | Applied for CAF
 ```
 
 #### <2023/08/09 THU>
