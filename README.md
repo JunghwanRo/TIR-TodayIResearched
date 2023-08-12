@@ -38,8 +38,8 @@ Review of Hours. What I did. Concentration level.
 #### <2023/08/11 SAT>
 ```diff
 + 17:20 - 18:00 | Studied "Dynamic Programming - Abdul Bari"
-# 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
++ 18:00 - 19:00 | Studied "Ford Fulkerson, Bellman-Ford - Abdul Bari"
+! 19:00 - 20:00 | Studied "NP Compelete - Abdul Bari"
 # 20:00 - 21:00 | TBD
 # 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
