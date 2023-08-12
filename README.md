@@ -35,6 +35,16 @@ Review of Hours. What I did. Concentration level.
 
 ### August.
 
+#### <2023/08/11 SAT>
+```diff
+# 17:24 - 18:00 | TBD
+# 18:00 - 19:00 | Dinner
+# 19:00 - 20:00 | TBD
+# 20:00 - 21:00 | TBD
+# 21:00 - 22:00 | TBD
+# 22:00 - 23:00 | TBD
+```
+
 #### <2023/08/10 FRI>
 ```diff
 + 07:20 - 08:00 | Researched "Various Algorithms on UCR Dataset"
