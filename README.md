@@ -35,9 +35,19 @@ Review of Hours. What I did. Concentration level.
 
 ### August.
 
-#### <2023/08/12 SUN>
+#### <2023/08/13 MON>
 ```diff
-+ 10:00 - 11:00 | Studied "NP, NP-complete, Reduction - MIT"
+# 00:00 - 01:00 | TBD
+# 01:00 - 02:00 | TBD
+# 02:00 - 03:00 | TBD
+# 03:00 - 04:00 | TBD
+# 04:00 - 05:00 | TBD
+# 05:00 - 06:00 | TBD
+# 06:00 - 07:00 | TBD
+# 07:00 - 08:00 | TBD
+# 08:00 - 09:00 | TBD
+# 09:00 - 10:00 | TBD
+# 10:00 - 11:00 | TBD
 # 11:00 - 12:00 | TBD
 # 12:00 - 13:00 | Lunch
 # 13:00 - 14:00 | TBD
@@ -50,6 +60,24 @@ Review of Hours. What I did. Concentration level.
 # 20:00 - 21:00 | TBD
 # 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
+```
+
+#### <2023/08/12 SUN>
+```diff
++ 10:00 - 11:00 | Studied "NP, NP-complete, Reduction - MIT"
+! 11:00 - 12:00 | Studied "NP, NP-complete, Reduction - MIT"
+# 12:00 - 13:00 | BBQ at Cedric's Place
+# 13:00 - 14:00 | BBQ at Cedric's Place
+# 14:00 - 15:00 | BBQ at Cedric's Place
+# 15:00 - 16:00 | BBQ at Cedric's Place
+# 16:00 - 17:00 | BBQ at Cedric's Place
+# 17:00 - 18:00 | BBQ at Cedric's Place
+# 18:00 - 19:00 | BBQ at Cedric's Place
+# 19:00 - 20:00 | BBQ at Cedric's Place
+! 20:00 - 21:00 | Studied "NP, NP-complete, Reduction - MIT"
+# 21:00 - 22:00 | TBD
+# 22:00 - 23:00 | TBD
+# 23:00 - 24:00 | TBD
 ```
 
 #### <2023/08/11 SAT>
