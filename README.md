@@ -37,7 +37,7 @@ Review of Hours. What I did. Concentration level.
 
 #### <2023/08/13 MON>
 ```diff
-# 00:00 - 01:00 | TBD
+! 00:00 - 01:00 | Move to Home, Studied "Lecture Slides - Algorithms"
 # 01:00 - 02:00 | TBD
 # 02:00 - 03:00 | TBD
 # 03:00 - 04:00 | TBD
@@ -75,9 +75,9 @@ Review of Hours. What I did. Concentration level.
 # 18:00 - 19:00 | BBQ at Cedric's Place
 # 19:00 - 20:00 | BBQ at Cedric's Place
 ! 20:00 - 21:00 | Studied "NP, NP-complete, Reduction - MIT"
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
-# 23:00 - 24:00 | TBD
++ 21:00 - 22:00 | Studied "Lecture Slides - Algorithms"
++ 22:00 - 23:00 | Studied "Lecture Slides - Algorithms"
++ 23:00 - 24:00 | Studied "Lecture Slides - Algorithms"
 ```
 
 #### <2023/08/11 SAT>
