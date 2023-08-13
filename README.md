@@ -37,10 +37,7 @@ Review of Hours. What I did. Concentration level.
 
 #### <2023/08/12 SUN>
 ```diff
-# 07:00 - 08:00 | TBD
-# 08:00 - 09:00 | TBD
-# 09:00 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
++ 10:00 - 11:00 | Studied "NP, NP-complete, Reduction - MIT"
 # 11:00 - 12:00 | TBD
 # 12:00 - 13:00 | Lunch
 # 13:00 - 14:00 | TBD
