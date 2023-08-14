@@ -38,22 +38,14 @@ Review of Hours. What I did. Concentration level.
 #### <2023/08/13 MON>
 ```diff
 ! 00:00 - 01:00 | Move to Home, Studied "Lecture Slides - Algorithms"
-# 01:00 - 02:00 | TBD
-# 02:00 - 03:00 | TBD
-# 03:00 - 04:00 | TBD
-# 04:00 - 05:00 | TBD
-# 05:00 - 06:00 | TBD
-# 06:00 - 07:00 | TBD
-# 07:00 - 08:00 | TBD
-# 08:00 - 09:00 | TBD
-# 09:00 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
-# 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
++ 01:00 - 02:00 | Studied "Final Exam - Algorithms"
++ 02:00 - 03:00 | Studied "Final Exam - Algorithms"
++ 03:00 - 04:00 | Took "Final Exam - Algorithms"
++ 04:00 - 05:00 | Took "Final Exam - Algorithms"
++ 05:00 - 06:00 | Took "Final Exam - Algorithms"
+Sleeping...
+! 15:00 - 16:00 | Studied "Little French"
++ 16:00 - 17:00 | Studied "Deep Neural Network - Andrew Ng"
 # 17:00 - 18:00 | TBD
 # 18:00 - 19:00 | Dinner
 # 19:00 - 20:00 | TBD
