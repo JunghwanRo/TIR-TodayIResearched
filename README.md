@@ -35,7 +35,7 @@ Review of Hours. What I did. Concentration level.
 
 ### August.
 
-#### <YYYY/MM/DD DAY>
+#### <2023/08/15 TUE>
 ```diff
 # 11:00 - 12:00 | Brunch
 ! 12:00 - 13:00 | Studied "Little French"
