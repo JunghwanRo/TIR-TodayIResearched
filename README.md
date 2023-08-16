@@ -48,7 +48,7 @@ Review of Hours. What I did. Concentration level.
 # 19:00 - 20:00 | Julia Meeting
 # 20:00 - 21:00 | Julia Meeting
 # 21:00 - 22:00 | Julia Meeting
-# 22:00 - 23:00 | TBD
+! 22:00 - 23:00 | Studied "Fast SLAM - Udacity"
 ```
 
 #### <2023/08/15 TUE>
