@@ -50,8 +50,8 @@ Review of Hours. What I did. Concentration level.
 # 18:00 - 19:00 | Move IN
 # 19:00 - 20:00 | Dinner
 # 20:00 - 21:00 | Rest
-! 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
+! 21:00 - 22:00 | Studied "DreamLab Papers"
++ 22:00 - 23:00 | Studied "DreamLab Papers"
 ```
 
 #### <2023/08/16 WED>
