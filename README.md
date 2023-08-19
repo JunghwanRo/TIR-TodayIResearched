@@ -12,7 +12,6 @@ Review of Hours. What I did. Concentration level.
 
 #### <YYYY/MM/DD DAY>
 ```diff
-# 07:00 - 08:00 | TBD
 # 08:00 - 09:00 | TBD
 # 09:00 - 10:00 | TBD
 # 10:00 - 11:00 | TBD
@@ -37,21 +36,11 @@ Review of Hours. What I did. Concentration level.
 
 #### <2023/08/18 FRI>
 ```diff
-# 08:00 - 09:00 | TBD
-# 09:00 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
-# 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
-# 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
+! 08:00 - 09:00 | Studied "Multi-Robot Papers"
++ 09:00 - 10:00 | Prepared "Research Meeting"
++ 10:00 - 11:00 | Prepared "Research Meeting"
+! 11:00 - 12:00 | Prepared "Research Meeting"
++ 12:00 - 13:00 | Research Meeting
 ```
 
 #### <2023/08/17 THU>
