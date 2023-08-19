@@ -34,6 +34,19 @@ Review of Hours. What I did. Concentration level.
 
 ### August.
 
+#### <2023/08/19 SAT>
+```diff
+# 14:00 - 15:00 | TBD
+# 15:00 - 16:00 | TBD
+# 16:00 - 17:00 | TBD
+# 17:00 - 18:00 | TBD
+# 18:00 - 19:00 | Dinner
+# 19:00 - 20:00 | TBD
+# 20:00 - 21:00 | TBD
+# 21:00 - 22:00 | TBD
+# 22:00 - 23:00 | TBD
+```
+
 #### <2023/08/18 FRI>
 ```diff
 ! 08:00 - 09:00 | Studied "Multi-Robot Papers"
