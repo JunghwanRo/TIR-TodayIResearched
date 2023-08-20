@@ -34,6 +34,14 @@ Review of Hours. What I did. Concentration level.
 
 ### August.
 
+#### <2023/08/20 SUN>
+```diff
++ 09:00 - 10:00 | Studied "Deep Neural Network for TSC"
++ 10:00 - 11:00 | Studied "Deep Neural Network for TSC"
+! 11:00 - 12:00 | Studied "Deep Neural Network for TSC"
+Come back to Metz
+```
+
 #### <2023/08/19 SAT>
 ```diff
 JULIA
