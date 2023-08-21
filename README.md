@@ -12,11 +12,8 @@ Review of Hours. What I did. Concentration level.
 
 #### <YYYY/MM/DD DAY>
 ```diff
-# 08:00 - 09:00 | TBD
-# 09:00 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
-# 12:00 - 13:00 | Lunch
+# 11:00 - 12:00 | Lunch
+# 12:00 - 13:00 | TBD
 # 13:00 - 14:00 | TBD
 # 14:00 - 15:00 | TBD
 # 15:00 - 16:00 | TBD
