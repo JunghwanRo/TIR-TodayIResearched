@@ -36,15 +36,15 @@ Review of Hours. What I did. Concentration level.
 
 #### <2023/08/22 TUE>
 ```diff
-# 08:21 - 09:00 | TBD
-# 09:00 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
-# 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
+! 08:21 - 09:00 | Prepared "Teem Meeting - Intro to TSC ppt"
++ 09:00 - 10:00 | Prepared "Teem Meeting - Intro to TSC ppt"
++ 10:00 - 11:00 | Prepared "Teem Meeting - Intro to TSC ppt"
++ 11:00 - 12:00 | Prepared "Teem Meeting - Intro to TSC ppt"
++ 12:00 - 13:00 | Prepared "Teem Meeting - Intro to TSC ppt"
+! 13:00 - 14:00 | Prepared "Teem Meeting - Intro to TSC ppt"
++ 14:00 - 15:00 | Teem Meeting
++ 15:00 - 16:00 | Studied "ML for Robotics - Prof. Cedric"
++ 16:00 - 17:00 | Studied "ML for Robotics - Prof. Cedric", Shared Slide with Pooja/Dicky
 # 17:00 - 18:00 | TBD
 # 18:00 - 19:00 | Dinner
 # 19:00 - 20:00 | TBD
@@ -60,13 +60,13 @@ Review of Hours. What I did. Concentration level.
 # 13:00 - 14:00 | Wasted
 # 14:00 - 15:00 | Wasted
 # 15:00 - 16:00 | Wasted
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
++ 16:00 - 17:00 | Prepared "Teem Meeting - Intro to TSC ppt"
++ 17:00 - 18:00 | Prepared "Teem Meeting - Intro to TSC ppt"
 # 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
++ 19:00 - 20:00 | Prepared "Teem Meeting - Intro to TSC ppt"
++ 20:00 - 21:00 | Prepared "Teem Meeting - Intro to TSC ppt"
++ 21:00 - 22:00 | Prepared "Teem Meeting - Intro to TSC ppt"
++ 22:00 - 23:00 | Prepared "Teem Meeting - Intro to TSC ppt"
 ```
 
 #### <2023/08/20 SUN>
