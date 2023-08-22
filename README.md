@@ -49,8 +49,8 @@ Review of Hours. What I did. Concentration level.
 # 18:00 - 19:00 | Welcome Party
 # 19:00 - 20:00 | Welcome Party
 ! 20:00 - 21:00 | Master Thesis Permit, Studied "ML - CS7641"
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
+! 21:00 - 22:00 | Studied "ML, ML4R Assignment Check on Calendar", Linkedin Recovery
+! 22:00 - 22:30 | TBD
 ```
 
 #### <2023/08/21 MON>
