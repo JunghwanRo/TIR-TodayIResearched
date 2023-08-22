@@ -45,10 +45,10 @@ Review of Hours. What I did. Concentration level.
 + 14:00 - 15:00 | Teem Meeting
 + 15:00 - 16:00 | Studied "ML for Robotics - Prof. Cedric"
 + 16:00 - 17:00 | Studied "ML for Robotics - Prof. Cedric", Shared Slide with Pooja/Dicky
-# 17:00 - 18:00 | TBD
-# 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
+! 17:00 - 18:00 | Master Thesis Permit
+# 18:00 - 19:00 | Welcome Party
+# 19:00 - 20:00 | Welcome Party
+! 20:00 - 21:00 | Master Thesis Permit, Studied "ML - CS7641"
 # 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
 ```
