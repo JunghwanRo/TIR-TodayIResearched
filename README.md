@@ -46,10 +46,10 @@ PLAN
 + 14:00 - 15:00 | Researched "Installing Ubuntu Dual Boot"
 + 15:00 - 16:00 | Researched "Installing Ubuntu Dual Boot"
 + 16:00 - 17:00 | Studied "ROS Tutorial"
-# 17:00 - 18:00 | Studied "ROS Tutorial"
+! 17:00 - 18:00 | Studied "ROS Tutorial"
 # 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
+! 19:00 - 20:00 | Studied "ROS Tutorial"
+! 20:00 - 21:00 | Studied "ROS Tutorial"
 # 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
 ```
