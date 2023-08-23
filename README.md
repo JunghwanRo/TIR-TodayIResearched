@@ -36,8 +36,6 @@ Review of Hours. What I did. Concentration level.
 
 #### <2023/08/23 WED>
 ```diff
-PLAN
-- HW - Run ROS Tutorials
 ! 09:00 - 10:00 | Studied "Little French"
 + 10:00 - 11:00 | Studied "Decision Tree - CS7641"
 + 11:00 - 12:00 | Studeid "Decision Tree - CS7641"
@@ -50,8 +48,7 @@ PLAN
 # 18:00 - 19:00 | Dinner
 ! 19:00 - 20:00 | Studied "ROS Tutorial"
 ! 20:00 - 21:00 | Studied "ROS Tutorial"
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
++ 21:00 - 22:00 | Studied "ROS Tutorial"
 ```
 
 #### <2023/08/22 TUE>
