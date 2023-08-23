@@ -37,7 +37,6 @@ Review of Hours. What I did. Concentration level.
 #### <2023/08/23 WED>
 ```diff
 PLAN
-- Finish ML Lecture
 - Setup Laptop with Linux
 - HW - Run ROS Tutorials
 - Check possible projects
