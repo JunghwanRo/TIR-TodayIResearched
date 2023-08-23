@@ -37,18 +37,16 @@ Review of Hours. What I did. Concentration level.
 #### <2023/08/23 WED>
 ```diff
 PLAN
-- Setup Laptop with Linux
 - HW - Run ROS Tutorials
-- Check possible projects
 ! 09:00 - 10:00 | Studied "Little French"
 + 10:00 - 11:00 | Studied "Decision Tree - CS7641"
 + 11:00 - 12:00 | Studeid "Decision Tree - CS7641"
 # 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
+! 13:00 - 14:00 | Researched "Installing Ubuntu Dual Boot"
++ 14:00 - 15:00 | Researched "Installing Ubuntu Dual Boot"
++ 15:00 - 16:00 | Researched "Installing Ubuntu Dual Boot"
++ 16:00 - 17:00 | Studied "ROS Tutorial"
+# 17:00 - 18:00 | Studied "ROS Tutorial"
 # 18:00 - 19:00 | Dinner
 # 19:00 - 20:00 | TBD
 # 20:00 - 21:00 | TBD
