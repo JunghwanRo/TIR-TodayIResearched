@@ -42,8 +42,8 @@ PLAN
 - HW - Run ROS Tutorials
 - Check possible projects
 ! 09:00 - 10:00 | Studied "Little French"
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
++ 10:00 - 11:00 | Studied "Decision Tree - CS7641"
++ 11:00 - 12:00 | Studeid "Decision Tree - CS7641"
 # 12:00 - 13:00 | Lunch
 # 13:00 - 14:00 | TBD
 # 14:00 - 15:00 | TBD
