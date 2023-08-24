@@ -38,9 +38,9 @@ Review of Hours. What I did. Concentration level.
 #### <2023/08/24 THU>
 ```diff
 - PLAN
-- ML4R Lecture
-- Finish ROS Tutorial 11~17
-- TSC on Solarpanel Dataset
+ML4R Lecture
+Finish ROS Tutorial 11~17
+TSC on Solarpanel Dataset
 # 09:00 - 10:00 | TBD
 # 10:00 - 11:00 | TBD
 # 11:00 - 12:00 | TBD
