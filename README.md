@@ -52,9 +52,8 @@ TSC on Solarpanel Dataset
 + 17:00 - 18:00 | Researced "kNN, DNN for solarpanel data"
 + 18:00 - 19:00 | Studied "ROS Tutorial"
 # 19:00 - 20:00 | Dinner, Pete Korea Planning
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
+! 20:00 - 21:00 | Studied "Related Papers - Bugwright2"
++ 21:00 - 22:00 | Studied "Related Papers - Bugwright2"
 ```
 
 #### <2023/08/23 WED>
