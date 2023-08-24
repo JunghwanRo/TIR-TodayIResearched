@@ -1,9 +1,9 @@
 # Today I Researched ~
 Review of Hours. What I did. Concentration level.
 ```diff
+- Red / PLAN section
 + Green / Did well! Happy :). 45~60 minutes concentration
 ! Orange / Soso.. 20 ~ 45 minutes concentration
-- Red / BAD, Could be more productive...
 # Gray / NA
 ```
 
