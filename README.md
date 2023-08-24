@@ -51,7 +51,7 @@ TSC on Solarpanel Dataset
 + 16:00 - 17:00 | Researced "CUDA Deep Learning Environment"
 + 17:00 - 18:00 | Researced "kNN, DNN for solarpanel data"
 + 18:00 - 19:00 | Studied "ROS Tutorial"
-# 19:00 - 20:00 | Quick Dinner, 
+# 19:00 - 20:00 | Dinner, Pete Korea Planning
 # 20:00 - 21:00 | TBD
 # 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
