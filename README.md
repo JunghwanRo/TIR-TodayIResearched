@@ -38,12 +38,12 @@ Review of Hours. What I did. Concentration level.
 #### <2023/08/24 THU>
 ```diff
 - PLAN
-ML4R Lecture
-Finish ROS Tutorial 11~17
+ML4R Lecture / O
+Finish ROS Tutorial 11~17 
 TSC on Solarpanel Dataset
-# 09:00 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
++ 09:00 - 10:00 | Studied "Regression - CS7641", Lecture "CS7644"
++ 10:00 - 11:00 | Lecture "CS7644"
++ 11:00 - 12:00 | Studied "ROS Tutorial"
 # 12:00 - 13:00 | Lunch
 # 13:00 - 14:00 | TBD
 # 14:00 - 15:00 | TBD
