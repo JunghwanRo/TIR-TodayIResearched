@@ -35,12 +35,35 @@ Review of Hours. What I did. Concentration level.
 
 ### August.
 
+#### <2023/08/25 FRI>
+```diff
+- PLAN
+Little French
+Get Research Ideas about Thesis/Paper
+CS7641 1 more Lecture
+CS7644 Assignment
+# 08:50 - 10:00 | TBD
+# 10:00 - 11:00 | TBD
+# 11:00 - 12:00 | TBD
+# 12:00 - 13:00 | Lunch
+# 13:00 - 14:00 | TBD
+# 14:00 - 15:00 | TBD
+# 15:00 - 16:00 | TBD
+# 16:00 - 17:00 | TBD
+# 17:00 - 18:00 | TBD
+# 18:00 - 19:00 | Dinner
+# 19:00 - 20:00 | TBD
+# 20:00 - 21:00 | TBD
+# 21:00 - 22:00 | TBD
+# 22:00 - 23:00 | TBD
+```
+
 #### <2023/08/24 THU>
 ```diff
 - PLAN
 ML4R Lecture / O
-Finish ROS Tutorial 11~17 
-TSC on Solarpanel Dataset
+Finish ROS Tutorial 11~17 / O
+TSC on Solarpanel Dataset / O
 + 09:00 - 10:00 | Studied "Regression - CS7641", Lecture "CS7644"
 + 10:00 - 11:00 | Lecture "CS7644"
 + 11:00 - 12:00 | Studied "ROS Tutorial"
