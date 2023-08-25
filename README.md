@@ -38,10 +38,10 @@ Review of Hours. What I did. Concentration level.
 #### <2023/08/25 FRI>
 ```diff
 - PLAN
-Little French
-Get Research Ideas about Thesis/Paper
-CS7641 1 more Lecture
-CS7644 Assignment
+Little French / O
+Get Research Ideas about Thesis-Paper / ?
+CS7641 1 more Lecture / X
+CS7644 Assignment / O
 + 08:50 - 10:00 | Researched "Papers on IROS, ICRA"
 + 10:00 - 11:00 | Researched "Papers on IROS, ICRA"
 + 11:00 - 12:00 | Researched "Papers on IROS, ICRA"
@@ -54,7 +54,7 @@ CS7644 Assignment
 ! 18:00 - 19:00 | Fixing Com, Ubuntu
 # 19:00 - 20:00 | Dinner
 ! 20:00 - 21:00 | Studied "Assignment 1 - CS7644"
-# 21:00 - 22:00 | TBD
+! 21:00 - 22:00 | Studied "Little French"
 # 22:00 - 23:00 | TBD
 ```
 
