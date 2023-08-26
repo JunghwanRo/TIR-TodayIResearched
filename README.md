@@ -40,7 +40,7 @@ Review of Hours. What I did. Concentration level.
 - PLAN
 Finish CS7641 SL3 / O
 Little French / O
-Dig a bit for the discussed Paper Topic / 
+Dig a bit for the discussed Paper Topic / ?
 ! 09:22 - 10:00 | Studied "SL3 Neural Networks - CS7641"
 + 10:00 - 11:00 | Studied "SL3 Neural Networks - CS7641", Syllabus Reading - CS7641
 ! 11:00 - 12:00 | Studied "Little French", venv for Solarpanel data
