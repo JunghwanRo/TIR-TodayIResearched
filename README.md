@@ -38,15 +38,15 @@ Review of Hours. What I did. Concentration level.
 #### <2023/08/26 SAT>
 ```diff
 - PLAN
-Finish CS7641 SL3 / 
-Little French /
+Finish CS7641 SL3 / O
+Little French / O
 Dig a bit for the discussed Paper Topic / 
 ! 09:22 - 10:00 | Studied "SL3 Neural Networks - CS7641"
 + 10:00 - 11:00 | Studied "SL3 Neural Networks - CS7641", Syllabus Reading - CS7641
 ! 11:00 - 12:00 | Studied "Little French", venv for Solarpanel data
 # 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
+! 13:00 - 14:00 | Researched "Path Planning Thesis"
+# 14:00 - 15:00 | Wasted
 # 15:00 - 16:00 | TBD
 # 16:00 - 17:00 | TBD
 # 17:00 - 18:00 | TBD
