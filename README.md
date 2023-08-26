@@ -49,12 +49,11 @@ Dig a bit for the discussed Paper Topic /
 # 14:00 - 15:00 | Wasted
 # 15:00 - 16:00 | Wasted
 + 16:00 - 17:00 | Researched "Path Planning Thesis"
-# 17:00 - 18:00 | TBD
+! 17:00 - 18:00 | Studied "HW1 - CS7644"
 # 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
+# 19:00 - 20:00 | Shopping CORA
++ 20:00 - 21:00 | Studied "SL4 Instance Based Learning - CS761"
++ 21:00 - 22:00 | Studied "SL4 Instance Based Learning - CS761"
 ```
 
 #### <2023/08/25 FRI>
