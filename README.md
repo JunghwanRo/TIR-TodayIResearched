@@ -41,8 +41,8 @@ Review of Hours. What I did. Concentration level.
 Finish CS7641 SL3 / 
 Little French /
 Dig a bit for the discussed Paper Topic / 
-# 09:22 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
+! 09:22 - 10:00 | Studied "SL3 Neural Networks - CS7641"
+# 10:00 - 11:00 | Studied "SL3 Neural Networks - CS7641"
 # 11:00 - 12:00 | TBD
 # 12:00 - 13:00 | Lunch
 # 13:00 - 14:00 | TBD
