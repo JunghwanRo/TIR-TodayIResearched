@@ -44,9 +44,9 @@ Finish Udacity Lectures, Check Projects /
 # 12:00 - 13:00 | Lunch
 + 13:00 - 14:00 | Studied "SL5 Ensemble B&B - CS7641"
 # 14:00 - 15:00 | Wasted
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
+# 15:00 - 16:00 | Wasted
+! 16:00 - 17:00 | Studied "Graph SLAM - Udacity"
+! 17:00 - 18:00 | Studied "Graph SLAM - Udacity"
 # 18:00 - 19:00 | Dinner
 # 19:00 - 20:00 | TBD
 # 20:00 - 21:00 | TBD
