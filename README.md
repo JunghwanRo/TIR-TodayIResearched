@@ -46,14 +46,14 @@ Make Overleaf Draft for IROS /
 + 11:00 - 12:00 | Studied "Navigation, Path Planning - Udacity"
 # 12:00 - 13:00 | Lunch
 # 13:00 - 14:00 | Long Lunch
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
-# 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
++ 14:00 - 15:00 | Studied "Where Am I? Project - Udacity"
++ 15:00 - 16:00 | Studied "Where Am I? Project - Udacity"
++ 16:00 - 17:00 | Studied "Where Am I? Project - Udacity"
++ 17:00 - 18:00 | Studied "Where Am I? Project - Udacity"
+! 18:00 - 19:00 | Quick Dinner, Studied "Where Am I? Project - Udacity"
++ 19:00 - 20:00 | Studied "Where Am I? Project - Udacity"
++ 20:00 - 21:00 | Studied "Where Am I? Project - Udacity"
+! 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
 ```
 
