@@ -45,7 +45,7 @@ Make Overleaf Draft for IROS /
 + 10:00 - 11:00 | Studied "Navigation, Path Planning - Udacity"
 + 11:00 - 12:00 | Studied "Navigation, Path Planning - Udacity"
 # 12:00 - 13:00 | Lunch
-! 13:00 - 14:00 | TBD
+# 13:00 - 14:00 | Long Lunch
 # 14:00 - 15:00 | TBD
 # 15:00 - 16:00 | TBD
 # 16:00 - 17:00 | TBD
