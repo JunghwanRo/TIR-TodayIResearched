@@ -53,8 +53,8 @@ Make Overleaf Draft for IROS /
 ! 18:00 - 19:00 | Quick Dinner, Studied "Where Am I? Project - Udacity"
 + 19:00 - 20:00 | Studied "Where Am I? Project - Udacity"
 + 20:00 - 21:00 | Studied "Where Am I? Project - Udacity"
-! 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
++ 21:00 - 22:00 | Studied "Where Am I? Project - Udacity"
+! 22:00 - 23:00 | Studied "Where Am I? Project - Udacity"
 ```
 
 #### <2023/08/27 SUN>
