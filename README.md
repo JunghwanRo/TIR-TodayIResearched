@@ -38,9 +38,9 @@ Review of Hours. What I did. Concentration level.
 #### <2023/08/29 TUE>
 ```diff
 - PLAN
-Finish Udacity Projects /
-Little French /
-Submit HW1 - CS7644 / 
+Finish Udacity Project 3 / O
+Little French / 
+Submit HW1 - CS7644 / O
 + 09:00 - 10:00 | Studied "Where Am I? Project - Udacity"
 + 10:00 - 11:00 | Studied "Where Am I? Project - Udacity"
 ! 11:00 - 12:00 | Studied "Where Am I? Project - Udacity"
