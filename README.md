@@ -48,10 +48,10 @@ Submit HW1 - CS7644 /
 # 13:00 - 14:00 | Long Lunch
 + 14:00 - 15:00 | Weekly Meeting
 + 15:00 - 16:00 | Resubmitted "Where Am I? Project", CS7644 Lecture
-# 16:00 - 17:00 | CS7644 Lecture
-# 17:00 - 18:00 | TBD
-# 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
++ 16:00 - 17:00 | CS7644 Lecture
++ 17:00 - 18:00 | Stuided "SL6 SVM - CS7641"
++ 18:00 - 19:00 | Stuided "SL6 SVM - CS7641", Studied "HW1 Joystick - CS7644"
+! 19:00 - 20:00 | Quick Dinner, Submitted "HW1 Joystick - CS7644"
 # 20:00 - 21:00 | TBD
 # 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
