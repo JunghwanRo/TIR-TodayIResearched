@@ -52,9 +52,9 @@ Submit HW1 - CS7644 / O
 + 17:00 - 18:00 | Stuided "SL6 SVM - CS7641"
 + 18:00 - 19:00 | Stuided "SL6 SVM - CS7641", Studied "HW1 Joystick - CS7644"
 ! 19:00 - 20:00 | Quick Dinner, Submitted "HW1 Joystick - CS7644"
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
++ 20:00 - 21:00 | Studied "Map My World - Udacity"
++ 21:00 - 22:00 | Studied "Map My World - Udacity"
++ 22:00 - 23:00 | Studied "Map My World - Udacity"
 ```
 
 #### <2023/08/28 MON>
