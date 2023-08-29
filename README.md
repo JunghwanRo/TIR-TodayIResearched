@@ -46,9 +46,9 @@ Submit HW1 - CS7644 /
 ! 11:00 - 12:00 | Studied "Where Am I? Project - Udacity"
 # 12:00 - 13:00 | Lunch
 # 13:00 - 14:00 | Long Lunch
-# 14:00 - 15:00 | Weekly Meeting
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
++ 14:00 - 15:00 | Weekly Meeting
++ 15:00 - 16:00 | Resubmitted "Where Am I? Project", CS7644 Lecture
+# 16:00 - 17:00 | CS7644 Lecture
 # 17:00 - 18:00 | TBD
 # 18:00 - 19:00 | Dinner
 # 19:00 - 20:00 | TBD
