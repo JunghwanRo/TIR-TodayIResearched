@@ -38,6 +38,8 @@ Review of Hours. What I did. Concentration level.
 #### <2023/08/30 WED>
 ```diff
 - PLAN
+Finish All Project - Robotics Engineer ND Udacity /
+SL7 Lecture - CS7641 /
 + 08:50 - 10:00 | Studied "Map My World - Udacity"
 + 10:00 - 11:00 | Studied "Map My World - Udacity"
 + 11:00 - 12:00 | Studied "Map My World - Udacity", Lunch
