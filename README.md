@@ -35,14 +35,13 @@ Review of Hours. What I did. Concentration level.
 
 ### August.
 
-#### <2023/08/30 WED>
+#### <2023/08/31 THU>
 ```diff
 - PLAN
-Finish All Project - Robotics Engineer ND Udacity /
-SL7 Lecture - CS7641 /
-+ 08:50 - 10:00 | Studied "Map My World - Udacity"
-+ 10:00 - 11:00 | Studied "Map My World - Udacity"
-+ 11:00 - 12:00 | Studied "Map My World - Udacity", Lunch
+CS 7644 Lecture 
+# 08:50 - 10:00 | TBD
+# 10:00 - 11:00 | TBD
+# 11:00 - 12:00 | TBD
 # 12:00 - 13:00 | Lunch
 # 13:00 - 14:00 | TBD
 # 14:00 - 15:00 | TBD
@@ -54,6 +53,27 @@ SL7 Lecture - CS7641 /
 # 20:00 - 21:00 | TBD
 # 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
+```
+
+#### <2023/08/30 WED>
+```diff
+- PLAN
+Finish All Project - Robotics Engineer ND Udacity / O
+SL7 Lecture - CS7641 / -
++ 08:50 - 10:00 | Studied "Map My World - Udacity"
++ 10:00 - 11:00 | Studied "Map My World - Udacity"
++ 11:00 - 12:00 | Studied "Map My World - Udacity", Lunch
+# 12:00 - 13:00 | Lunch
++ 13:00 - 14:00 | Studied "Map My World - Udacity"
++ 14:00 - 15:00 | Studied "SL7 - Udacity"
++ 15:00 - 16:00 | Studied "Home Service Robot - Udacity"
++ 16:00 - 17:00 | Studied "Home Service Robot - Udacity"
++ 17:00 - 18:00 | Studied "Home Service Robot - Udacity"
++ 18:00 - 19:00 | Studied "Home Service Robot - Udacity"
+# 19:00 - 20:00 | Quick Dinner
++ 20:00 - 21:00 | Studied "Home Service Robot - Udacity"
++ 21:00 - 22:00 | Studied "Home Service Robot - Udacity"
+! 22:00 - 23:00 | Studied "Finished Robotics Engineer Nano Degree - Udacity"
 ```
 
 #### <2023/08/29 TUE>
