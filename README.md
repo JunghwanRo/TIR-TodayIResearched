@@ -48,9 +48,9 @@ Insight for Research /
 ! 13:00 - 14:00 | Studied "C++ - Udacity"
 # 14:00 - 15:00 | Wasted
 ! 15:00 - 16:00 | Studied "C++ - Udacity"
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
-# 18:00 - 19:00 | Dinner
+# 16:00 - 17:00 | Wasted
+# 17:00 - 18:00 | Wasted
+# 18:00 - 19:00 | Wasted
 # 19:00 - 20:00 | TBD
 # 20:00 - 21:00 | TBD
 # 21:00 - 22:00 | TBD
