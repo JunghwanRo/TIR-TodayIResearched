@@ -38,12 +38,14 @@ Review of Hours. What I did. Concentration level.
 #### <2023/08/31 THU>
 ```diff
 - PLAN
-CS 7644 Lecture 
-# 08:50 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
+CS 7644 Lecture / O
+Little C++ Study /
+Insight for Research / 
++ 08:50 - 10:00 | CS7644 Lecture, Robotics Nano Degree Graduate
++ 10:00 - 11:00 | CS7644 Lecture, Studied "HW1 - CS7644"
+! 11:00 - 12:00 | Studied "HW1 - CS7644", LUNCH
 # 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
+! 13:00 - 14:00 | TBD
 # 14:00 - 15:00 | TBD
 # 15:00 - 16:00 | TBD
 # 16:00 - 17:00 | TBD
