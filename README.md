@@ -49,8 +49,9 @@ Fucking Party Next Door
 # 18:00 - 19:00 | Dicky PhD Graduation Gift 
 # 19:00 - 20:00 | Dicky PhD Graduation Gift 
 # 20:00 - 21:00 | Dicky PhD Graduation Gift 
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
++ 21:00 - 22:00 | Studied "SL7 Comp Learning - CS7641"
++ 22:00 - 23:00 | Studied "SL7 Comp Learning - CS7641"
+# 23:00 - 24:00 | TBD
 ```
 
 ### August.
