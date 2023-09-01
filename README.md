@@ -39,16 +39,16 @@ Review of Hours. What I did. Concentration level.
 ```diff
 - PLAN
 Fucking Party Next Door
-# 11:00 - 12:00 | TBD
+! 11:00 - 12:00 | Prepare for Research Meeting
 # 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
-# 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
++ 13:00 - 14:00 | Research Meeting
+# 14:00 - 15:00 | Wasted
+# 15:00 - 16:00 | Dicky PhD Graduation Gift 
+# 16:00 - 17:00 | Dicky PhD Graduation Gift 
+# 17:00 - 18:00 | Dicky PhD Graduation Gift 
+# 18:00 - 19:00 | Dicky PhD Graduation Gift 
+# 19:00 - 20:00 | Dicky PhD Graduation Gift 
+# 20:00 - 21:00 | Dicky PhD Graduation Gift 
 # 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
 ```
