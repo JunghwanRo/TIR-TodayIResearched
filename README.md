@@ -38,8 +38,8 @@ Review of Hours. What I did. Concentration level.
 #### <2023/09/02 SAT>
 ```diff
 - PLAN
-+ 00:00 - 01:00 | Studied "SL8 VC Dimensions - CS7641"
-# 01:00 - 02:00 | TBD
++ 00:00 - 01:00 | Studied "SL8 VC Dimensions - CS7641", Studied "Lecture 3: Motion Control - Cambridge"
+# 01:00 - 02:00 | Studied "Lecture 3: Motion Control - Cambridge"
 # 02:00 - 03:00 | TBD
 # 03:00 - 04:00 | TBD
 Sleep...
