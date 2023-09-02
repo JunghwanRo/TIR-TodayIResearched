@@ -49,8 +49,8 @@ Sleep...
 # 16:00 - 17:00 | Wasted
 + 17:00 - 18:00 | Studied "SL9 Bayesian Learning - CS7641"
 ! 18:00 - 19:00 | Studied "SL9 Bayesian Learning - CS7641"
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
+# 19:00 - 20:00 | Sleep
+! 20:00 - 21:00 | Studied "Lecture 5: Localization - Cambridge"
 # 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
 ```
