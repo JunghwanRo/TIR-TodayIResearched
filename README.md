@@ -45,7 +45,7 @@ Review of Hours. What I did. Concentration level.
 Sleep...
 # 13:00 - 14:00 | Lunch
 # 14:00 - 15:00 | Shopping
-# 15:00 - 16:00 | TBD
+# 15:00 - 16:00 | Researched "Possible Labs Research"
 # 16:00 - 17:00 | TBD
 # 17:00 - 18:00 | TBD
 # 18:00 - 19:00 | Dinner
