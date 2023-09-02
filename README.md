@@ -39,14 +39,12 @@ Review of Hours. What I did. Concentration level.
 ```diff
 - PLAN
 + 00:00 - 01:00 | Studied "SL8 VC Dimensions - CS7641", Studied "Lecture 3: Motion Control - Cambridge"
-# 01:00 - 02:00 | Studied "Lecture 3: Motion Control - Cambridge"
-# 02:00 - 03:00 | TBD
-# 03:00 - 04:00 | TBD
++ 01:00 - 02:00 | Studied "Lecture 3: Motion Control - Cambridge"
++ 02:00 - 03:00 | Studied "Lecture 4: Sensors and Perception - Cambridge"
+! 03:00 - 04:00 | Studied "Lecture 5: Localization - Cambridge"
 Sleep...
-# 11:00 - 12:00 | TBD
-# 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
+# 13:00 - 14:00 | Lunch
+# 14:00 - 15:00 | Shopping
 # 15:00 - 16:00 | TBD
 # 16:00 - 17:00 | TBD
 # 17:00 - 18:00 | TBD
