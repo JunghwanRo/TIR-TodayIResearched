@@ -41,8 +41,8 @@ Review of Hours. What I did. Concentration level.
 Little French / 
 Update Test Program / 
 Finish HW2 - CS7644 / 
-# 08:50 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
++ 08:50 - 10:00 | Researched "Sample test program for defect detection algorithm"
++ 10:00 - 11:00 | Researched "Sample test program for defect detection algorithm"
 # 11:00 - 12:00 | TBD
 # 12:00 - 13:00 | Lunch
 # 13:00 - 14:00 | TBD
