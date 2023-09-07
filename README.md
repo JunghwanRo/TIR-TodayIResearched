@@ -48,10 +48,9 @@ Review of Hours. What I did. Concentration level.
 + 16:00 - 17:00 | Studied "C++ - Codecademy"
 # 17:00 - 18:00 | Axel Farewell Tennis
 # 18:00 - 19:00 | Axel Farewell Tennis
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
+# 19:00 - 20:00 | Axel Farewell Tennis, Dinner
+# 20:00 - 21:00 | Wasted
 # 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
 ```
 
 #### <2023/09/06 WED>
