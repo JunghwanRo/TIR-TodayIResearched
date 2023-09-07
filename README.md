@@ -35,10 +35,12 @@ Review of Hours. What I did. Concentration level.
 
 ### September.
 
-#### <2023/09/06 WED>
+#### <2023/09/07>
 ```diff
-Fucking party next door again
 - PLAN
++ 09:20 - 10:00 | Lecture CS-7644
++ 10:00 - 11:00 | Lecture CS-7644
+# 11:00 - 12:00 | Move out Check
 # 12:00 - 13:00 | Lunch
 # 13:00 - 14:00 | TBD
 # 14:00 - 15:00 | TBD
@@ -50,6 +52,20 @@ Fucking party next door again
 # 20:00 - 21:00 | TBD
 # 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
+```
+
+#### <2023/09/06 WED>
+```diff
+Fucking party next door again
+- PLAN
++ 12:00 - 13:00 | Prepared "Ultrasound Lab Meeting"
++ 13:00 - 14:00 | Ultrasound Lab Meeting
++ 14:00 - 15:00 | Ultrasound Lab Meeting
+# 15:00 - 16:00 | Move in Appointment
+# 16:00 - 17:00 | Move in Appointment
+! 17:00 - 18:00 | Studied "C++ - Codecademy"
+# 18:00 - 19:00 | Dinner
+# 19:00 - 20:00 | Move out
 ```
 
 #### <2023/09/05 TUE>
@@ -69,9 +85,7 @@ Finish HW2 - CS7644 /
 + 17:00 - 18:00 | Studied "HW2 - CS7644"
 + 18:00 - 19:00 | Studied "HW2 - CS7644"
 # 19:00 - 20:00 | Dinner
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
+! 20:00 - 21:00 | Researched "Sample test program for defect detection algorithm"
 ```
 
 #### <2023/09/04 MON>
