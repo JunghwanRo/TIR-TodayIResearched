@@ -45,9 +45,9 @@ Review of Hours. What I did. Concentration level.
 # 13:00 - 14:00 | Move out Check
 ! 14:00 - 15:00 | Studied "C++ - Codecademy"
 + 15:00 - 16:00 | Studied "C++ - Codecademy"
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
-# 18:00 - 19:00 | Dinner
++ 16:00 - 17:00 | Studied "C++ - Codecademy"
+# 17:00 - 18:00 | Axel Farewell Tennis
+# 18:00 - 19:00 | Axel Farewell Tennis
 # 19:00 - 20:00 | TBD
 # 20:00 - 21:00 | TBD
 # 21:00 - 22:00 | TBD
