@@ -44,7 +44,7 @@ Review of Hours. What I did. Concentration level.
 # 12:00 - 13:00 | Lunch
 # 13:00 - 14:00 | Move out Check
 ! 14:00 - 15:00 | Studied "C++ - Codecademy"
-# 15:00 - 16:00 | TBD
++ 15:00 - 16:00 | Studied "C++ - Codecademy"
 # 16:00 - 17:00 | TBD
 # 17:00 - 18:00 | TBD
 # 18:00 - 19:00 | Dinner
