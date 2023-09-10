@@ -35,12 +35,9 @@ Review of Hours. What I did. Concentration level.
 
 ### September.
 
-#### <2023/09/09 SAT>
+#### <2023/09/10 SUN>
 ```diff
 - PLAN
-# 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
 # 15:00 - 16:00 | TBD
 # 16:00 - 17:00 | TBD
 # 17:00 - 18:00 | TBD
@@ -49,6 +46,22 @@ Review of Hours. What I did. Concentration level.
 # 20:00 - 21:00 | TBD
 # 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
+```
+
+#### <2023/09/09 SAT>
+```diff
+- PLAN
+# 12:00 - 13:00 | Lunch
++ 13:00 - 14:00 | Studied "C++ - Codecademy"
+! 14:00 - 15:00 | Studied "C++ - Codecademy"
+! 15:00 - 16:00 | Studied "C++ - Codecademy"
+# 16:00 - 17:00 | Wasted
+# 17:00 - 18:00 | Dicky PhD Graduation Celebration
+# 18:00 - 19:00 | Dicky PhD Graduation Celebration
+# 19:00 - 20:00 | Dicky PhD Graduation Celebration
+# 20:00 - 21:00 | Dicky PhD Graduation Celebration
++ 21:00 - 22:00 | Studied "Multi-Robot System - Cambridge"
++ 22:00 - 23:00 | Studied "Multi-Robot System - Cambridge"
 ```
 
 #### <2023/09/08 FRI>
