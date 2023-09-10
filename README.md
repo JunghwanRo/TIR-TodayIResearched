@@ -38,11 +38,11 @@ Review of Hours. What I did. Concentration level.
 #### <2023/09/10 SUN>
 ```diff
 - PLAN
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
-# 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
+! 15:00 - 16:00 | Studied "C++ - Codecademy"
+! 16:00 - 17:00 | Studied "C++ - Codecademy"
+# 17:00 - 18:00 | Wasted
++ 18:00 - 19:00 | Studied "C++ - Codecademy"
++ 19:00 - 20:00 | Studied "C++ - Codecademy"
 # 20:00 - 21:00 | TBD
 # 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
