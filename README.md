@@ -42,11 +42,11 @@ Understand Radon Transform /
 Understand NERF /
 HW3 - CS7644 /
 # 09:15 - 10:00 | Wasted
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
++ 10:00 - 11:00 | Studied "Radon Transform Background"
++ 11:00 - 12:00 | Studied "Radon Transform Background"
 # 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
++ 13:00 - 14:00 | Studied "NeRF: Neural Radiance Fields"
++ 14:00 - 15:00 | Disscution with Ashiwarya - NeRF
 # 15:00 - 16:00 | TBD
 # 16:00 - 17:00 | TBD
 # 17:00 - 18:00 | TBD
