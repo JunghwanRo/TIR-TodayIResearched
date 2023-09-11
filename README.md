@@ -40,19 +40,19 @@ Review of Hours. What I did. Concentration level.
 - PLAN
 Understand Radon Transform /
 Understand NERF /
-HW3 - CS7644 /
+HW3 - CS7644 / O 
 # 09:15 - 10:00 | Wasted
 + 10:00 - 11:00 | Studied "Radon Transform Background"
 + 11:00 - 12:00 | Studied "Radon Transform Background"
 # 12:00 - 13:00 | Lunch
 + 13:00 - 14:00 | Studied "NeRF: Neural Radiance Fields"
-+ 14:00 - 15:00 | Disscution with Ashiwarya - NeRF
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
-# 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
++ 14:00 - 15:00 | Discussion with Aishwarya - NeRF
++ 15:00 - 16:00 | Studied "HW RANSAC/Hough - CS7644"
++ 16:00 - 17:00 | Studied "HW RANSAC/Hough - CS7644"
++ 17:00 - 18:00 | Studied "HW RANSAC/Hough - CS7644"
++ 18:00 - 19:00 | Studied "HW RANSAC/Hough - CS7644"
++ 19:00 - 20:00 | Studied "HW RANSAC/Hough - CS7644"
+# 20:00 - 21:00 | Dinner
 # 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
 ```
