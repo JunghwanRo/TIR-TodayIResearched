@@ -52,9 +52,9 @@ HW3 - CS7644 / O
 + 17:00 - 18:00 | Studied "HW RANSAC/Hough - CS7644"
 + 18:00 - 19:00 | Studied "HW RANSAC/Hough - CS7644"
 + 19:00 - 20:00 | Studied "HW RANSAC/Hough - CS7644"
-# 20:00 - 21:00 | Dinner
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
+# 20:00 - 21:00 | Wasted
+# 21:00 - 22:00 | Wasted
+# 22:00 - 23:00 | Wasted
 ```
 
 #### <2023/09/10 SUN>
