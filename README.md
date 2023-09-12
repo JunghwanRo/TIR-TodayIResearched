@@ -37,8 +37,9 @@ Review of Hours. What I did. Concentration level.
 
 #### <2023/09/12 TUE>
 ```diff
-Wow! I slept long time
+Wow! I slept for a long time.
 - PLAN
+
 # 10:20 - 11:00 | TBD
 # 11:00 - 12:00 | TBD
 # 12:00 - 13:00 | Lunch
