@@ -51,8 +51,8 @@ Little French / O
 + 16:00 - 17:00 | CS7644 Lecture - Project 1
 + 17:00 - 18:00 | Studied "OH3 Assignmnet1 Explanation - CS7641"
 ! 18:00 - 19:00 | Quick Dinner, Studied "Little French"
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
+! 19:00 - 20:00 | Studied "L8 Multi-Robot Assignment - Cambridge"
+! 20:00 - 21:00 | Studied "L8 Multi-Robot Assignment - Cambridge"
 # 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
 ```
