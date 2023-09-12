@@ -45,10 +45,10 @@ Little French /
 ! 10:20 - 11:00 | Studied "OH1 Assignmnet1 Explanation - CS7641"
 + 11:00 - 12:00 | Studied "OH1 Assignmnet1 Explanation - CS7641"
 # 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
++ 13:00 - 14:00 | Studied "OH2 How to Read/Structure Paper - CS7641"
++ 14:00 - 15:00 | Teem Meeting
++ 15:00 - 16:00 | CS7644 Lecture - Project 1
++ 16:00 - 17:00 | CS7644 Lecture - Project 1
 # 17:00 - 18:00 | TBD
 # 18:00 - 19:00 | Dinner
 # 19:00 - 20:00 | TBD
