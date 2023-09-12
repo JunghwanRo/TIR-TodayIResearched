@@ -53,7 +53,7 @@ Little French / O
 ! 18:00 - 19:00 | Quick Dinner, Studied "Little French"
 ! 19:00 - 20:00 | Studied "L8 Multi-Robot Assignment - Cambridge"
 ! 20:00 - 21:00 | Studied "L8 Multi-Robot Assignment - Cambridge"
-# 21:00 - 22:00 | TBD
++ 21:00 - 22:00 | Studied "Central Limit Theorem - 3Blue1Brown"
 # 22:00 - 23:00 | TBD
 ```
 
