@@ -42,8 +42,8 @@ Wow! I slept for a long time.
 Watch OH of CS7641 /
 Project1 CS7644 Outline /
 Little French / 
-# 10:20 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
+! 10:20 - 11:00 | Studied "OH1 Assignmnet1 Explanation - CS7641"
++ 11:00 - 12:00 | Studied "OH1 Assignmnet1 Explanation - CS7641"
 # 12:00 - 13:00 | Lunch
 # 13:00 - 14:00 | TBD
 # 14:00 - 15:00 | TBD
