@@ -39,8 +39,8 @@ Review of Hours. What I did. Concentration level.
 ```diff
 Wow! I slept for a long time.
 - PLAN
-Watch OH of CS7641 /
-Project1 CS7644 Outline /
+Watch OH of CS7641 / O
+Project1 CS7644 Outline / O
 Little French / 
 ! 10:20 - 11:00 | Studied "OH1 Assignmnet1 Explanation - CS7641"
 + 11:00 - 12:00 | Studied "OH1 Assignmnet1 Explanation - CS7641"
@@ -49,7 +49,7 @@ Little French /
 + 14:00 - 15:00 | Teem Meeting
 + 15:00 - 16:00 | CS7644 Lecture - Project 1
 + 16:00 - 17:00 | CS7644 Lecture - Project 1
-# 17:00 - 18:00 | TBD
++ 17:00 - 18:00 | Studied "OH3 Assignmnet1 Explanation - CS7641"
 # 18:00 - 19:00 | Dinner
 # 19:00 - 20:00 | TBD
 # 20:00 - 21:00 | TBD
