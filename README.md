@@ -39,7 +39,9 @@ Review of Hours. What I did. Concentration level.
 ```diff
 Wow! I slept for a long time.
 - PLAN
-
+Watch OH of CS7641 /
+Project1 CS7644 Outline /
+Little French / 
 # 10:20 - 11:00 | TBD
 # 11:00 - 12:00 | TBD
 # 12:00 - 13:00 | Lunch
