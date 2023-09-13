@@ -39,8 +39,10 @@ Review of Hours. What I did. Concentration level.
 ```diff
 - PLAN
 Write Down the Research Problem / 
-# 09:30 - 10:00 | Contact Linkedin Team, Roboticists Search
-# 10:00 - 11:00 | TBD
+Radon Transform / 
+Nerf Algorithm / 
+! 09:30 - 10:00 | Contact Linkedin Team, Roboticists Search
+! 10:00 - 11:00 | Roboticists Search, 
 # 11:00 - 12:00 | TBD
 # 12:00 - 13:00 | Lunch
 # 13:00 - 14:00 | TBD
