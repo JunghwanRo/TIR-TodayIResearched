@@ -42,8 +42,8 @@ Write Down the Research Problem /
 Radon Transform / 
 Nerf Algorithm / 
 ! 09:30 - 10:00 | Contact Linkedin Team, Roboticists Search
-! 10:00 - 11:00 | Roboticists Search, 
-# 11:00 - 12:00 | TBD
+! 10:00 - 11:00 | Roboticists Search
+# 11:00 - 12:00 | Wasted
 # 12:00 - 13:00 | Lunch
 # 13:00 - 14:00 | TBD
 # 14:00 - 15:00 | TBD
