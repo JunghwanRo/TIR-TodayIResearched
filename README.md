@@ -39,10 +39,9 @@ Review of Hours. What I did. Concentration level.
 ```diff
 - PLAN
 CS 7644 Lecture Project 1 / O
-# 08:00 - 09:00 | TBD
-# 09:00 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
+! 09:30 - 10:00 | Studied "CS7644 Lecture Project 1"
++ 10:00 - 11:00 | Studied "CS7644 Lecture Project 1"
++ 11:00 - 12:00 | Studied "CS7644 Lecture Project 1"
 # 12:00 - 13:00 | Lunch
 # 13:00 - 14:00 | TBD
 # 14:00 - 15:00 | TBD
