@@ -35,13 +35,9 @@ Review of Hours. What I did. Concentration level.
 
 ### September.
 
-#### <2023/09/14 THU>
+#### <2023/09/15 FRI>
 ```diff
 - PLAN
-CS 7644 Lecture Project 1 / O
-! 09:30 - 10:00 | Studied "CS7644 Lecture Project 1"
-+ 10:00 - 11:00 | Studied "CS7644 Lecture Project 1"
-+ 11:00 - 12:00 | Studied "CS7644 Lecture Project 1"
 # 12:00 - 13:00 | Lunch
 # 13:00 - 14:00 | TBD
 # 14:00 - 15:00 | TBD
@@ -53,6 +49,16 @@ CS 7644 Lecture Project 1 / O
 # 20:00 - 21:00 | TBD
 # 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
+```
+
+#### <2023/09/14 THU>
+```diff
+- PLAN
+CS 7644 Lecture Project 1 / O
+! 09:30 - 10:00 | Studied "CS7644 Lecture Project 1"
++ 10:00 - 11:00 | Studied "CS7644 Lecture Project 1"
++ 11:00 - 12:00 | Studied "CS7644 Lecture Project 1"
+# 12:00 - 13:00 | Lunch
 ```
 
 #### <2023/09/13 WED>
