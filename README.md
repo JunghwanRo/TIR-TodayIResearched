@@ -45,7 +45,7 @@ Proceed Research /
 + 11:00 - 12:00 | Studied "Supervised Learning Assignment - CS7641"
 # 12:00 - 13:00 | Lunch
 # 13:00 - 14:00 | Wasted
-# 14:00 - 15:00 | TBD
+# 14:00 - 15:00 | Wasted
 # 15:00 - 16:00 | TBD
 # 16:00 - 17:00 | TBD
 # 17:00 - 18:00 | TBD
