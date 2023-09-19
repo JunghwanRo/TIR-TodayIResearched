@@ -35,17 +35,13 @@ Review of Hours. What I did. Concentration level.
 
 ### September.
 
-#### <2023/09/18 MON>
+#### <2023/09/19 TUE>
 ```diff
 - PLAN
-CS7641 Supervised Learning Assignment /
-Proceed Research / 
-! 09:00 - 10:00 | Studied "Supervised Learning Assignment - CS7641"
-+ 10:00 - 11:00 | Studied "Supervised Learning Assignment - CS7641"
-+ 11:00 - 12:00 | Studied "Supervised Learning Assignment - CS7641"
+! 11:00 - 12:00 | Quick Lunch, Prepare for Weekly Meeting
 # 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | Wasted
-# 14:00 - 15:00 | Wasted
+# 13:00 - 14:00 | TBD
+# 14:00 - 15:00 | TBD
 # 15:00 - 16:00 | TBD
 # 16:00 - 17:00 | TBD
 # 17:00 - 18:00 | TBD
@@ -54,6 +50,19 @@ Proceed Research /
 # 20:00 - 21:00 | TBD
 # 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
+```
+
+#### <2023/09/18 MON>
+```diff
+- PLAN
+CS7641 Supervised Learning Assignment / X
+Proceed Research / X
+! 09:00 - 10:00 | Studied "Supervised Learning Assignment - CS7641"
++ 10:00 - 11:00 | Studied "Supervised Learning Assignment - CS7641"
++ 11:00 - 12:00 | Studied "Supervised Learning Assignment - CS7641"
+# 12:00 - 13:00 | Lunch
+# 13:00 - 14:00 | Wasted
+# 14:00 - 15:00 | Wasted
 ```
 
 #### <2023/09/17 SUN>
