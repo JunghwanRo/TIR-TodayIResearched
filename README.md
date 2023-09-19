@@ -38,9 +38,13 @@ Review of Hours. What I did. Concentration level.
 #### <2023/09/19 TUE>
 ```diff
 - PLAN
+Prepare for Weekly Meeting / 
+CS7644 Project / 
+Study CT / 
+Study Nerf / 
 ! 11:00 - 12:00 | Quick Lunch, Prepare for Weekly Meeting
-# 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
+# 12:00 - 13:00 | Prepare for Weekly Meeting
+# 13:00 - 14:00 | Prepare for Weekly Meeting
 # 14:00 - 15:00 | TBD
 # 15:00 - 16:00 | TBD
 # 16:00 - 17:00 | TBD
