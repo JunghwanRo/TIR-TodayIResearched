@@ -43,17 +43,14 @@ CS7644 Project /
 Study CT / 
 Study Nerf / 
 ! 11:00 - 12:00 | Quick Lunch, Prepare for Weekly Meeting
-# 12:00 - 13:00 | Prepare for Weekly Meeting
-# 13:00 - 14:00 | Prepare for Weekly Meeting
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
++ 12:00 - 13:00 | Prepare for Weekly Meeting
++ 13:00 - 14:00 | Prepare for Weekly Meeting
+! 14:00 - 15:00 | Lecture CS7644
++ 15:00 - 16:00 | Lecture CS7644
++ 16:00 - 17:00 | Studied "Project1 - CS7644"
++ 17:00 - 18:00 | Studied "Project1 - CS7644"
 # 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
+Meeting with Anthuane
 ```
 
 #### <2023/09/18 MON>
