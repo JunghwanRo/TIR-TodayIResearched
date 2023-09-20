@@ -45,9 +45,9 @@ Implement NeRF /
 + 08:20 - 09:00 | Plan the Day, Studied "10 simple rules to read a scientific paper"
 + 09:00 - 10:00 | Studied "Radon Transform - Medium, Blogs, Wikipedia"
 + 10:00 - 11:00 | Researched "Implement Radon Transform - Python"
-# 11:00 - 12:00 | TBD
++ 11:00 - 12:00 | Researched "Implement Radon Transform - Python"
 # 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
++ 13:00 - 14:00 | Researched "VRX Competition Explanation"
 # 14:00 - 15:00 | TBD
 # 15:00 - 16:00 | TBD
 # 16:00 - 17:00 | TBD
