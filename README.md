@@ -52,9 +52,9 @@ Implement NeRF /
 + 15:00 - 16:00 | Researched "Implement NeRF"
 ! 16:00 - 17:00 | Researched "Implement NeRF"
 ! 17:00 - 18:00 | Researched "Implement NeRF"
-# 18:00 - 19:00 | Quick Dinner
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
+! 18:00 - 19:00 | Quick Dinner, Studied "Multi-Robot Path Planning - Cambridge"
+! 19:00 - 20:00 | Studied "NeRF"
++ 20:00 - 21:00 | Studied "Dataset Selection - CS7641"
 # 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
 ```
