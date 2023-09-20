@@ -41,7 +41,7 @@ Review of Hours. What I did. Concentration level.
 Understand Radon Transform /
 Understand NeRF /
 Implement Radon-NeRF / 
-# 08:23 - 09:00 | Plan the Day, 
++ 08:20 - 09:00 | Plan the Day, Studied "10 simple rules to read a scientific paper"
 # 09:00 - 10:00 | TBD
 # 10:00 - 11:00 | TBD
 # 11:00 - 12:00 | TBD
