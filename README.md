@@ -41,8 +41,8 @@ Review of Hours. What I did. Concentration level.
 CS 7644 Lecture /
 NeRF 1D to 2D implement /
 Little French / 
-# 08:56 - 10:00 | Plan the Day, 
-# 10:00 - 11:00 | TBD
++ 08:56 - 10:00 | Plan the Day, Researched "NeRF implementation 1D to 2D"
++ 10:00 - 11:00 | Studied "Bayesian Probability - CS7644 Lecture"
 # 11:00 - 12:00 | TBD
 # 12:00 - 13:00 | Lunch
 # 13:00 - 14:00 | TBD
