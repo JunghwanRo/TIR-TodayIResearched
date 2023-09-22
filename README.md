@@ -38,9 +38,9 @@ Review of Hours. What I did. Concentration level.
 #### <2023/09/21 THU>
 ```diff
 - PLAN
-CS 7644 Lecture /
-NeRF 1D to 2D implement /
-Little French / 
+CS 7644 Lecture / O
+NeRF 1D to 2D implement / 
+Little French / O
 + 08:56 - 10:00 | Plan the Day, Researched "NeRF implementation 1D to 2D"
 + 10:00 - 11:00 | Studied "Bayesian Probability - CS7644 Lecture"
 ! 11:00 - 12:00 | Researched "NeRF 1D to 2D implement"
@@ -48,13 +48,12 @@ Little French /
 + 13:00 - 14:00 | Researched "Minesweeper new Movement"
 ! 14:00 - 15:00 | Researched "NeRF 1D to 2D implement"
 ! 15:00 - 16:00 | Researched "NeRF 1D to 2D implement"
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
-# 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
++ 16:00 - 17:00 | Researched "NeRF 1D to 2D implement", Studied "Little French"
+! 17:00 - 18:00 | Researched "NeRF 1D to 2D implement"
++ 18:00 - 19:00 | Researched "NeRF 1D to 2D implement"
+! 19:00 - 20:00 | Researched "NeRF 1D to 2D implement"
+# 20:00 - 21:00 | Dinner
+! 21:00 - 22:00 | Researched "NeRF 1D to 2D implement"
 ```
 
 #### <2023/09/20 WED>
