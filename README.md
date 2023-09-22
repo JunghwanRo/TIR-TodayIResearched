@@ -38,8 +38,9 @@ Review of Hours. What I did. Concentration level.
 #### <2023/09/22 FRI>
 ```diff
 - PLAN
-# 08:00 - 09:00 | Plan the Day, 
-# 09:00 - 10:00 | TBD
+Prepare for Research Meeting /
+ML Supervised Learning HW / 
+# 09:00 - 10:00 | Plan the Day, 
 # 10:00 - 11:00 | TBD
 # 11:00 - 12:00 | TBD
 # 12:00 - 13:00 | Lunch
