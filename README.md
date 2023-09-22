@@ -44,9 +44,9 @@ ML Supervised Learning HW /
 + 10:00 - 11:00 | Researched "Implement 2D NeRF"
 + 11:00 - 12:00 | Researched "Implement 2D NeRF"
 # 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | Prepare for Research Meeting
-# 14:00 - 15:00 | Research Meeting
-# 15:00 - 16:00 | TBD
++ 13:00 - 14:00 | Prepare for Research Meeting
++ 14:00 - 15:00 | Research Meeting
++ 15:00 - 16:00 | Research Meeting, Discussion about Boat
 # 16:00 - 17:00 | TBD
 # 17:00 - 18:00 | TBD
 # 18:00 - 19:00 | Dinner
