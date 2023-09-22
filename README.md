@@ -47,10 +47,10 @@ ML Supervised Learning HW /
 + 13:00 - 14:00 | Prepare for Research Meeting
 + 14:00 - 15:00 | Research Meeting
 + 15:00 - 16:00 | Research Meeting, Discussion about Boat
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
+! 16:00 - 17:00 | Studied "Literature Review Boat"
+! 17:00 - 18:00 | Studied "Supervised Learning Assignment - CS7641"
 # 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
++ 19:00 - 20:00 | Studied "Supervised Learning Assignment - CS7641"
 # 20:00 - 21:00 | TBD
 # 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
