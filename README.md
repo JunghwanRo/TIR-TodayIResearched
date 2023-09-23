@@ -35,11 +35,30 @@ Review of Hours. What I did. Concentration level.
 
 ### September.
 
+#### <YYYY/MM/DD DAY>
+```diff
+- PLAN
+Shopping Grocery / O
+CS7641 HW Supervised Learning / 
+# 10:45 - 12:00 | TBD
+# 12:00 - 13:00 | Lunch
+# 13:00 - 14:00 | TBD
+# 14:00 - 15:00 | TBD
+# 15:00 - 16:00 | TBD
+# 16:00 - 17:00 | TBD
+# 17:00 - 18:00 | TBD
+# 18:00 - 19:00 | Dinner
+# 19:00 - 20:00 | TBD
+# 20:00 - 21:00 | TBD
+# 21:00 - 22:00 | TBD
+# 22:00 - 23:00 | TBD
+```
+
 #### <2023/09/22 FRI>
 ```diff
 - PLAN
-Prepare for Research Meeting /
-ML Supervised Learning HW / 
+Prepare for Research Meeting / O
+ML Supervised Learning HW / -
 ! 09:00 - 10:00 | Plan the Day, Researched "Implement 2D NeRF"
 + 10:00 - 11:00 | Researched "Implement 2D NeRF"
 + 11:00 - 12:00 | Researched "Implement 2D NeRF"
@@ -51,9 +70,7 @@ ML Supervised Learning HW /
 ! 17:00 - 18:00 | Studied "Supervised Learning Assignment - CS7641"
 # 18:00 - 19:00 | Dinner
 + 19:00 - 20:00 | Studied "Supervised Learning Assignment - CS7641"
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
++ 20:00 - 21:00 | Studied "Supervised Learning Assignment - CS7641"
 ```
 
 #### <2023/09/21 THU>
