@@ -38,24 +38,24 @@ Review of Hours. What I did. Concentration level.
 #### <2023/09/25 TUE>
 ```diff
 - PLAN
-Run the VRX Simulation /
-CS7644 Lecture /
-CS7644 Project1 Running / 
-# 08:20 - 09:00 | Plan the Day, 
-# 09:00 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
+Run the VRX Simulation / O
+CS7644 Lecture / O
+CS7644 Project1 Running / O
++ 08:20 - 09:00 | Plan the Day, Researched "Run the VRX Simulation"
++ 09:00 - 10:00 | Researched "Run the VRX Simulation"
++ 10:00 - 11:00 | Researched "Run the VRX Simulation"
++ 11:00 - 12:00 | Researched "Literature Review - Surface Vehicle"
 # 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
-# 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
++ 13:00 - 14:00 | Prepared for Research Meeting
++ 14:00 - 15:00 | Research Meeting
++ 15:00 - 16:00 | CS7644 Lecture
++ 16:00 - 17:00 | CS7644 Lecture
++ 17:00 - 18:00 | Researched "Run the VRX Simulation"
++ 18:00 - 19:00 | Studied "Project1 - CS7644"
+! 19:00 - 20:00 | Quick Dinner, Studied "Project1 - CS7644"
++ 20:00 - 21:00 | Studied "Project1 - CS7644"
++ 21:00 - 22:00 | Researched "Literature Review - Surface Vehicle"
+! 22:00 - 22:30 | Researched "Literature Review - Surface Vehicle"
 ```
 
 #### <2023/09/25 MON>
