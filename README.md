@@ -50,7 +50,7 @@ Review of Hours. What I did. Concentration level.
 + 17:00 - 18:00 | Researched "Debug the joystick control - VRX Tutorial"
 + 18:00 - 19:00 | Dinner, CORA
 ! 19:00 - 20:00 | CORA, Researched "VRX Tutorial"
-# 20:00 - 21:00 | TBD
+# 20:00 - 21:00 | Home, Laundry
 # 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
 ```
