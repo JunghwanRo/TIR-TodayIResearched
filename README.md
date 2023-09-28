@@ -38,9 +38,9 @@ Review of Hours. What I did. Concentration level.
 #### <2023/09/27 THU>
 ```diff
 - PLAN
-# 08:00 - 09:00 | Plan the Day, 
-# 09:00 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
++ 08:10 - 09:00 | Plan the Day, Literature Review for Boat Simulation
++ 09:00 - 10:00 | CS7644 Lecture
++ 10:00 - 11:00 | CS7644 Lecture
 # 11:00 - 12:00 | TBD
 # 12:00 - 13:00 | Lunch
 # 13:00 - 14:00 | TBD
