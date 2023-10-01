@@ -39,12 +39,12 @@ Review of Hours. What I did. Concentration level.
 ```diff
 - PLAN
 # 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
-# 18:00 - 19:00 | Dinner
+# 13:00 - 14:00 | Move to Zurich HUB
+# 14:00 - 15:00 | Move to Zurich HUB
+! 15:00 - 16:00 | Studied "UL 1 - CS7641"
++ 16:00 - 17:00 | Studied "UL 1 - CS7641"
++ 17:00 - 18:00 | Studied "UL 1 - CS7641"
+# 18:00 - 19:00 | TBD
 # 19:00 - 20:00 | TBD
 # 20:00 - 21:00 | TBD
 # 21:00 - 22:00 | TBD
