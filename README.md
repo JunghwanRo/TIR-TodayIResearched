@@ -60,7 +60,7 @@ Review of Hours. What I did. Concentration level.
 - PLAN
 Research Meeting / O
 Field Test Experience / O
-Visit Juli /
+Visit Juli / O
 ! 08:30 - 09:00 | Plan the Day, Researched "VRX Tutorial"
 + 09:00 - 10:00 | Researched "VRX Tutorial"
 + 10:00 - 11:00 | Prepare for Research Meeting, Research Meeting
@@ -68,14 +68,14 @@ Visit Juli /
 # 12:00 - 13:00 | Lunch
 + 13:00 - 14:00 | Field Test - Heron
 + 14:00 - 15:00 | Field Test - Heron
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
-# 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
+! 15:00 - 16:00 | TBD
++ 16:00 - 17:00 | Print out some Papers, Luis Research Meeting
+! 17:00 - 18:00 | Move to Gare Metz, Read "Autonomous Exploration for Robotic Environmental Monitoring"
++ 18:00 - 19:00 | Studied "Reinforcement Learning - Coursera"
+! 19:00 - 20:00 | Studied "Reinforcement Learning - Coursera"
+! 20:00 - 21:00 | Studied "Reinforcement Learning - Coursera"
++ 21:00 - 22:00 | Studied "Reinforcement Learning - Coursera"
+# 22:00 - 23:00 | Move to Orelikon
 ```
 
 #### <2023/09/27 THU>
