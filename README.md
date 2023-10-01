@@ -44,11 +44,10 @@ Review of Hours. What I did. Concentration level.
 ! 15:00 - 16:00 | Studied "UL 1 - CS7641"
 + 16:00 - 17:00 | Studied "UL 1 - CS7641"
 + 17:00 - 18:00 | Studied "UL 1 - CS7641"
-# 18:00 - 19:00 | TBD
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
++ 18:00 - 19:00 | Studied "UL 1 - CS7641"
+! 19:00 - 20:00 | Studied "Reinforcement Learning - Coursera"
+# 20:00 - 21:00 | Go to Campus
++ 21:00 - 22:00 | Studied "Reinforcement Learning - Coursera"
 ```
 
 ### September.
