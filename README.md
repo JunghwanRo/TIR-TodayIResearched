@@ -33,9 +33,9 @@ Review of Hours. What I did. Concentration level.
 
 ## 2023
 
-### September.
+### October.
 
-#### <YYYY/MM/DD DAY>
+#### <2023/10/01 SUN>
 ```diff
 - PLAN
 # 08:00 - 09:00 | Plan the Day, 
@@ -55,7 +55,22 @@ Review of Hours. What I did. Concentration level.
 # 22:00 - 23:00 | TBD
 ```
 
-#### <2023/09/28 FRI>
+### September.
+
+#### <2023/09/30 SAT>
+```diff
+- PLAN
+Fun with Juli / O
+Finish Two Lecture from MIT / O
++ 11:00 - 12:00 | Studied "Deep Learning - MIT"
+# 12:00 - 13:00 | Lunch
+! 13:00 - 14:00 | Studied "Deep Learning - MIT"
+! 14:00 - 15:00 | Studied "Deep Learning - MIT"
++ 15:00 - 16:00 | Studied "Deep Learning - MIT"
+! 16:00 - 17:00 | Read "Autonomous inland Water Monitoring"
+```
+
+#### <2023/09/29 FRI>
 ```diff
 - PLAN
 Research Meeting / O
@@ -78,7 +93,7 @@ Visit Juli / O
 # 22:00 - 23:00 | Move to Orelikon
 ```
 
-#### <2023/09/27 THU>
+#### <2023/09/28 THU>
 ```diff
 - PLAN
 + 08:10 - 09:00 | Plan the Day, Literature Review for Boat Simulation
@@ -97,7 +112,7 @@ Visit Juli / O
 + 21:00 - 22:00 | Studied "Read k Bandit - Coursera"
 ```
 
-#### <2023/09/26 WED>
+#### <2023/09/27 WED>
 ```diff
 - PLAN
 Finish Project1 CS7644 / O
@@ -120,7 +135,7 @@ VRX Simulation Setup on GPU Server / X
 + 22:00 - 23:00 | Finish Project1 CS7644
 ```
 
-#### <2023/09/25 TUE>
+#### <2023/09/26 TUE>
 ```diff
 - PLAN
 Run the VRX Simulation / O
