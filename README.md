@@ -52,8 +52,8 @@ Problem Set 1 - CS7641 / X
 + 17:00 - 18:00 | Researched "Station Keeping - VRX Challenge"
 + 18:00 - 19:00 | Researched "Station Keeping - VRX Challenge"
 ! 19:00 - 20:00 | Researched "Docker Image Saving - VRX Challenge"
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
+# 20:00 - 21:00 | Dinner! Mammamia!
++ 21:00 - 22:00 | Studied "Problem Set 1 - CS7641"
 # 22:00 - 23:00 | TBD
 ```
 
