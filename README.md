@@ -38,20 +38,20 @@ Review of Hours. What I did. Concentration level.
 #### <2023/10/02 MON>
 ```diff
 - PLAN
-Basic Working Algorithm for VRX Challenge /
-Problem Set 1 - CS7641 / 
-# 08:00 - 09:00 | Plan the Day, 
-# 09:00 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
-# 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
-# 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
+Basic Working Algorithm for VRX Challenge / O
+Problem Set 1 - CS7641 / X
++ 08:00 - 09:00 | Plan the Day, Researched "VRX Challenge Debug... no joystick"
++ 09:00 - 10:00 | Researched "VRX Challenge Debug... no joystick"
++ 10:00 - 11:00 | Researched "VRX Challenge Debug... no joystick"
++ 11:00 - 12:00 | Researched "Station Keeping - VRX Challenge"
+! 12:00 - 13:00 | Quick Lunch, Researched "Station Keeping - VRX Challenge"
++ 13:00 - 14:00 | Researched "GPS UPM transform"
+! 14:00 - 15:00 | Researched "GPS UPM transform"
++ 15:00 - 16:00 | Researched "Writing Bugwright2 Deliverable"
++ 16:00 - 17:00 | Researched "Station Keeping - VRX Challenge"
++ 17:00 - 18:00 | Researched "Station Keeping - VRX Challenge"
++ 18:00 - 19:00 | Researched "Station Keeping - VRX Challenge"
+! 19:00 - 20:00 | Researched "Docker Image Saving - VRX Challenge"
 # 20:00 - 21:00 | TBD
 # 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
