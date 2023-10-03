@@ -46,8 +46,8 @@ Make a Trial Program for VRX Station Keeping /
 + 09:00 - 10:00 | Researched "Docker restart for VRX simulation"
 + 10:00 - 11:00 | Researched "VRX simulation Task 1 station keeping"
 + 11:00 - 12:00 | Quick Lunch, Studied "Quaternions - 3Blue1Brown" 
-# 12:00 - 13:00 | TBD
-# 13:00 - 14:00 | TBD
+! 12:00 - 13:00 | Studied "GPS and IMU"
+! 13:00 - 14:00 | Little Walk with Pete, 
 # 14:00 - 15:00 | Weekly Meeting
 # 15:00 - 16:00 | CS7644 Lecture
 # 16:00 - 17:00 | CS7644 Lecture
