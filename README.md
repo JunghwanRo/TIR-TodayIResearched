@@ -48,9 +48,9 @@ Make a Trial Program for VRX Station Keeping /
 + 11:00 - 12:00 | Quick Lunch, Studied "Quaternions - 3Blue1Brown" 
 ! 12:00 - 13:00 | Studied "GPS and IMU"
 ! 13:00 - 14:00 | Little Walk with Pete, 
-# 14:00 - 15:00 | Weekly Meeting
-# 15:00 - 16:00 | CS7644 Lecture
-# 16:00 - 17:00 | CS7644 Lecture
++ 14:00 - 15:00 | Weekly Meeting
++ 15:00 - 16:00 | CS7644 Lecture
++ 16:00 - 17:00 | CS7644 Lecture
 # 17:00 - 18:00 | TBD
 # 18:00 - 19:00 | Dinner
 # 19:00 - 20:00 | TBD
