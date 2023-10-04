@@ -38,19 +38,19 @@ Review of Hours. What I did. Concentration level.
 #### <2023/10/04 WED>
 ```diff
 - PLAN
-VRX Trial Program for Task 1 /
-Problem Set 1 CS7641 /
-RL Week 4 / 
-# 08:45 - 09:00 | Plan the Day, 
-# 09:00 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
+VRX Trial Program for Task 1 / O
+Problem Set 1 CS7641 / O
+RL Week 4 / X
+! 08:45 - 09:00 | Plan the Day, Researched "Station Keeping - VRX"
++ 09:00 - 10:00 | Researched "Station Keeping - VRX"
++ 10:00 - 11:00 | Researched "Station Keeping - VRX"
++ 11:00 - 12:00 | Researched "Station Keeping - VRX"
 # 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
++ 13:00 - 14:00 | Researched "Station Keeping - VRX"
+! 14:00 - 15:00 | Studied "River Cleaning Projects"
+! 15:00 - 16:00 | Researched "ROS Task Manager"
++ 16:00 - 17:00 | Researched "ROS Task Manager"
++ 17:00 - 18:00 | Studied "Problem Set 1 - CS7641"
 # 18:00 - 19:00 | Dinner
 # 19:00 - 20:00 | TBD
 # 20:00 - 21:00 | TBD
