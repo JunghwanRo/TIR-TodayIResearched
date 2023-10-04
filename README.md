@@ -35,13 +35,36 @@ Review of Hours. What I did. Concentration level.
 
 ### October.
 
+#### <2023/10/04 WED>
+```diff
+- PLAN
+VRX Trial Program for Task 1 /
+Problem Set 1 CS7641 /
+RL Week 4 / 
+# 08:45 - 09:00 | Plan the Day, 
+# 09:00 - 10:00 | TBD
+# 10:00 - 11:00 | TBD
+# 11:00 - 12:00 | TBD
+# 12:00 - 13:00 | Lunch
+# 13:00 - 14:00 | TBD
+# 14:00 - 15:00 | TBD
+# 15:00 - 16:00 | TBD
+# 16:00 - 17:00 | TBD
+# 17:00 - 18:00 | TBD
+# 18:00 - 19:00 | Dinner
+# 19:00 - 20:00 | TBD
+# 20:00 - 21:00 | TBD
+# 21:00 - 22:00 | TBD
+# 22:00 - 23:00 | TBD
+```
+
 #### <2023/10/03 TUE>
 ```diff
 - PLAN
-CS7644 Lecture /
-Weekly Team Meeting /
-Finish Problem Set 1 CS7641 /
-Make a Trial Program for VRX Station Keeping / 
+CS7644 Lecture / O
+Weekly Team Meeting / O
+Finish Problem Set 1 CS7641 / X
+Make a Trial Program for VRX Station Keeping / X 
 + 08:07 - 09:00 | Plan the Day, Studied "Fundamentals of Reinforcement Learning - Coursera"
 + 09:00 - 10:00 | Researched "Docker restart for VRX simulation"
 + 10:00 - 11:00 | Researched "VRX simulation Task 1 station keeping"
@@ -53,10 +76,8 @@ Make a Trial Program for VRX Station Keeping /
 + 16:00 - 17:00 | CS7644 Lecture
 ! 17:00 - 18:00 | Studied "Policies and Value Functions - Coursera"
 # 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
+! 19:00 - 20:00 | Studied "Policies and Value Functions - Coursera"
+! 20:00 - 21:00 | Studied "Policies and Value Functions - Coursera"
 ```
 
 #### <2023/10/02 MON>
