@@ -38,13 +38,14 @@ Review of Hours. What I did. Concentration level.
 #### <2023/10/05 THU>
 ```diff
 - PLAN
-Project2 - CS7644 /
+CS7644 Lecture / O
+Project2 - CS7644 / 
 Finish Several Task's Trial Version for VRX /
 Check ML Midterm / 
-# 08:45 - 09:00 | Plan the Day, 
-# 09:00 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
+! 08:45 - 09:00 | Plan the Day, Researched "VRX Simulation" 
++ 09:00 - 10:00 | Researched "VRX Simulation", CS7644 Lecture
++ 10:00 - 11:00 | CS7644 Lecture
++ 11:00 - 12:00 | Researched "GoTo Node - VRX Simulation"
 # 12:00 - 13:00 | Lunch
 # 13:00 - 14:00 | TBD
 # 14:00 - 15:00 | TBD
