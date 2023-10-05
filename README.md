@@ -39,9 +39,9 @@ Review of Hours. What I did. Concentration level.
 ```diff
 - PLAN
 CS7644 Lecture / O
-Project2 - CS7644 / 
-Finish Several Task's Trial Version for VRX /
-Check ML Midterm / 
+Project2 - CS7644 / -
+Finish Several Task's Trial Version for VRX / -
+Check ML Midterm / X
 ! 08:45 - 09:00 | Plan the Day, Researched "VRX Simulation" 
 + 09:00 - 10:00 | Researched "VRX Simulation", CS7644 Lecture
 + 10:00 - 11:00 | CS7644 Lecture
@@ -50,9 +50,9 @@ Check ML Midterm /
 + 13:00 - 14:00 | Researched "WayFinding Node - VRX Simulation"
 + 14:00 - 15:00 | Researched "WayFinding Node - VRX Simulation"
 + 15:00 - 16:00 | Researched "WayFinding Node - VRX Simulation"
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
-# 18:00 - 19:00 | Dinner
++ 16:00 - 17:00 | Researched "WayFinding Node - VRX Simulation"
+# 17:00 - 18:00 | Search how to use EBook Reader on Ubuntu20.04
++ 18:00 - 19:00 | Quick Dinner, Studied "Reinforcement Leaning - Korean Book"
 # 19:00 - 20:00 | TBD
 # 20:00 - 21:00 | TBD
 # 21:00 - 22:00 | TBD
