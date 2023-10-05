@@ -47,9 +47,9 @@ Check ML Midterm /
 + 10:00 - 11:00 | CS7644 Lecture
 + 11:00 - 12:00 | Researched "GoTo Node - VRX Simulation"
 # 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
++ 13:00 - 14:00 | Researched "WayFinding Node - VRX Simulation"
++ 14:00 - 15:00 | Researched "WayFinding Node - VRX Simulation"
++ 15:00 - 16:00 | Researched "WayFinding Node - VRX Simulation"
 # 16:00 - 17:00 | TBD
 # 17:00 - 18:00 | TBD
 # 18:00 - 19:00 | Dinner
