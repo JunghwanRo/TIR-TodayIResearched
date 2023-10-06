@@ -38,14 +38,19 @@ Review of Hours. What I did. Concentration level.
 #### <2023/10/06 FRI>
 ```diff
 - PLAN
-# 08:00 - 09:00 | Plan the Day, 
-# 09:00 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
-# 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
+Finish Waypoint - VRX Challenge / O
+Research Meeting / O
+Check ML Midterm /
+Finish Base ML Book /
+Finish Week 4 Lecture - RL Coursera / 
+! 08:45 - 09:00 | Plan the Day
++ 09:00 - 10:00 | Researched "Task 2 Waypoint - VRX Challenge"
++ 10:00 - 11:00 | Researched "Task 2 Waypoint - VRX Challenge"
+! 11:00 - 12:00 | Resear
+! 12:00 - 13:00 | Quick Lunch, Search Possible PhD Programs
++ 13:00 - 14:00 | Research Meeting preparation, Search Possible Topic
++ 14:00 - 15:00 | Research Meeting
++ 15:00 - 16:00 | Research Meeting
 # 16:00 - 17:00 | TBD
 # 17:00 - 18:00 | TBD
 # 18:00 - 19:00 | Dinner
