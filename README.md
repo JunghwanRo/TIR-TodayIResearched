@@ -46,7 +46,7 @@ Finish Week 4 Lecture - RL Coursera /
 ! 08:45 - 09:00 | Plan the Day
 + 09:00 - 10:00 | Researched "Task 2 Waypoint - VRX Challenge"
 + 10:00 - 11:00 | Researched "Task 2 Waypoint - VRX Challenge"
-! 11:00 - 12:00 | Resear
+! 11:00 - 12:00 | Search Possible PhD Programs
 ! 12:00 - 13:00 | Quick Lunch, Search Possible PhD Programs
 + 13:00 - 14:00 | Research Meeting preparation, Search Possible Topic
 + 14:00 - 15:00 | Research Meeting
