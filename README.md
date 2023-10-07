@@ -37,6 +37,8 @@ Review of Hours. What I did. Concentration level.
 
 #### <2023/10/07 SAT>
 ```diff
+Did Grocery Shopping.
+Did Hair Cut.
 - PLAN
 + 16:00 - 17:00 | Studied "Reinforcement Learning - CS7641"
 + 17:00 - 18:00 | Studied "Reinforcement Learning - CS7641"
