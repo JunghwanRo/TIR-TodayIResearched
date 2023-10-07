@@ -35,14 +35,26 @@ Review of Hours. What I did. Concentration level.
 
 ### October.
 
+#### <2023/10/07 SAT>
+```diff
+- PLAN
++ 16:00 - 17:00 | Studied "Reinforcement Learning - CS7641"
++ 17:00 - 18:00 | Studied "Reinforcement Learning - CS7641"
+# 18:00 - 19:00 | Dinner
+# 19:00 - 20:00 | TBD
+# 20:00 - 21:00 | TBD
+# 21:00 - 22:00 | TBD
+# 22:00 - 23:00 | TBD
+```
+
 #### <2023/10/06 FRI>
 ```diff
 - PLAN
 Finish Waypoint - VRX Challenge / O
 Research Meeting / O
-Check ML Midterm /
-Finish Base ML Book /
-Finish Week 4 Lecture - RL Coursera / 
+Check ML Midterm / O
+Finish Base ML Book / O
+Finish Week 4 Lecture - RL Coursera / X
 ! 08:45 - 09:00 | Plan the Day
 + 09:00 - 10:00 | Researched "Task 2 Waypoint - VRX Challenge"
 + 10:00 - 11:00 | Researched "Task 2 Waypoint - VRX Challenge"
@@ -51,13 +63,11 @@ Finish Week 4 Lecture - RL Coursera /
 + 13:00 - 14:00 | Research Meeting preparation, Search Possible Topic
 + 14:00 - 15:00 | Research Meeting
 + 15:00 - 16:00 | Research Meeting
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
++ 16:00 - 17:00 | Studied "RL - Base Reinforcement Learning Ridi"
++ 17:00 - 18:00 | Studied "RL - Base Reinforcement Learning Ridi"
 # 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
+! 19:00 - 20:00 | Studied "RL - Coursera"
++ 20:00 - 21:00 | Studied "RL - Coursera"
 ```
 
 #### <2023/10/05 THU>
