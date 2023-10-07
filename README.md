@@ -42,8 +42,8 @@ Did Hair Cut.
 - PLAN
 + 16:00 - 17:00 | Studied "Reinforcement Learning - CS7641"
 + 17:00 - 18:00 | Studied "Reinforcement Learning - CS7641"
-# 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
+! 18:00 - 19:00 | Quick Dinner, Studied "Reinforcement Learning - CS7641"
++ 19:00 - 20:00 | Studied "Supervised Learning Midterm - CS7641"
 # 20:00 - 21:00 | TBD
 # 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
