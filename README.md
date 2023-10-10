@@ -39,20 +39,20 @@ Review of Hours. What I did. Concentration level.
 ```diff
 - PLAN
 Study CS7641 Midterm / O
-CS7644 Lecture / 
+CS7644 Lecture / O
 Weekly Meeting / 
 + 08:45 - 10:00 | Plan the Day, Stuided "Midterm - CS7644"
 + 10:00 - 11:00 | Stuided "Midterm - CS7644"
 + 11:00 - 12:00 | Stuided "Midterm - CS7644"
 # 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
-# 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
++ 13:00 - 14:00 | Stuided "Midterm - CS7644", Prepare Weekly Meeting
++ 14:00 - 15:00 | Weekly Meeting
++ 15:00 - 16:00 | CS7644 Lecture
++ 16:00 - 17:00 | CS7644 Lecture
++ 17:00 - 18:00 | Stuided "Midterm - CS7644"
++ 18:00 - 19:00 | Stuided "Midterm - CS7644"
+! 19:00 - 20:00 | Quick Dinner, Stuided "Midterm - CS7644"
++ 20:00 - 21:00 | Stuided "Midterm - CS7644"
 # 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
 ```
