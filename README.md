@@ -38,6 +38,9 @@ Review of Hours. What I did. Concentration level.
 #### <2023/10/11 WED>
 ```diff
 - PLAN
++ 00:00 - 01:00 | Took "Midterm - CS7641"
++ 01:00 - 02:00 | Took "Midterm - CS7641"
+
 # 08:40 - 09:00 | Plan the Day, 
 # 09:00 - 10:00 | TBD
 # 10:00 - 11:00 | TBD
