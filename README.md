@@ -13,7 +13,7 @@ Review of Hours. What I did. Concentration level.
 #### <YYYY/MM/DD DAY>
 ```diff
 - PLAN
-# 08:00 - 09:00 | Plan the Day, 
+# 08:00 - 09:00 | TBD
 # 09:00 - 10:00 | TBD
 # 10:00 - 11:00 | TBD
 # 11:00 - 12:00 | TBD
@@ -35,12 +35,36 @@ Review of Hours. What I did. Concentration level.
 
 ### October.
 
+#### <2023/10/12 THU>
+```diff
+- PLAN
+CS7644 Lecture /
+Assignment2 CS7641 /
+Bugwright2 Deliverable Outline /
+Topic Thinking / 
+# 08:00 - 09:00 | TBD
+# 09:00 - 10:00 | TBD
+# 10:00 - 11:00 | TBD
+# 11:00 - 12:00 | TBD
+# 12:00 - 13:00 | Lunch
+# 13:00 - 14:00 | TBD
+# 14:00 - 15:00 | TBD
+# 15:00 - 16:00 | TBD
+# 16:00 - 17:00 | TBD
+# 17:00 - 18:00 | TBD
+# 18:00 - 19:00 | Dinner
+# 19:00 - 20:00 | TBD
+# 20:00 - 21:00 | TBD
+# 21:00 - 22:00 | TBD
+# 22:00 - 23:00 | TBD
+```
+
 #### <2023/10/11 WED>
 ```diff
 - PLAN
-Check the pipeline of A2 - CS7641 /
-Make Outline of Bugwright2 Deliverable / 
-Finish Project2 - CS7644 / 
+Check the pipeline of A2 - CS7641 / -
+Make Outline of Bugwright2 Deliverable / X 
+Finish Project2 - CS7644 / -
 + 00:00 - 01:00 | Took "Midterm - CS7641"
 + 01:00 - 02:00 | Took "Midterm - CS7641"
 
@@ -56,9 +80,7 @@ Finish Project2 - CS7644 /
 + 17:00 - 18:00 | Studied "UL1 Lecture - CS7641"
 + 18:00 - 19:00 | Studied "Project2 - CS7644"
 + 19:00 - 20:00 | Studied "Project2 - CS7644"
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
+! 20:00 - 21:00 | Studied "Project2 - CS7644"
 ```
 
 #### <2023/10/10 TUE>
