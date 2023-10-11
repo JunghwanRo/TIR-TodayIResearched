@@ -44,12 +44,12 @@ Finish Project2 - CS7644 /
 + 00:00 - 01:00 | Took "Midterm - CS7641"
 + 01:00 - 02:00 | Took "Midterm - CS7641"
 
-# 08:40 - 09:00 | Plan the Day, 
-# 09:00 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
+! 08:40 - 09:00 | Plan the Day, Studied "IROS papers"
++ 09:00 - 10:00 | Studied "Reinforcement Learning - Coursera"
++ 10:00 - 11:00 | Studied "Reinforcement Learning - Coursera"
+! 11:00 - 12:00 | Studied "Reinforcement Learning - Coursera"
 # 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
+! 13:00 - 14:00 | Studied "Reinforcement Learning - Coursera"
 # 14:00 - 15:00 | TBD
 # 15:00 - 16:00 | TBD
 # 16:00 - 17:00 | TBD
