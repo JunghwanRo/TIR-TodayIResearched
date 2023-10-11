@@ -38,6 +38,9 @@ Review of Hours. What I did. Concentration level.
 #### <2023/10/11 WED>
 ```diff
 - PLAN
+Check the pipeline of A2 - CS7641 /
+Make Outline of Bugwright2 Deliverable / 
+Finish Project2 - CS7644 / 
 + 00:00 - 01:00 | Took "Midterm - CS7641"
 + 01:00 - 02:00 | Took "Midterm - CS7641"
 
