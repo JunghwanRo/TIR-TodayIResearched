@@ -38,16 +38,16 @@ Review of Hours. What I did. Concentration level.
 #### <2023/10/12 THU>
 ```diff
 - PLAN
-CS7644 Lecture /
+CS7644 Lecture / O
 Assignment2 CS7641 /
 Bugwright2 Deliverable Outline /
-Topic Thinking / 
-# 08:45 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
+Topic Thinking / O
++ 08:45 - 10:00 | Researched "Possible Research Topic", CS7644 Lecture
++ 10:00 - 11:00 | CS7644 Lecture
++ 11:00 - 12:00 | Researched "Possible Research Topic"
 # 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
++ 13:00 - 14:00 | Studied "Assignment2(RO) - CS7641"
++ 14:00 - 15:00 | Studied "Assignment2(RO) - CS7641"
 # 15:00 - 16:00 | TBD
 # 16:00 - 17:00 | TBD
 # 17:00 - 18:00 | TBD
