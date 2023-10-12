@@ -52,7 +52,7 @@ Topic Thinking / O
 + 16:00 - 17:00 | IROS papers check
 + 17:00 - 18:00 | Read "Underactuated MIMO Airship Control Based on Online Data-Driven RL"
 # 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
+# 19:00 - 20:00 | Wasted with Linkedin
 # 20:00 - 21:00 | TBD
 # 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
