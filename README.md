@@ -35,12 +35,32 @@ Review of Hours. What I did. Concentration level.
 
 ### October.
 
+#### <2023/10/13 FRI>
+```diff
+- PLAN
+! 08:30 - 09:00 | Read "Survey of Deep Learning for Autonomous Surface Vehicles in Marine Environments"
+# 09:00 - 10:00 | Researched "ROS_task_manager"
+# 10:00 - 11:00 | Researched "ROS_task_manager"
+# 11:00 - 12:00 | Researched "ROS_task_manager, not working properly with --merge-install"
+# 12:00 - 13:00 | Lunch
+# 13:00 - 14:00 | TBD
+# 14:00 - 15:00 | TBD
+# 15:00 - 16:00 | TBD
+# 16:00 - 17:00 | TBD
+# 17:00 - 18:00 | TBD
+# 18:00 - 19:00 | Dinner
+# 19:00 - 20:00 | TBD
+# 20:00 - 21:00 | TBD
+# 21:00 - 22:00 | TBD
+# 22:00 - 23:00 | TBD
+```
+
 #### <2023/10/12 THU>
 ```diff
 - PLAN
 CS7644 Lecture / O
-Assignment2 CS7641 /
-Bugwright2 Deliverable Outline /
+Assignment2 CS7641 / X
+Bugwright2 Deliverable Outline / X
 Topic Thinking / O
 + 08:45 - 10:00 | Researched "Possible Research Topic", CS7644 Lecture
 + 10:00 - 11:00 | CS7644 Lecture
