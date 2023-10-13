@@ -39,9 +39,9 @@ Review of Hours. What I did. Concentration level.
 ```diff
 - PLAN
 ! 08:30 - 09:00 | Read "Survey of Deep Learning for Autonomous Surface Vehicles in Marine Environments"
-# 09:00 - 10:00 | Researched "ROS_task_manager"
-# 10:00 - 11:00 | Researched "ROS_task_manager"
-# 11:00 - 12:00 | Researched "ROS_task_manager, not working properly with --merge-install"
++ 09:00 - 10:00 | Researched "ROS_task_manager"
++ 10:00 - 11:00 | Researched "ROS_task_manager"
++ 11:00 - 12:00 | Researched "ROS_task_manager, not working properly with --merge-install"
 # 12:00 - 13:00 | Lunch
 # 13:00 - 14:00 | TBD
 # 14:00 - 15:00 | TBD
