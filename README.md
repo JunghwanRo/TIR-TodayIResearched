@@ -35,7 +35,7 @@ Review of Hours. What I did. Concentration level.
 
 ### October.
 
-#### <2023/10/14 SAT>
+#### <2023/10/15 SUN>
 ```diff
 - PLAN
 # 08:00 - 09:00 | TBD
@@ -53,6 +53,23 @@ Review of Hours. What I did. Concentration level.
 # 20:00 - 21:00 | TBD
 # 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
+```
+
+#### <2023/10/14 SAT>
+```diff
+- PLAN
+! 12:00 - 13:00 | Lunch, Studied "ROS Task Manager"
++ 13:00 - 14:00 | Studied "Assignment2 - CS7641"
++ 14:00 - 15:00 | Studied "Assignment2 - CS7641"
++ 15:00 - 16:00 | Studied "Assignment2 - CS7641"
++ 16:00 - 17:00 | Studied "Assignment2 - CS7641"
++ 17:00 - 18:00 | Studied "Assignment2 - CS7641"
++ 18:00 - 19:00 | Studied "Assignment2 - CS7641"
++ 19:00 - 20:00 | Studied "Assignment2 - CS7641"
++ 20:00 - 21:00 | Studied "Assignment2 - CS7641"
++ 21:00 - 22:00 | Studied "Assignment2 - CS7641"
++ 22:00 - 23:00 | Studied "Assignment2 - CS7641"
++ 23:00 - 24:00 | Studied "Assignment2 - CS7641"
 ```
 
 #### <2023/10/13 FRI>
