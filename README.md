@@ -38,6 +38,8 @@ Review of Hours. What I did. Concentration level.
 #### <2023/10/15 SUN>
 ```diff
 - PLAN
+Finish Assignment 2 - CS7641 /
+
 # 08:00 - 09:00 | TBD
 # 09:00 - 10:00 | TBD
 # 10:00 - 11:00 | TBD
