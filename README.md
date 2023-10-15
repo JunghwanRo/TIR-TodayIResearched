@@ -38,7 +38,7 @@ Review of Hours. What I did. Concentration level.
 #### <2023/10/15 SUN>
 ```diff
 - PLAN
-Finish Assignment 2 - CS7641 /
+Finish Assignment 2 - CS7641 / -
 Step1 Apply same program to Problem 1 and 2 /
 Step2 Generate Interesting Plot with Mushroom Dataset /
 Step3 Do parameter (width, depth) search for NN Problem /
