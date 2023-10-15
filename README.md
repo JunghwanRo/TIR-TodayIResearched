@@ -39,16 +39,15 @@ Review of Hours. What I did. Concentration level.
 ```diff
 - PLAN
 Finish Assignment 2 - CS7641 / -
-Step1 Apply same program to Problem 1 and 2 /
-Step2 Generate Interesting Plot with Mushroom Dataset /
-Step3 Do parameter (width, depth) search for NN Problem /
+Step1 Apply same program to Problem 1 and 2 / O
+Step2 Check Assignment 1 Dataset / O
+Step3 Do parameter (width, depth) search for NN Problem / O
 Step4 Use mlrose backpropagation, find the weight for NN /
 Step5 Use 3 algorithms to find the weight for NN /
-Step6 Write Report / 
-# 08:00 - 09:00 | TBD
-# 09:00 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
+Step6 Write Report /
+# 09:00 - 10:00 | Brunch
++ 10:00 - 11:00 | Studied "Assignment2 - CS7641"
++ 11:00 - 12:00 | Studied "Assignment2 - CS7641"
 # 12:00 - 13:00 | Lunch
 # 13:00 - 14:00 | TBD
 # 14:00 - 15:00 | TBD
