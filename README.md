@@ -62,9 +62,9 @@ Finish Assignment 2 - CS7641 / -
 Step1 Apply same program to Problem 1 and 2 / O
 Step2 Check Assignment 1 Dataset / O
 Step3 Do parameter (width, depth) search for NN Problem / O
-Step4 Use mlrose backpropagation, find the weight for NN /
-Step5 Use 3 algorithms to find the weight for NN /
-Step6 Write Report /
+Step4 Use mlrose backpropagation, find the weight for NN / O
+Step5 Use 3 algorithms to find the weight for NN / O
+Step6 Write Report / -
 # 09:00 - 10:00 | Brunch
 + 10:00 - 11:00 | Studied "Assignment2 - CS7641"
 + 11:00 - 12:00 | Studied "Assignment2 - CS7641"
