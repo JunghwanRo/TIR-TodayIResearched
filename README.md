@@ -38,6 +38,10 @@ Review of Hours. What I did. Concentration level.
 #### <2023/10/16 MON>
 ```diff
 - PLAN
+Finish Assignment2 - CS7641 Programming /
+Save all graphs for Assignment2 - CS7641 /
+Check the SIROP projects /
+CS7644 Midterm Preparation / 
 ! 08:40 - 09:00 | Plan the Day, Studied "Assignment2 - CS7641"
 + 09:00 - 10:00 | Studied "Assignment2 - CS7641"
 # 10:00 - 11:00 | TBD
