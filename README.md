@@ -38,10 +38,10 @@ Review of Hours. What I did. Concentration level.
 #### <2023/10/17 TUE>
 ```diff
 - PLAN
-# 08:30 - 09:00 | TBD
-# 09:00 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
+! 08:30 - 09:00 | Studied "Midterm - CS7644"
++ 09:00 - 10:00 | Studied "Midterm - CS7644"
++ 10:00 - 11:00 | Studied "Assignment2 - CS7641"
++ 11:00 - 12:00 | Studied "Midterm - CS7644"
 # 12:00 - 13:00 | Lunch
 # 13:00 - 14:00 | TBD
 # 14:00 - 15:00 | TBD
@@ -74,9 +74,9 @@ CS7644 Midterm Preparation /
 ! 17:00 - 18:00 | Studied "Midterm - CS7644"
 # 18:00 - 19:00 | Dinner
 # 19:00 - 20:00 | Dinner, Shopping
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
++ 20:00 - 21:00 | Studied "Assignment2 - CS7641"
++ 21:00 - 22:00 | Studied "Midterm - CS7644"
++ 22:00 - 23:20 | Studied "Midterm - CS7644"
 ```
 
 #### <2023/10/15 SUN>
