@@ -35,13 +35,13 @@ Review of Hours. What I did. Concentration level.
 
 ### October.
 
-#### <2023/10/17 TUE>
+#### <2023/10/18 WED>
 ```diff
 - PLAN
-! 08:30 - 09:00 | Studied "Midterm - CS7644"
-+ 09:00 - 10:00 | Studied "Midterm - CS7644"
-+ 10:00 - 11:00 | Studied "Assignment2 - CS7641"
-+ 11:00 - 12:00 | Studied "Midterm - CS7644"
+# 08:40 - 09:00 | Plan the day
+# 09:00 - 10:00 | TBD
+# 10:00 - 11:00 | TBD
+# 11:00 - 12:00 | TBD
 # 12:00 - 13:00 | Lunch
 # 13:00 - 14:00 | TBD
 # 14:00 - 15:00 | TBD
@@ -53,6 +53,26 @@ Review of Hours. What I did. Concentration level.
 # 20:00 - 21:00 | TBD
 # 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
+```
+
+#### <2023/10/17 TUE>
+```diff
+- PLAN
+! 08:30 - 09:00 | Studied "Midterm - CS7644"
++ 09:00 - 10:00 | Studied "Midterm - CS7644"
++ 10:00 - 11:00 | Studied "Assignment2 - CS7641"
++ 11:00 - 12:00 | Studied "Midterm - CS7644"
+# 12:00 - 13:00 | Lunch
++ 13:00 - 14:00 | Studied "Midterm - CS7644"
++ 14:00 - 15:00 | Weekly Meeting
++ 15:00 - 16:00 | Studied "Midterm - CS7644", Midterm - CS7644
++ 16:00 - 17:00 | Midterm - CS7644
+! 17:00 - 18:00 | Researched "Possible topics for Master"
+# 18:00 - 19:00 | Dinner
+! 19:00 - 20:00 | Studied "Assignment2 - CS7641"
+! 20:00 - 21:00 | Studied "Assignment2 - CS7641"
++ 21:00 - 22:00 | Studied "Assignment2 - CS7641"
++ 22:00 - 23:00 | Studied "Assignment2 - CS7641"
 ```
 
 #### <2023/10/16 MON>
