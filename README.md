@@ -35,10 +35,10 @@ Review of Hours. What I did. Concentration level.
 
 ### October.
 
-#### <2023/10/19 THU>
+#### <2023/10/20 FRI>
 ```diff
 - PLAN
-# 08:00 - 09:00 | TBD
+! 08:35 - 09:00 | Check MidTerm Grade, Plan the day
 # 09:00 - 10:00 | TBD
 # 10:00 - 11:00 | TBD
 # 11:00 - 12:00 | TBD
@@ -53,6 +53,26 @@ Review of Hours. What I did. Concentration level.
 # 20:00 - 21:00 | TBD
 # 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
+```
+
+#### <2023/10/19 THU>
+```diff
+- PLAN
+! 08:40 - 09:00 | Plan the day
++ 09:00 - 10:00 | Researched "Related Papers"
++ 10:00 - 11:00 | Fun with ROS Task Manager
++ 11:00 - 12:00 | Fun with ROS Task Manager
+# 12:00 - 13:00 | Lunch
++ 13:00 - 14:00 | Fun with ROS Task Manager
++ 14:00 - 15:00 | Fun with ROS Task Manager
++ 15:00 - 16:00 | Fun with ROS Task Manager
++ 16:00 - 17:00 | Fun with ROS Task Manager
+! 17:00 - 18:00 | Studied "Sample-based Learning Methods - Coursera"
+# 18:00 - 19:00 | Dinner
+# 19:00 - 20:00 | Dinner, pizza
+! 20:00 - 21:00 | Studied "Sample-based Learning Methods - Coursera"
++ 21:00 - 22:00 | Studied "Sample-based Learning Methods - Coursera"
++ 22:00 - 23:00 | Studied "Sample-based Learning Methods - Coursera"
 ```
 
 #### <2023/10/18 WED>
