@@ -53,10 +53,9 @@ Literature Review + Topic Search /
 + 16:00 - 17:00 | Studied "Basic RL - Book"
 ! 17:00 - 18:00 | Studied "Basic RL - Book"
 ! 18:00 - 19:00 | Quick Dinner, Studied "Basic RL - Book"
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
+# 19:00 - 20:00 | Wasted
++ 20:00 - 21:00 | Studied "Basic RL - Book"
+December Plan
 ```
 
 #### <2023/10/19 THU>
