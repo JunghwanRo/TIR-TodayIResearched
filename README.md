@@ -43,16 +43,16 @@ Finish one week lecture of RL Coursera /
 Read again with RL book / 
 Literature Review + Topic Search / 
 ! 08:35 - 09:00 | Check MidTerm Grade, Plan the day
-# 09:00 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
++ 09:00 - 10:00 | Fun with ROS Task Manager Tutorial
++ 10:00 - 11:00 | Fun with ROS Task Manager Tutotiral
++ 11:00 - 12:00 | Prepare for Research Meeting
 # 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
-# 18:00 - 19:00 | Dinner
+! 13:00 - 14:00 | Prepare for Research Meeting
++ 14:00 - 15:00 | Research Meeting
++ 15:00 - 16:00 | Studeid "Basic RL - Book"
++ 16:00 - 17:00 | Studied "Basic RL - Book"
+! 17:00 - 18:00 | Studied "Basic RL - Book"
+! 18:00 - 19:00 | Quick Dinner, Studied "Basic RL - Book"
 # 19:00 - 20:00 | TBD
 # 20:00 - 21:00 | TBD
 # 21:00 - 22:00 | TBD
