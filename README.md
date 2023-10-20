@@ -13,6 +13,10 @@ Review of Hours. What I did. Concentration level.
 #### <YYYY/MM/DD DAY>
 ```diff
 - PLAN
+Research Meeting / 
+Finish one week lecture of RL Coursera / 
+Read again with RL book / 
+Literature Review + Topic Search / 
 # 08:00 - 09:00 | TBD
 # 09:00 - 10:00 | TBD
 # 10:00 - 11:00 | TBD
