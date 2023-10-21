@@ -38,16 +38,13 @@ Review of Hours. What I did. Concentration level.
 #### <2023/10/21 SAT>
 ```diff
 - PLAN
-# 08:00 - 09:00 | TBD
-# 09:00 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
-# 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
+# 11:00 - 12:00 | Brunch
+! 12:00 - 13:00 | Studied "Unsupervised Learning 2 Lecture - CS7641"
+! 13:00 - 14:00 | Studied "Unsupervised Learning 2 Lecture - CS7641"
++ 14:00 - 15:00 | Studied "Unsupervised Learning 2 Lecture - CS7641"
++ 15:00 - 16:00 | Studied "Unsupervised Learning 3 Lecture - CS7641"
++ 16:00 - 17:00 | Studied "Unsupervised Learning 4 Lecture - CS7641"
++ 17:00 - 18:00 | Studied "Unsupervised Learning 4 Lecture - CS7641"
 # 18:00 - 19:00 | Dinner
 # 19:00 - 20:00 | TBD
 # 20:00 - 21:00 | TBD
