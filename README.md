@@ -57,21 +57,21 @@ Review of Hours. What I did. Concentration level.
 #### <2023/10/23 MON>
 ```diff
 - PLAN
-# 08:40 - 09:00 | TBD
-# 09:00 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
-# 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
+! 08:40 - 09:00 | Plan the day
++ 09:00 - 10:00 | Read "Papers related to USV"
++ 10:00 - 11:00 | Read "Papers related to USV"
++ 11:00 - 12:00 | Search "RL related resources"
+! 12:00 - 13:00 | Quick Lunch, Researched "Solar Panel Data Classification"
++ 13:00 - 14:00 | Researched "Solar Panel Data Classification"
++ 14:00 - 15:00 | Researched "Solar Panel Data Classification"
+! 15:00 - 16:00 | Researched "Solar Panel Data Classification"
++ 16:00 - 17:00 | Discussion with Luis(Axel Work)
++ 17:00 - 18:00 | Discussion with Luis
 # 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
++ 19:00 - 20:00 | Studied "RL - Basic Book"
+! 20:00 - 21:00 | Studied "RL - Basic Book"
++ 21:00 - 22:00 | Studied "RL - Basic Book"
+# 22:00 - 23:00 | December Plan
 ```
 
 #### <2023/10/22 SUN>
