@@ -38,20 +38,20 @@ Review of Hours. What I did. Concentration level.
 #### <2023/10/24 TUE>
 ```diff
 - PLAN
-# 08:58 - 10:00 | Plan the day, Read "GATO - Medium"
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
++ 08:58 - 10:00 | Plan the day, Read "GATO - Medium"
++ 10:00 - 11:00 | Researched "Solar panel crack classification"
+! 11:00 - 12:00 | Researched "Solar panel crack classification"
 # 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
++ 13:00 - 14:00 | Prepare Team Meeting, Researched "Solar panel crack classification"
++ 14:00 - 15:00 | Team Meeting
+! 15:00 - 16:00 | Chat with PhD Pooja, Took lecture "CNN Project - CS7644"
++ 16:00 - 17:00 | Took lecture "CNN Project - CS7644"
+! 17:00 - 18:00 | Wrote "BugWright2 Deliverable"
 # 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
++ 19:00 - 20:00 | Took lecture "RL1 - CS7641"
++ 20:00 - 21:00 | Took lecture "RL1 - CS7641"
++ 21:00 - 22:00 | Took lecture "RL2 - CS7641"
+! 22:00 - 22:30 | Took lecture "RL3 - CS7641"
 ```
 
 #### <2023/10/23 MON>
