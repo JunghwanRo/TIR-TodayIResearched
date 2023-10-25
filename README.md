@@ -42,7 +42,7 @@ Until 1000 Read Paper /
 Finish BugWright2 Writing /
 Finish RL3, RL4 CS7641 /
 Project CS7644 / 
-# 09:00 - 10:00 | TBD
++ 09:00 - 10:00 | Studied "RL control for Boat", "SONAR, RADER SLAM"
 # 10:00 - 11:00 | TBD
 # 11:00 - 12:00 | TBD
 # 12:00 - 13:00 | Lunch
