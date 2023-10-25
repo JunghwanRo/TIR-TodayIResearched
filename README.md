@@ -38,7 +38,7 @@ Review of Hours. What I did. Concentration level.
 #### <2023/10/25 WED>
 ```diff
 - PLAN
-Until 1000 Read Paper /
+Until 1000 Read Paper / O
 Finish BugWright2 Writing /
 Finish RL3, RL4 CS7641 /
 Project CS7644 / 
