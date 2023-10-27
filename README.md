@@ -44,12 +44,12 @@ Review of Hours. What I did. Concentration level.
 # 12:00 - 13:00 | Lunch
 + 13:00 - 14:00 | Researched "Additional programming for BugWright2"
 + 14:00 - 15:00 | Studied "RL Course - HuggingFace"
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
++ 15:00 - 16:00 | Studied "RL Course Unit 0 - HuggingFace"
++ 16:00 - 17:00 | Studied "RL Course Unit 1 - HuggingFace"
++ 17:00 - 18:00 | Studied "RL Course Unit 1 - HuggingFace"
 # 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
++ 19:00 - 20:00 | Studied "L1 MDPs, Exact Solution Methods, Max-ent RL - Pieter Abbeel"
+! 20:00 - 21:00 | Studied "L1 MDPs, Exact Solution Methods, Max-ent RL - Pieter Abbeel"
 # 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
 ```
