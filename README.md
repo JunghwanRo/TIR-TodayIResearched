@@ -59,81 +59,65 @@ Metz to Zurich
 #### <2023/10/31 TUE>
 ```diff
 - PLAN
-# 08:00 - 09:00 | TBD
-# 09:00 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
++ 09:00 - 10:00 | Researched "Additional Experiments for deliverable"
++ 10:00 - 11:00 | Researched "Additional Experiments for deliverable"
+! 11:00 - 12:00 | Researched "Additional Experiments for deliverable"
 # 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
-# 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
++ 13:00 - 14:00 | Researched "Additional Experiments for deliverable"
+! 14:00 - 15:00 | Researched "Additional Experiments for deliverable"
++ 15:00 - 16:00 | Researched "Additional Experiments for deliverable"
++ 16:00 - 17:00 | Researched "Additional Experiments for deliverable"
+! 17:00 - 18:00 | Researched "Additional Experiments for deliverable"
++ 18:00 - 19:00 | Wrote "BugWright2 Deliverable"
+# 19:00 - 20:00 | Dinner
++ 20:00 - 21:00 | Wrote "BugWright2 Deliverable"
+! 21:00 - 22:00 | Wrote "BugWright2 Deliverable"
 ```
 
 #### <2023/10/30 MON>
 ```diff
 - PLAN
-# 08:00 - 09:00 | TBD
-# 09:00 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
++ 09:00 - 10:00 | Studied "RL Course - Huggingface"
++ 10:00 - 11:00 | Studied "RL Course - Huggingface"
+! 11:00 - 12:00 | Studied "RL Course - Huggingface"
 # 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
++ 13:00 - 14:00 | Wrote "BugWright2 Deliverable"
++ 14:00 - 15:00 | Wrote "BugWright2 Deliverable"
++ 15:00 - 16:00 | Wrote "BugWright2 Deliverable"
++ 16:00 - 17:00 | Wrote "BugWright2 Deliverable"
+! 17:00 - 18:00 | Wrote "BugWright2 Deliverable"
 # 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
+! 19:00 - 20:00 | Wrote "BugWright2 Deliverable"
++ 20:00 - 21:00 | Wrote "BugWright2 Deliverable"
 ```
 
 #### <2023/10/29 SUN>
 ```diff
 - PLAN
-# 08:00 - 09:00 | TBD
-# 09:00 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
+End of Summer time!
 # 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
+! 13:00 - 14:00 | Studied "Reinforcement Learning: An Introduction - RS Sutton"
++ 14:00 - 15:00 | Studied "Reinforcement Learning: An Introduction - RS Sutton"
++ 15:00 - 16:00 | Studied "Reinforcement Learning: An Introduction - RS Sutton"
+! 16:00 - 17:00 | Studied "Reinforcement Learning: An Introduction - RS Sutton"
++ 17:00 - 18:00 | Studied "Reinforcement Learning: An Introduction - RS Sutton"
 # 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
++ 19:00 - 20:00 | Studied "Reinforcement Learning: An Introduction - RS Sutton"
++ 20:00 - 21:00 | Studeid "Reinforcement Learning: An Introduction - RS Sutton"
 ```
 
 #### <2023/10/28 SAT>
 ```diff
 - PLAN
-# 08:00 - 09:00 | TBD
-# 09:00 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
++ 11:00 - 12:00 | Studied "Reinforcement Learning: An Introduction - RS Sutton"
 # 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
+! 13:00 - 14:00 | Studied "Reinforcement Learning: An Introduction - RS Sutton"
++ 14:00 - 15:00 | Studied "Reinforcement Learning: An Introduction - RS Sutton"
++ 15:00 - 16:00 | Studied "Reinforcement Learning: An Introduction - RS Sutton"
+! 16:00 - 17:00 | Studied "Reinforcement Learning: An Introduction - RS Sutton"
++ 17:00 - 18:00 | Studied "Reinforcement Learning: An Introduction - RS Sutton"
 # 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
++ 19:00 - 20:00 | Studied "Reinforcement Learning: An Introduction - RS Sutton"
 ```
 
 #### <2023/10/27 FRI>
