@@ -38,20 +38,21 @@ Review of Hours. What I did. Concentration level.
 #### <2023/11/01 WED>
 ```diff
 - PLAN
-# 08:00 - 09:00 | TBD
-# 09:00 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
+Metz to Zurich
++ 08:00 - 09:00 | Studied "MIT 6.S191: Deep Learning New Frontiers"
++ 09:00 - 10:00 | Studied "MIT 6.S191: Text-to-Image Generation"
++ 10:00 - 11:00 | Studied "MIT 6.S191: The Modern Era of Statistics"
++ 11:00 - 12:00 | Studied "MIT 6.S191: The Future of Robot Learning"
 # 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
-# 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
++ 13:00 - 14:00 | Wrote "BugWright2 Deliverable"
++ 14:00 - 15:00 | Wrote "BugWright2 Deliverable"
+# 15:00 - 16:00 | Arrived Oerlikon
+# 16:00 - 17:00 | Took a Nap
+# 17:00 - 18:00 | Took a Nap
+# 18:00 - 19:00 | Dinner shopping, cooking
+# 19:00 - 20:00 | Dinner with Juli
++ 20:00 - 21:00 | Wrote "BugWright2 Deliverable"
++ 21:00 - 22:00 | Wrote "BugWright2 Deliverable"
 # 22:00 - 23:00 | TBD
 ```
 
