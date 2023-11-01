@@ -656,6 +656,9 @@ Problem Set 1 - CS7641 / X
 ```
 </details>
 
+<details>
+<summary>September</summary>
+  
 ### September.
 
 #### <2023/09/30 SAT>
@@ -1172,7 +1175,11 @@ Fucking Party Next Door
 + 22:00 - 23:00 | Studied "SL7 Comp Learning - CS7641"
 + 23:00 - 24:00 | Studied "SL8 VC Dimensions - CS7641"
 ```
+</details>
 
+<details>
+<summary>August</summary>
+  
 ### August.
 
 #### <2023/08/31 THU>
@@ -1651,6 +1658,8 @@ Sleeping...
 # 18:00 - 19:00 | Farewell Julia, come back campus
 # 19:00 - 20:00 | Dinner
 ```
+<details>
+<summary>July</summary>
 
 ### July.
 
@@ -2061,6 +2070,9 @@ Weekend Totally Wasted...
 # 18:00 - 19:00 | Dinner
 # 19:00 - 20:00 | Wasted
 ```
+<details>
+<summary>June</summary>
+  
 ### June.
 
 #### <2023/06/30 FRI>
@@ -2355,4 +2367,4 @@ REVIEW START!
 + 21:00 - 22:00 | E-mail to RYOSHO(wheel transducer), Studied "Appendix A, Ultrasonic Waves in Solid Media"
 ! 22:00 - 23:00 | ML Basic Course search
 ```
-
+</details>
