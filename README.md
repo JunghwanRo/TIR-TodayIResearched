@@ -672,6 +672,11 @@ Finish Two Lecture from MIT / O
 ! 14:00 - 15:00 | Studied "Deep Learning - MIT"
 + 15:00 - 16:00 | Studied "Deep Learning - MIT"
 ! 16:00 - 17:00 | Read "Autonomous inland Water Monitoring"
++ 17:00 - 18:00 | Studied "Reinforcement Learning - Coursera"
++ 18:00 - 19:00 | Studied "Reinforcement Learning - Coursera"
++ 19:00 - 20:00 | Studied "Reinforcement Learning - Coursera"
+! 20:00 - 21:00 | Studied "Reinforcement Learning - Coursera"
++ 21:00 - 22:00 | Studied "Reinforcement Learning - Coursera"
 ```
 
 #### <2023/09/29 FRI>
@@ -1195,11 +1200,11 @@ Insight for Research / X
 ! 13:00 - 14:00 | Studied "C++ - Udacity"
 # 14:00 - 15:00 | Wasted
 ! 15:00 - 16:00 | Studied "C++ - Udacity"
-# 16:00 - 17:00 | Wasted
-# 17:00 - 18:00 | Wasted
++ 16:00 - 17:00 | Studied "C++ - Udacity"
++ 17:00 - 18:00 | Studied "C++ - Udacity"
 # 18:00 - 19:00 | Wasted
-# 19:00 - 20:00 | Wasted
-# 20:00 - 21:00 | Wasted
+! 19:00 - 20:00 | Researched "Related Papers"
++ 20:00 - 21:00 | Researched "Related Papers"
 ! 21:00 - 22:00 | Researched "Related Papers"
 + 22:00 - 23:00 | Researched "Related Papers"
 ```
@@ -1674,13 +1679,13 @@ Sleeping...
 # 17:00 - 18:00 | Shopping in CORA
 + 18:00 - 19:00 | Studied "Go with weighted Majority - Algorithms"
 # 19:00 - 20:00 | Dinner
-# 20:00 - 21:00 | Dinner
-# 21:00 - 22:00 | Wasted
++ 20:00 - 21:00 | Studied "Go with weighted Majority - Algorithms"
++ 21:00 - 22:00 | Studied "Go with weighted Majority - Algorithms"
 ```
 
 #### <2023/07/30 SUN>
 ```diff
-JULIA...
+Meeting with JULIA...
 + 22:00 - 23:00 | Studied "11/12 Assignment - Algorithms"
 + 23:00 - 24:00 | Studied "11/12 Assignment - Algorithms"
 ```
