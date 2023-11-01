@@ -33,7 +33,7 @@ Review of Hours. What I did. Concentration level.
 
 ## 2023
 
-### October.
+### November.
 
 #### <2023/11/01 WED>
 ```diff
@@ -55,7 +55,10 @@ Metz to Zurich
 + 21:00 - 22:00 | Wrote "BugWright2 Deliverable"
 # 22:00 - 23:00 | TBD
 ```
+<details>
+<summary>October</summary>
 
+### October.
 #### <2023/10/31 TUE>
 ```diff
 - PLAN
@@ -651,6 +654,7 @@ Problem Set 1 - CS7641 / X
 # 20:00 - 21:00 | Go to Campus
 + 21:00 - 22:00 | Studied "Reinforcement Learning - Coursera"
 ```
+</details>
 
 ### September.
 
