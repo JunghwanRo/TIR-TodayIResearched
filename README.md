@@ -35,11 +35,10 @@ Review of Hours. What I did. Concentration level.
 
 ### November.
 
-#### <2023/11/05 SUN>
+#### <2023/11/06 MON>
 ```diff
 - PLAN
-# 08:00 - 09:00 | TBD
-# 09:00 - 10:00 | TBD
+# 09:02 - 10:00 | TBD
 # 10:00 - 11:00 | TBD
 # 11:00 - 12:00 | TBD
 # 12:00 - 13:00 | Lunch
@@ -55,64 +54,67 @@ Review of Hours. What I did. Concentration level.
 # 22:00 - 23:00 | TBD
 ```
 
+#### <2023/11/05 SUN>
+```diff
+- PLAN
+# 09:00 - 10:00 | Move to Zurich Station
++ 10:00 - 11:00 | Wrote "Report for Assignment 3 - CS7641"
++ 11:00 - 12:00 | Wrote "Report for Assignment 3 - CS7641"
+! 12:00 - 13:00 | Wrote "Report for Assignment 3 - CS7641"
+# 13:00 - 14:00 | Train Delayed
+! 14:00 - 15:00 | Wrote "Report for Assignment 3 - CS7641"
++ 15:00 - 16:00 | Wrote "Report for Assignment 3 - CS7641"
++ 16:00 - 17:00 | Wrote "Report for Assignment 3 - CS7641"
++ 17:00 - 18:00 | Wrote "Report for Assignment 3 - CS7641"
+# 18:00 - 19:00 | Dinner
++ 19:00 - 20:00 | Wrote "Report for Assignment 3 - CS7641"
+```
+
 #### <2023/11/04 SAT>
 ```diff
 - PLAN
-# 08:00 - 09:00 | TBD
-# 09:00 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
-# 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
++ 09:00 - 10:00 | Wrote "Programming for Assignment 3 - CS7641"
++ 10:00 - 11:00 | Wrote "Programming for Assignment 3 - CS7641"
++ 11:00 - 12:00 | Wrote "Programming for Assignment 3 - CS7641"
+! 12:00 - 13:00 | Lunch, Wrote "Programming for Assignment 3 - CS7641"
++ 13:00 - 14:00 | Wrote "Programming for Assignment 3 - CS7641"
++ 14:00 - 15:00 | Wrote "Programming for Assignment 3 - CS7641"
++ 15:00 - 16:00 | Wrote "Programming for Assignment 3 - CS7641"
++ 16:00 - 17:00 | Wrote "Programming for Assignment 3 - CS7641"
+! 17:00 - 18:00 | Wrote "Programming for Assignment 3 - CS7641"
 # 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
+# 19:00 - 20:00 | Time with Julia
 ```
 
 #### <2023/11/03 FRI>
 ```diff
 - PLAN
-# 08:00 - 09:00 | TBD
-# 09:00 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
++ 10:00 - 11:00 | Wrote "Programming for Assignment 3 - CS7641"
++ 11:00 - 12:00 | Wrote "Programming for Assignment 3 - CS7641"
 # 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
++ 13:00 - 14:00 | Wrote "Programming for Assignment 3 - CS7641"
+! 14:00 - 15:00 | Wrote "Programming for Assignment 3 - CS7641"
++ 15:00 - 16:00 | Wrote "Programming for Assignment 3 - CS7641"
++ 16:00 - 17:00 | Wrote "Programming for Assignment 3 - CS7641"
++ 17:00 - 18:00 | Wrote "Programming for Assignment 3 - CS7641"
 # 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
+# 19:00 - 20:00 | Time with Julia in Zurich
 ```
 
 #### <2023/11/02 THU>
 ```diff
 - PLAN
-# 08:00 - 09:00 | TBD
-# 09:00 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
++ 09:00 - 10:00 | Studied "RL for Robotics - Cambridge"
++ 10:00 - 11:00 | Studied "RL for Robotics - Cambridge"
+! 11:00 - 12:00 | Studied "RL for Robotics - Cambridge"
 # 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
++ 13:00 - 14:00 | Studied "Reinforcement Learning - Sutton book"
+! 14:00 - 15:00 | Studied "Reinforcement Learning - Hugging Face"
++ 15:00 - 16:00 | Studied "Reinforcement Learning - Hugging Face"
++ 16:00 - 17:00 | Wrote "Programming for Assignment 3 - CS7641"
++ 17:00 - 18:00 | Wrote "Programming for Assignment 3 - CS7641"
 # 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
+# 19:00 - 20:00 | Time with Julia in Zurich
 ```
 
 #### <2023/11/01 WED>
