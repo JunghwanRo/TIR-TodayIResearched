@@ -38,11 +38,11 @@ Review of Hours. What I did. Concentration level.
 #### <2023/11/06 MON>
 ```diff
 - PLAN
-# 09:02 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
++ 09:02 - 10:00 | Wrote "BugWright2 Deliverable"
++ 10:00 - 11:00 | Wrote "BugWright2 Deliverable"
++ 11:00 - 12:00 | Wrote "BugWright2 Deliverable"
 # 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
+# 13:00 - 14:00 | Wrote "BugWright2 Deliverable"
 # 14:00 - 15:00 | TBD
 # 15:00 - 16:00 | TBD
 # 16:00 - 17:00 | TBD
