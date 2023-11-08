@@ -40,21 +40,21 @@ Review of Hours. What I did. Concentration level.
 - PLAN
 Improve Imitation Learning Project - CS7644 /
 Run Axel Model / 
-# 08:50 - 09:00 | Plan the Day
-# 09:00 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
+! 08:50 - 09:00 | Plan the Day
++ 09:00 - 10:00 | Researched "Run Axcel Model on VRX simulation"
++ 10:00 - 11:00 | Researched "Run Axcel Model on VRX simulation"
++ 11:00 - 12:00 | Researched "Run Axcel Model on VRX simulation"
 # 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
+! 13:00 - 14:00 | Researched "Run Axcel Model on VRX simulation"
++ 14:00 - 15:00 | Researched "Run Axcel Model on VRX simulation"
++ 15:00 - 16:00 | Researched "Run Axcel Model on VRX simulation"
++ 16:00 - 17:00 | Researched "Run Axcel Model on VRX simulation"
++ 17:00 - 18:00 | Watched "ICRA 2022 Keynote - Marco Hutter"
 # 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
++ 19:00 - 20:00 | Researched "Project2 Improvement - CS7644"
++ 20:00 - 21:00 | Researched "Project2 Improvement - CS7644"
++ 21:00 - 22:00 | Researched "Project2 Improvement - CS7644"
++ 22:00 - 23:00 | Researched "Project2 Improvement - CS7644"
 ```
 
 #### <2023/11/07 TUE>
