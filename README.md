@@ -38,7 +38,9 @@ Review of Hours. What I did. Concentration level.
 #### <2023/11/08 WED>
 ```diff
 - PLAN
-# 08:00 - 09:00 | TBD
+Improve Imitation Learning Project - CS7644 /
+
+# 08:50 - 09:00 | Plan the Day
 # 09:00 - 10:00 | TBD
 # 10:00 - 11:00 | TBD
 # 11:00 - 12:00 | TBD
