@@ -39,7 +39,7 @@ Review of Hours. What I did. Concentration level.
 ```diff
 - PLAN
 Improve Imitation Learning Project - CS7644 /
-
+Run Axel Model / 
 # 08:50 - 09:00 | Plan the Day
 # 09:00 - 10:00 | TBD
 # 10:00 - 11:00 | TBD
