@@ -52,7 +52,8 @@ Review of Hours. What I did. Concentration level.
 # 19:00 - 20:00 | Talk with Yulia
 # 20:00 - 21:00 | Talk with Yulia
 + 21:00 - 22:00 | Studied "Deep RL Bootcamp Lecture 6: Nuts and Bolts of Deep RL Experimentation"
-+ 22:00 - 23:00 | TBD
++ 22:00 - 23:00 | Studied "ACTOR CRITIC METHODS WITH ROBOTICS ENVIRONMENTS - Hugging Face"
++ 23:00 - 23:44 | Studied "ACTOR CRITIC METHODS WITH ROBOTICS ENVIRONMENTS - Hugging Face"
 ```
 
 #### <2023/11/09 THU>
