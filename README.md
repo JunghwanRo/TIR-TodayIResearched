@@ -44,7 +44,7 @@ Review of Hours. What I did. Concentration level.
 + 11:00 - 12:00 | TBD
 # 12:00 - 13:00 | Lunch
 ! 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
+# 14:00 - 15:00 | Studied "RL Tips and Tricks - Stable Baseline3"
 # 15:00 - 16:00 | TBD
 # 16:00 - 17:00 | TBD
 # 17:00 - 18:00 | TBD
