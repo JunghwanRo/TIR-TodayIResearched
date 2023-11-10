@@ -38,16 +38,16 @@ Review of Hours. What I did. Concentration level.
 #### <2023/11/10 FRI>
 ```diff
 - PLAN
-# 08:00 - 09:00 | TBD
-# 09:00 - 10:00 | TBD
-+ 10:00 - 11:00 | TBD
-+ 11:00 - 12:00 | TBD
+! 08:30 - 09:00 | Prepare "Research Meeting"
++ 09:00 - 10:00 | Research Meeting, Quick Code Review - goto_rl.py
++ 10:00 - 11:00 | Studied "AUTOMATIC HYPERPARAMETER TUNING - Hugging Face"
++ 11:00 - 12:00 | Studied "AUTOMATIC HYPERPARAMETER TUNING - Hugging Face"
 # 12:00 - 13:00 | Lunch
-! 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | Studied "RL Tips and Tricks - Stable Baseline3"
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
+! 13:00 - 14:00 | Studied "Policy Gradient with Pytorch - Hugging Face"
++ 14:00 - 15:00 | Studied "RL Tips and Tricks - Stable Baseline3"
++ 15:00 - 16:00 | Studied "Policy Gradient with Pytorch - Hugging Face"
+! 16:00 - 17:00 | Studied "Policy Gradient with Pytorch - Hugging Face"
++ 17:00 - 18:00 | Studied "Introduction to Unity ML-Agents - Hugging Face"
 # 18:00 - 19:00 | Dinner
 # 19:00 - 20:00 | TBD
 # 20:00 - 21:00 | TBD
