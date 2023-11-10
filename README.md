@@ -49,10 +49,10 @@ Review of Hours. What I did. Concentration level.
 ! 16:00 - 17:00 | Studied "Policy Gradient with Pytorch - Hugging Face"
 + 17:00 - 18:00 | Studied "Introduction to Unity ML-Agents - Hugging Face"
 # 18:00 - 19:00 | Dinner - Mammamia!
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
+# 19:00 - 20:00 | Talk with Yulia
+# 20:00 - 21:00 | Talk with Yulia
++ 21:00 - 22:00 | Studied "Deep RL Bootcamp Lecture 6: Nuts and Bolts of Deep RL Experimentation"
++ 22:00 - 23:00 | TBD
 ```
 
 #### <2023/11/09 THU>
