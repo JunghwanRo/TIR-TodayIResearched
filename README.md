@@ -48,7 +48,7 @@ Review of Hours. What I did. Concentration level.
 + 15:00 - 16:00 | Studied "Policy Gradient with Pytorch - Hugging Face"
 ! 16:00 - 17:00 | Studied "Policy Gradient with Pytorch - Hugging Face"
 + 17:00 - 18:00 | Studied "Introduction to Unity ML-Agents - Hugging Face"
-# 18:00 - 19:00 | Dinner
+# 18:00 - 19:00 | Dinner - Mammamia!
 # 19:00 - 20:00 | TBD
 # 20:00 - 21:00 | TBD
 # 21:00 - 22:00 | TBD
@@ -58,21 +58,21 @@ Review of Hours. What I did. Concentration level.
 #### <2023/11/09 THU>
 ```diff
 - PLAN
-# 08:00 - 09:00 | TBD
-# 09:00 - 10:00 | Plan the day, Lecture - CS7644
-# 10:00 - 11:00 | Lecture - CS7644
-# 11:00 - 12:00 | Studied "DQN - hugging face"
++ 08:50 - 10:00 | Plan the day, Lecture - CS7644
++ 10:00 - 11:00 | Lecture - CS7644
++ 11:00 - 12:00 | Studied "DQN - hugging face"
 # 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
-# 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
++ 13:00 - 14:00 | Studied "DQN - hugging face"
++ 14:00 - 15:00 | Researched "Use trained model in VRX sim"
++ 15:00 - 16:00 | Researched "Use trained model in VRX sim"
+! 16:00 - 17:00 | Researched "Use trained model in VRX sim"
++ 17:00 - 18:00 | Quick Dinner, Researched "Use trained model in VRX sim"
++ 18:00 - 19:00 | Researched "Use trained model in VRX sim"
+# 19:00 - 20:00 | Beer with Lab People
+# 20:00 - 21:00 | Beer with Lab People
+# 21:00 - 22:00 | Beer with Lab People
++ 22:00 - 23:00 | Researched "Use trained model in VRX sim"
+! 23:00 - 23:30 | Researched "Use trained model in VRX sim"
 ```
 
 #### <2023/11/08 WED>
