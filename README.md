@@ -38,7 +38,7 @@ Review of Hours. What I did. Concentration level.
 #### <2023/11/11 SAT>
 ```diff
 - PLAN
-# 10:00 - 11:00 | TBD
+# 10:00 - 11:00 | Upenn spring 2024 Planning, 
 # 11:00 - 12:00 | TBD
 # 12:00 - 13:00 | Lunch
 # 13:00 - 14:00 | TBD
