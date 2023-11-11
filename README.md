@@ -43,13 +43,13 @@ Review of Hours. What I did. Concentration level.
 + 12:00 - 13:00 | Studied "INTRODUCTION TO MULTI-AGENTS AND AI VS AI - HuggingFace"
 + 13:00 - 14:00 | Studied "PROXIMAL POLICY OPTIMIZATION (PPO) - HuggingFace"
 + 14:00 - 15:00 | Studied "PROXIMAL POLICY OPTIMIZATION (PPO) - HuggingFace"
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
-# 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
+! 15:00 - 16:00 | Studied "PROXIMAL POLICY OPTIMIZATION (PPO) - HuggingFace"
+# 16:00 - 17:00 | Lunch&Dinner - Burgerking
+# 17:00 - 18:00 | Lunch&Dinner - Burgerking / Cora Shopping
+! 18:00 - 19:00 | Prepare "Application - Github Profile"
+! 19:00 - 20:00 | Prepare "Application - Github Profile"
+! 20:00 - 21:00 | Prepare "Application - Github Profile"
+! 21:00 - 22:00 | Prepare "Application - Github Profile"
 # 22:00 - 23:00 | TBD
 ```
 
