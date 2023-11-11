@@ -2,8 +2,8 @@
 Review of Hours. What I did. Concentration level.
 ```diff
 - Red / PLAN section
-+ Green / Did well! Happy :). 45~60 minutes concentration
-! Orange / Soso.. 20 ~ 45 minutes concentration
++ Green / Did well! Happy :). 41~60 minutes concentration
+! Orange / Soso.. 20 ~ 40 minutes concentration
 # Gray / NA
 ```
 
