@@ -38,9 +38,9 @@ Review of Hours. What I did. Concentration level.
 #### <2023/11/11 SAT>
 ```diff
 - PLAN
-# 10:00 - 11:00 | Upenn spring 2024 Planning, 
-# 11:00 - 12:00 | TBD
-# 12:00 - 13:00 | Lunch
+! 10:00 - 11:00 | Upenn spring 2024 Planning, Studied "INTRODUCTION TO MULTI-AGENTS AND AI VS AI - HuggingFace"
+! 11:00 - 12:00 | Studied "INTRODUCTION TO MULTI-AGENTS AND AI VS AI - HuggingFace"
++ 12:00 - 13:00 | Studied "INTRODUCTION TO MULTI-AGENTS AND AI VS AI - HuggingFace"
 # 13:00 - 14:00 | TBD
 # 14:00 - 15:00 | TBD
 # 15:00 - 16:00 | TBD
