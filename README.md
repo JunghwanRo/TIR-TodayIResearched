@@ -41,8 +41,8 @@ Review of Hours. What I did. Concentration level.
 ! 10:00 - 11:00 | Upenn spring 2024 Planning, Studied "INTRODUCTION TO MULTI-AGENTS AND AI VS AI - HuggingFace"
 ! 11:00 - 12:00 | Studied "INTRODUCTION TO MULTI-AGENTS AND AI VS AI - HuggingFace"
 + 12:00 - 13:00 | Studied "INTRODUCTION TO MULTI-AGENTS AND AI VS AI - HuggingFace"
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
++ 13:00 - 14:00 | Studied "PROXIMAL POLICY OPTIMIZATION (PPO) - HuggingFace"
++ 14:00 - 15:00 | Studied "PROXIMAL POLICY OPTIMIZATION (PPO) - HuggingFace"
 # 15:00 - 16:00 | TBD
 # 16:00 - 17:00 | TBD
 # 17:00 - 18:00 | TBD
