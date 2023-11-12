@@ -35,6 +35,24 @@ Review of Hours. What I did. Concentration level.
 
 ### November.
 
+#### <2023/11/12 SUN>
+```diff
+- PLAN
+# 10:00 - 11:00 | TBD
+# 11:00 - 12:00 | Lunch, 
+# 12:00 - 13:00 | TBD
+# 13:00 - 14:00 | TBD
+# 14:00 - 15:00 | TBD
+# 15:00 - 16:00 | TBD
+# 16:00 - 17:00 | TBD
+# 17:00 - 18:00 | TBD
+# 18:00 - 19:00 | Dinner
+# 19:00 - 20:00 | TBD
+# 20:00 - 21:00 | TBD
+# 21:00 - 22:00 | TBD
+# 22:00 - 23:00 | TBD
+```
+
 #### <2023/11/11 SAT>
 ```diff
 - PLAN
@@ -50,7 +68,7 @@ Review of Hours. What I did. Concentration level.
 ! 19:00 - 20:00 | Prepare "Application - Github Profile"
 ! 20:00 - 21:00 | Prepare "Application - Github Profile"
 ! 21:00 - 22:00 | Prepare "Application - Github Profile"
-# 22:00 - 23:00 | TBD
++ 22:00 - 23:00 | Studied "Sample-based Learning Methods - Univ. of Alberta"
 ```
 
 #### <2023/11/10 FRI>
