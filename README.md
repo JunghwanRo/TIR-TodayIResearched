@@ -38,12 +38,12 @@ Review of Hours. What I did. Concentration level.
 #### <2023/11/12 SUN>
 ```diff
 - PLAN
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | Lunch, 
-# 12:00 - 13:00 | TBD
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
++ 10:00 - 11:00 | Checked "Multi-Agents and AI vs AI result - HuggingFace"
+# 11:00 - 12:00 | Lunch, Move to Campus
+! 12:00 - 13:00 | Studied "PROXIMAL POLICY OPTIMIZATION (PPO) WITH DOOM - HuggingFace"
++ 13:00 - 14:00 | Studied "PROXIMAL POLICY OPTIMIZATION (PPO) WITH DOOM - HuggingFace"
++ 14:00 - 15:00 | Studied "ADVANCED TOPICS IN REINFORCEMENT LEARNING - HuggingFace"
++ 15:00 - 16:00 | Studied "ADVANCED TOPICS IN REINFORCEMENT LEARNING - HuggingFace"
 # 16:00 - 17:00 | TBD
 # 17:00 - 18:00 | TBD
 # 18:00 - 19:00 | Dinner
