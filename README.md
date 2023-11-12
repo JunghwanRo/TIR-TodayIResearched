@@ -49,8 +49,8 @@ Review of Hours. What I did. Concentration level.
 + 18:00 - 19:00 | Finished "Deep Reinforcement Learning Course - Hugging Face"
 # 19:00 - 20:00 | Dinner 
 + 20:00 - 21:00 | Studied "LLM for Robotics - Google Research"
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
++ 21:00 - 22:00 | Read "R3AMA Document"
+! 22:00 - 22:30 | Read "R3AMA Document"
 ```
 
 #### <2023/11/11 SAT>
