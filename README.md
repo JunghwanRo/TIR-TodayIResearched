@@ -48,7 +48,7 @@ Review of Hours. What I did. Concentration level.
 # 17:00 - 18:00 | Cmapus Closed, Move to Home
 + 18:00 - 19:00 | Finished "Deep Reinforcement Learning Course - Hugging Face"
 # 19:00 - 20:00 | Dinner 
-# 20:00 - 21:00 | TBD
++ 20:00 - 21:00 | Studied "LLM for Robotics - Google Research"
 # 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
 ```
