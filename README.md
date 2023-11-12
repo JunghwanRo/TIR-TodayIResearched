@@ -44,10 +44,10 @@ Review of Hours. What I did. Concentration level.
 + 13:00 - 14:00 | Studied "PROXIMAL POLICY OPTIMIZATION (PPO) WITH DOOM - HuggingFace"
 + 14:00 - 15:00 | Studied "ADVANCED TOPICS IN REINFORCEMENT LEARNING - HuggingFace"
 + 15:00 - 16:00 | Studied "ADVANCED TOPICS IN REINFORCEMENT LEARNING - HuggingFace"
-# 16:00 - 17:00 | Studied "Offline Reinforcement Learning - BayLearn 2021 Keynote Talk"
-# 17:00 - 18:00 | TBD
-# 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
++ 16:00 - 17:00 | Studied "Offline Reinforcement Learning - BayLearn 2021 Keynote Talk"
+# 17:00 - 18:00 | Cmapus Closed, Move to Home
++ 18:00 - 19:00 | Finished "Deep Reinforcement Learning Course - Hugging Face"
+# 19:00 - 20:00 | Dinner 
 # 20:00 - 21:00 | TBD
 # 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
