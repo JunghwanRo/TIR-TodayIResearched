@@ -44,13 +44,13 @@ Develop a debugging pipeline / -
 + 10:00 - 11:00 | Read "Bayesian Multi-Task Learning MPC for Robotic Mobile Manipulation - RSL/ETHZ"
 + 11:00 - 12:00 | Watched "Reinforcement Learning from Human Feedback - Hugging Face"
 # 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
-# 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
+! 13:00 - 14:00 | So sleepy, Watched "Reinforcement Learning from Human Feedback - Hugging Face"
+! 14:00 - 15:00 | So sleepy, Studied "Plotjuggler!"
++ 15:00 - 16:00 | Researched "Debugging docker, goto_rl.py"
++ 16:00 - 17:00 | Researched "Debugging docker, goto_rl.py"
+! 17:00 - 18:00 | Quick Dinner, Researched "Debugging docker, goto_rl.py" Problem was Numpy Version
++ 18:00 - 19:00 | Researched "Behavior of goto_rl.py"
++ 19:00 - 20:00 | Researched "Behavior of goto_rl.py", 
 # 20:00 - 21:00 | TBD
 # 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
