@@ -38,13 +38,11 @@ Review of Hours. What I did. Concentration level.
 #### <2023/11/13 MON>
 ```diff
 - PLAN
-Read 1 paper from IROS / 
-Read R3AMA doc / 
-Read generalist paper / 
-Develop a debugging pipeline / 
-# 09:00 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
+Read 1 paper from IROS / O
+Develop a debugging pipeline / -
++ 09:00 - 10:00 | Studied "Robotics/Reinforcement learning articles - Google Research"
++ 10:00 - 11:00 | Read "Bayesian Multi-Task Learning MPC for Robotic Mobile Manipulation - RSL/ETHZ"
++ 11:00 - 12:00 | Watched "Reinforcement Learning from Human Feedback - Hugging Face"
 # 12:00 - 13:00 | Lunch
 # 13:00 - 14:00 | TBD
 # 14:00 - 15:00 | TBD
