@@ -38,6 +38,10 @@ Review of Hours. What I did. Concentration level.
 #### <2023/11/13 MON>
 ```diff
 - PLAN
+Read 1 paper from IROS / 
+Read R3AMA doc / 
+Read generalist paper / 
+Develop a debugging pipeline / 
 # 09:00 - 10:00 | TBD
 # 10:00 - 11:00 | TBD
 # 11:00 - 12:00 | TBD
