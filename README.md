@@ -51,8 +51,7 @@ Review of Hours. What I did. Concentration level.
 + 18:00 - 19:00 | Quick Dinner, Studied "Attention - StatQuest"
 # 19:00 - 20:00 | Water Supply
 + 20:00 - 21:00 | Studied "Transformer Model - Attention"
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
++ 21:00 - 22:00 | Studied "Transformer Model - StatQuest/Google", Studied "Generalist Agent - Google"
 ```
 
 #### <2023/11/13 MON>
