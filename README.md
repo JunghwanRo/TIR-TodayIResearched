@@ -46,7 +46,7 @@ Review of Hours. What I did. Concentration level.
 # 14:00 - 15:00 | Studied "Decision Transformer - Medium"
 # 15:00 - 16:00 | Studied "Multi-game Decision Transformer - Youtube"
 # 16:00 - 17:00 | Studied "Multi-game Decision Transformer - Youtube"
-# 17:00 - 18:00 | Studied "Multi-game Decision Transformer - Youtube"
+# 17:00 - 18:00 | Studied "Multi-game Decision Transformer - Youtube", Studied "Upside Down RL - Youtube"
 # 18:00 - 19:00 | Dinner - Burgerking
 # 19:00 - 20:00 | Dinner - Burgerking
 # 20:00 - 21:00 | TBD
