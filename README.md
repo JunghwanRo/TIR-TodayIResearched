@@ -38,20 +38,20 @@ Review of Hours. What I did. Concentration level.
 #### <2023/11/15 WED>
 ```diff
 - PLAN
-# 08:50 - 10:00 | Studied "Transformer Model - Medium"
-# 10:00 - 11:00 | Studied "Transformer Model - Medium", Studied "Decision Transformer - Stanford"
-# 11:00 - 12:00 | Studied "Decision Transformer - Youtube"
++ 08:50 - 10:00 | Studied "Transformer Model - Medium"
++ 10:00 - 11:00 | Studied "Transformer Model - Medium", Studied "Decision Transformer - Stanford"
++ 11:00 - 12:00 | Studied "Decision Transformer - Youtube"
 # 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | Studied "Decision Transformer - Youtube"
-# 14:00 - 15:00 | Studied "Decision Transformer - Medium"
-# 15:00 - 16:00 | Studied "Multi-game Decision Transformer - Youtube"
-# 16:00 - 17:00 | Studied "Multi-game Decision Transformer - Youtube"
-# 17:00 - 18:00 | Studied "Multi-game Decision Transformer - Youtube", Studied "Upside Down RL - Youtube"
++ 13:00 - 14:00 | Studied "Decision Transformer - Youtube"
++ 14:00 - 15:00 | Studied "Decision Transformer - Medium"
++ 15:00 - 16:00 | Studied "Multi-game Decision Transformer - Youtube"
++ 16:00 - 17:00 | Studied "Multi-game Decision Transformer - Youtube"
++ 17:00 - 18:00 | Studied "Multi-game Decision Transformer - Youtube", Studied "Upside Down RL - Youtube"
 # 18:00 - 19:00 | Dinner - Burgerking
 # 19:00 - 20:00 | Dinner - Burgerking
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
+# 20:00 - 21:00 | Wasted
+! 21:00 - 22:00 | Studied "Generalist Agent - Google"
+! 22:00 - 22:30 | Studied "Generalist Agent - Google"
 ```
 
 #### <2023/11/14 TUE>
