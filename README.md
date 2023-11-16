@@ -38,21 +38,21 @@ Review of Hours. What I did. Concentration level.
 #### <2023/11/16 THU>
 ```diff
 - PLAN
-# 08:00 - 09:00 | TBD
-# 09:00 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
+! 08:30 - 09:00 | Prepare Lecture - CS7644
++ 09:00 - 10:00 | Studied "Final Project Lecture - CS7644"
++ 10:00 - 11:00 | Studied "Final Project Lecture - CS7644"
+! 11:00 - 12:00 | Studied "A Generalist Agent - Google"
 # 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
-# 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
++ 13:00 - 14:00 | Studied "A Generalist Agent - Google"
++ 14:00 - 15:00 | Studied "A Generalist Agent - Google"
+! 15:00 - 16:00 | Researched "Debugging tool for RL VRX"
++ 16:00 - 17:00 | Researched "Debugging tool for RL VRX"
++ 17:00 - 18:00 | Studied "Isaac Sim on Server - Rivendell"
+! 18:00 - 19:00 | Studied "Isaac Sim on Server - Rivendell"
+# 19:00 - 20:00 | Dinner - Mammamia
+! 20:00 - 21:00 | Studied "Isaac Sim - Nvidia"
++ 21:00 - 22:00 | Studied "Isaac Sim - Nvidia"
+! 22:00 - 22:20 | Studied "Isaac Sim - Nvidia"
 ```
 
 #### <2023/11/15 WED>
