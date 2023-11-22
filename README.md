@@ -49,9 +49,9 @@ Review of Hours. What I did. Concentration level.
 + 17:00 - 18:00 | Studied "Nvidia Isaac Sim"
 + 18:00 - 19:00 | Quick Dinner, Studied "Nvidia Isaac Sim"
 + 19:00 - 20:00 | Studied "Nvidia Isaac Sim", Studied "Final Project(RL) - CS7641"
-# 20:00 - 21:00 | Studied "Final Project(RL) - CS7641"
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
++ 20:00 - 21:00 | Studied "Final Project(RL) - CS7641"
++ 21:00 - 22:00 | Studied "Final Project(RL) - CS7641"
+! 22:00 - 22:30 | Studied "Final Project(RL) - CS7641"
 ```
 
 #### <2023/11/21 TUE>
@@ -72,81 +72,55 @@ Review of Hours. What I did. Concentration level.
 #### <2023/11/20 MON>
 ```diff
 - PLAN
-# 08:00 - 09:00 | TBD
-# 09:00 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
+! 09:00 - 10:00 | Studied "Nvidia Isaac Tutorial"
++ 10:00 - 11:00 | Studied "Nvidia Isaac Tutorial"
++ 11:00 - 12:00 | Studied "Nvidia Isaac Tutorial"
 # 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
++ 13:00 - 14:00 | Studied "Nvidia Isaac Tutorial"
+! 14:00 - 15:00 | Studied "Nvidia Isaac Tutorial"
+! 15:00 - 16:00 | Studied "Nvidia Isaac Tutorial"
++ 16:00 - 17:00 | Studied "Nvidia Isaac Tutorial"
++ 17:00 - 18:00 | Studied "Nvidia Isaac Tutorial"
 # 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
 ```
 
 #### <2023/11/19 SUN>
 ```diff
 - PLAN
-# 08:00 - 09:00 | TBD
-# 09:00 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
 # 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
++ 13:00 - 14:00 | Studied "Final Project(RL) - CS7641"
++ 14:00 - 15:00 | Studied "Final Project(RL) - CS7641"
+! 15:00 - 16:00 | Studied "Final Project(RL) - CS7641"
++ 16:00 - 17:00 | Studied "Final Project(RL) - CS7641"
++ 17:00 - 18:00 | Studied "Final Project(RL) - CS7641"
 # 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
 ```
 
 #### <2023/11/18 SAT>
 ```diff
 - PLAN
-# 08:00 - 09:00 | TBD
-# 09:00 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
 # 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
++ 13:00 - 14:00 | Studied "Final Project(RL) - CS7641"
++ 14:00 - 15:00 | Studied "Final Project(RL) - CS7641"
++ 15:00 - 16:00 | Studied "Final Project(RL) - CS7641"
++ 16:00 - 17:00 | Studied "Final Project(RL) - CS7641"
++ 17:00 - 18:00 | Studied "Final Project(RL) - CS7641"
 # 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
 ```
 
 #### <2023/11/17 FRI>
 ```diff
 - PLAN
-# 08:00 - 09:00 | TBD
-# 09:00 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
++ 09:00 - 10:00 | Research Meeting
+! 10:00 - 11:00 | Studied "Final Project(RL) - CS7641"
+! 11:00 - 12:00 | Studied "Final Project(RL) - CS7641"
 # 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
++ 13:00 - 14:00 | Studied "Final Project(RL) - CS7641"
+! 14:00 - 15:00 | Studied "Nvidia Isaac Tutorial"
++ 15:00 - 16:00 | Studied "Nvidia Isaac Tutorial"
++ 16:00 - 17:00 | Studied "Nvidia Isaac Tutorial"
+! 17:00 - 18:00 | Studied "Nvidia Isaac Tutorial"
 # 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
 ```
 
 #### <2023/11/16 THU>
