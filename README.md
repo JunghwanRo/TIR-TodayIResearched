@@ -38,19 +38,18 @@ Review of Hours. What I did. Concentration level.
 #### <2023/11/22 WED>
 ```diff
 - PLAN
-# 08:00 - 09:00 | TBD
-# 09:00 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
-# 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
-# 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
++ 09:20 - 10:00 | Video meeting with Univ. Luxemburg
++ 10:00 - 11:00 | Video meeting with Univ. Luxemburg, Studied "Nvidia Isaac Sim"
++ 11:00 - 12:00 | Studied "Nvidia Isaac Sim"
+# 12:00 - 13:00 | Lunch with GTE Thanksgiving Party
+# 13:00 - 14:00 | Lunch at Crous
++ 14:00 - 15:00 | Studied "Nvidia Isaac Sim"
++ 15:00 - 16:00 | Studied "Nvidia Isaac Sim"
++ 16:00 - 17:00 | Studied "Nvidia Isaac Sim"
++ 17:00 - 18:00 | Studied "Nvidia Isaac Sim"
++ 18:00 - 19:00 | Quick Dinner, Studied "Nvidia Isaac Sim"
++ 19:00 - 20:00 | Studied "Nvidia Isaac Sim", Studied "Final Project(RL) - CS7641"
+# 20:00 - 21:00 | Studied "Final Project(RL) - CS7641"
 # 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
 ```
