@@ -38,18 +38,17 @@ Review of Hours. What I did. Concentration level.
 #### <2023/11/28 TUE>
 ```diff
 - PLAN
-# 08:00 - 09:00 | TBD
-# 09:00 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
++ 08:50 - 10:00 | Studied "Isaac Gym Trained PPO model to CoppeliaSim - CS7644"
++ 10:00 - 11:00 | Studied "Isaac Gym Trained PPO model to CoppeliaSim - CS7644"
++ 11:00 - 12:00 | Studied "Isaac Gym Trained PPO model to CoppeliaSim - CS7644"
 # 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
-# 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
++ 13:00 - 14:00 | Discussion with Antoine
++ 14:00 - 15:00 | Weekly Meeting
++ 15:00 - 16:00 | Lecture - CS7644
++ 16:00 - 17:00 | Studied "Isaac Gym Trained PPO model to CoppeliaSim - CS7644"
++ 17:00 - 18:00 | Studied "Isaac Gym Trained PPO model to CoppeliaSim - CS7644"
+! 18:00 - 19:00 | Dinner, Studied "Isaac Gym Trained PPO model to CoppeliaSim - CS7644"
++ 19:00 - 20:00 | Studied "Isaac Gym Trained PPO model to CoppeliaSim - CS7644"
 # 20:00 - 21:00 | TBD
 # 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
@@ -66,16 +65,14 @@ Review of Hours. What I did. Concentration level.
 + 05:00 - 06:00 | Studied "Final Project RL - CS7641"
 Sleep
 # 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | Researched "Final Project - CS7644"
-# 14:00 - 15:00 | Researched "Final Project - CS7644"
-# 15:00 - 16:00 | Aishwarya PhD Defence Rehearsal
-# 16:00 - 17:00 | Aishwarya PhD Defence Rehearsal
-# 17:00 - 18:00 | TBD
-# 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
++ 13:00 - 14:00 | Researched "Final Project - CS7644"
++ 14:00 - 15:00 | Researched "Final Project - CS7644"
++ 15:00 - 16:00 | Aishwarya PhD Defence Rehearsal
++ 16:00 - 17:00 | Aishwarya PhD Defence Rehearsal
++ 17:00 - 18:00 | Studied "Convolutional Neural Networks - Andrew Ng"
++ 18:00 - 19:00 | "Convolutional Neural Networks - Andrew Ng"
++ 19:00 - 20:00 | "Convolutional Neural Networks - Andrew Ng"
+# 20:00 - 21:00 | Pizza Dinner
 ```
 
 #### <2023/11/26 SUN>
