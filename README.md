@@ -35,6 +35,8 @@ Review of Hours. What I did. Concentration level.
 
 ### November.
 
+a
+
 #### <2023/11/29 WED>
 ```diff
 - PLAN
