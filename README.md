@@ -58,41 +58,40 @@ Review of Hours. What I did. Concentration level.
 #### <2023/11/30 THU>
 ```diff
 - PLAN
-# 08:00 - 09:00 | TBD
-# 09:00 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
-# 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
++ 09:00 - 10:00 | Studied "Isaac Gym Trained PPO model to CoppeliaSim - CS7644", Lecture - CS7644
++ 10:00 - 11:00 | Lecture - CS7644
+# 11:00 - 12:00 | Early Lunch, Move to Station
+# 12:00 - 13:00 | Move to Zurich
+! 13:00 - 14:00 | Move to Zurich, Studied "Deep Neural Network - Andrew Ng"
+! 14:00 - 15:00 | Move to Zurich, Studied "Deep Neural Network - Andrew Ng"
+! 15:00 - 16:00 | Move to Zurich, Studied "Deep Neural Network - Andrew Ng"
+! 16:00 - 17:00 | Move to Zurich, Studied "Deep Neural Network - Andrew Ng"
+# 17:00 - 18:00 | Help Juli Moving
 # 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
+# 19:00 - 20:00 | Help Juli Moving
+# 20:00 - 21:00 | Help Juli Moving
+# 21:00 - 22:00 | Help Juli Moving
+# 22:00 - 23:00 | Help Juli Moving
++ 23:00 - 24:00 | Studied "Deep Neural Network - Andrew Ng"
 ```
 
 #### <2023/11/29 WED>
 ```diff
 - PLAN
-# 08:00 - 09:00 | TBD
-# 09:00 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
++ 09:00 - 10:00 | Studied "Isaac Gym Trained PPO model to CoppeliaSim - CS7644"
++ 10:00 - 11:00 | Studied "Isaac Gym Trained PPO model to CoppeliaSim - CS7644"
++ 11:00 - 12:00 | Studied "Isaac Gym Trained PPO model to CoppeliaSim - CS7644"
 # 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
+! 13:00 - 14:00 | Studied "Isaac Gym Trained PPO model to CoppeliaSim - CS7644"
+! 14:00 - 15:00 | Studied "Isaac Gym Trained PPO model to CoppeliaSim - CS7644"
++ 15:00 - 16:00 | Studied "Isaac Gym Trained PPO model to CoppeliaSim - CS7644"
++ 16:00 - 17:00 | Studied "Deep Neural Network - Andrew Ng"
++ 17:00 - 18:00 | Studied "Deep Neural Network - Andrew Ng"
 # 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
+! 19:00 - 20:00 | Studied "Isaac Gym Trained PPO model to CoppeliaSim - CS7644"
++ 20:00 - 21:00 | Studied "Isaac Gym Trained PPO model to CoppeliaSim - CS7644"
++ 21:00 - 22:00 | Studied "Isaac Gym Trained PPO model to CoppeliaSim - CS7644"
++ 22:00 - 23:00 | Studied "Isaac Gym Trained PPO model to CoppeliaSim - CS7644"
 ```
 
 #### <2023/11/28 TUE>
