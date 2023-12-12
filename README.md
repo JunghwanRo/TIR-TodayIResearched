@@ -46,6 +46,8 @@ Review of Hours. What I did. Concentration level.
 # 06th POMO | Weekly Meeting
 # 07th POMO | Weekly Meeting
 # 08th POMO | Final Project - CS7644
+# 09th POMO | Final Project - CS7644
+# 10th POMO | Final Project - CS7644
 ```
 
 #### <2023/12/11 MON>
