@@ -38,10 +38,11 @@ Review of Hours. What I did. Concentration level.
 #### <2023/12/12 TUE>
 ```diff
 - PLAN
-# 1st POMO | CS7641 Forum check, Excution of RANS repo
-# 2nd POMO | Excution of RANS repo
-# 3rd POMO | Final Project - CS7644
-# 4th POMO | Review Deliverable of BugWright2 Project, Final Project - CS7644
+# 01st POMO | CS7641 Forum check, Excution of RANS repo
+# 02nd POMO | Excution of RANS repo
+# 03rd POMO | Final Project - CS7644
+# 04th POMO | Review Deliverable of BugWright2 Project, Final Project - CS7644
+# 05th POMO | Code check for RANS repo
 ```
 
 #### <2023/12/11 MON>
