@@ -48,6 +48,8 @@ Review of Hours. What I did. Concentration level.
 # 08th POMO | Final Project - CS7644
 # 09th POMO | Final Project - CS7644
 # 10th POMO | Final Project - CS7644
+# 11th POMO | RANS Repo framework.md
+# 12th POMO | RANS Repo framework.md
 ```
 
 #### <2023/12/11 MON>
