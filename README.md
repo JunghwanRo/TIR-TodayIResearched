@@ -37,7 +37,7 @@ Review of Hours. What I did. Concentration level.
 
 #### <2023/12/12 TUE>
 ```diff
-- PLAN
+START TIME : 09:00
 # 01st POMO | CS7641 Forum check, Excution of RANS repo
 # 02nd POMO | Excution of RANS repo
 # 03rd POMO | Final Project - CS7644
@@ -50,6 +50,7 @@ Review of Hours. What I did. Concentration level.
 # 10th POMO | Final Project - CS7644
 # 11th POMO | RANS Repo framework.md
 # 12th POMO | RANS Repo framework.md
+END TIME : 
 ```
 
 #### <2023/12/11 MON>
