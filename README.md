@@ -1,6 +1,10 @@
 # Today I Researched ~
-Review of Hours. What I did. Concentration level.
+Review of each Hours I spent.
 ```diff
+New Version
+1 POMO / 30 minutes session
+
+Old Version
 - Red / PLAN section
 + Green / Did well! Happy :). 41~60 minutes concentration
 ! Orange / Soso.. 20 ~ 40 minutes concentration
@@ -9,6 +13,32 @@ Review of Hours. What I did. Concentration level.
 
 <!--
 #### -TEMPLATE-
+
+#### <YYYY/MM/DD DAY>
+```diff
+START TIME : 
+# 01st POMO | 
+# 02nd POMO | 
+# 03rd POMO | 
+# 04th POMO | 
+# 05th POMO | 
+# 06th POMO | 
+# 07th POMO | 
+# 08th POMO | 
+# 09th POMO | 
+# 10th POMO | 
+# 11th POMO | 
+# 12th POMO | 
+# 13th POMO | 
+# 14th POMO | 
+# 15th POMO | 
+# 16th POMO | 
+# 17th POMO | 
+# 18th POMO | 
+# 19th POMO | 
+# 20th POMO | 
+END TIME : 
+```
 
 #### <YYYY/MM/DD DAY>
 ```diff
@@ -51,7 +81,7 @@ START TIME : 09:00
 # 11th POMO | RANS Repo framework.md
 # 12th POMO | RANS Repo framework.md
 # 13th POMO | RL framework review
-END TIME : 
+END TIME : 21:50
 ```
 
 #### <2023/12/11 MON>
@@ -72,13 +102,12 @@ END TIME :
 # 20:00 - 21:00 | TBD
 # 21:00 - 22:00 | TBD
 # 22:00 - 23:00 | TBD
+# 23:00 - 24:00 | 
 ```
 
 #### <2023/12/10 SUN>
 ```diff
 - PLAN
-# 08:00 - 09:00 | TBD
-# 09:00 - 10:00 | TBD
 # 10:00 - 11:00 | TBD
 # 11:00 - 12:00 | TBD
 # 12:00 - 13:00 | Lunch
@@ -97,8 +126,6 @@ END TIME :
 #### <2023/12/09 SAT>
 ```diff
 - PLAN
-# 08:00 - 09:00 | TBD
-# 09:00 - 10:00 | TBD
 # 10:00 - 11:00 | TBD
 # 11:00 - 12:00 | TBD
 # 12:00 - 13:00 | Lunch
@@ -110,14 +137,11 @@ END TIME :
 # 18:00 - 19:00 | Dinner
 # 19:00 - 20:00 | TBD
 # 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
 ```
 
 #### <2023/12/08 FRI>
 ```diff
 - PLAN
-# 08:00 - 09:00 | TBD
 # 09:00 - 10:00 | TBD
 # 10:00 - 11:00 | TBD
 # 11:00 - 12:00 | TBD
@@ -131,13 +155,11 @@ END TIME :
 # 19:00 - 20:00 | TBD
 # 20:00 - 21:00 | TBD
 # 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
 ```
 
 #### <2023/12/07 THU>
 ```diff
 - PLAN
-# 08:00 - 09:00 | TBD
 # 09:00 - 10:00 | TBD
 # 10:00 - 11:00 | TBD
 # 11:00 - 12:00 | TBD
@@ -151,13 +173,11 @@ END TIME :
 # 19:00 - 20:00 | TBD
 # 20:00 - 21:00 | TBD
 # 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
 ```
 
 #### <2023/12/06 WED>
 ```diff
 - PLAN
-# 08:00 - 09:00 | TB
 # 09:00 - 10:00 | TBD
 # 10:00 - 11:00 | TBD
 # 11:00 - 12:00 | TBD
@@ -171,13 +191,11 @@ END TIME :
 # 19:00 - 20:00 | TBD
 # 20:00 - 21:00 | TBD
 # 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
 ```
 
 #### <2023/12/05 TUE>
 ```diff
 - PLAN
-# 08:00 - 09:00 | TBD
 # 09:00 - 10:00 | TBD
 # 10:00 - 11:00 | TBD
 # 11:00 - 12:00 | TBD
@@ -191,13 +209,11 @@ END TIME :
 # 19:00 - 20:00 | TBD
 # 20:00 - 21:00 | TBD
 # 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
 ```
 
 #### <2023/12/04 MON>
 ```diff
 - PLAN
-# 08:00 - 09:00 | TBD
 # 09:00 - 10:00 | TBD
 # 10:00 - 11:00 | TBD
 # 11:00 - 12:00 | TBD
@@ -211,14 +227,11 @@ END TIME :
 # 19:00 - 20:00 | TBD
 # 20:00 - 21:00 | TBD
 # 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
 ```
 
 #### <2023/12/03 SUN>
 ```diff
 - PLAN
-# 08:00 - 09:00 | TBD
-# 09:00 - 10:00 | TBD
 # 10:00 - 11:00 | TBD
 # 11:00 - 12:00 | TBD
 # 12:00 - 13:00 | Lunch
@@ -228,10 +241,6 @@ END TIME :
 # 16:00 - 17:00 | TBD
 # 17:00 - 18:00 | TBD
 # 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
 ```
 
 #### <2023/12/02 SAT>
