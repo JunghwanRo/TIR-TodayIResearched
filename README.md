@@ -70,7 +70,7 @@ END TIME :
 START TIME : 
 # 01st POMO | Making R3AMA framework
 # 02nd POMO | Making R3AMA framework
-# 03rd POMO | 
+# 03rd POMO | Final Project Slide - CS7644
 # 04th POMO | 
 # 05th POMO | 
 # 06th POMO | 
