@@ -67,7 +67,7 @@ END TIME :
 
 #### <2023/12/13 WED>
 ```diff
-START TIME : 
+START TIME : 08:30
 # 01st POMO | Making R3AMA framework
 # 02nd POMO | Making R3AMA framework
 # 03rd POMO | Final Project Slide - CS7644
@@ -80,15 +80,8 @@ START TIME :
 # 10th POMO | Making USV framework(Import connections)
 # 11th POMO | Reviewing Crazyflie rl_example
 # 12th POMO | How to make robot in the simulation
-# 13th POMO | 
-# 14th POMO | 
-# 15th POMO | 
-# 16th POMO | 
-# 17th POMO | 
-# 18th POMO | 
-# 19th POMO | 
-# 20th POMO | 
-END TIME : 
+# 13th POMO | How to make robot in the simulation
+END TIME : 22:04
 ```
 
 #### <2023/12/12 TUE>
