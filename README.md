@@ -71,12 +71,12 @@ START TIME :
 # 01st POMO | Making R3AMA framework
 # 02nd POMO | Making R3AMA framework
 # 03rd POMO | Final Project Slide - CS7644
-# 04th POMO | 
-# 05th POMO | 
-# 06th POMO | 
-# 07th POMO | 
-# 08th POMO | 
-# 09th POMO | 
+# 04th POMO | Final Project Presentation - CS7644
+# 05th POMO | Final Project Presentation - CS7644
+# 06th POMO | Aishwarya PhD Defense
+# 07th POMO | Aishwarya PhD Defense
+# 08th POMO | Aishwarya PhD Defense
+# 09th POMO | Making USV framework
 # 10th POMO | 
 # 11th POMO | 
 # 12th POMO | 
