@@ -68,8 +68,8 @@ END TIME :
 #### <2023/12/13 WED>
 ```diff
 START TIME : 
-# 01st POMO | 
-# 02nd POMO | 
+# 01st POMO | Making R3AMA framework
+# 02nd POMO | Making R3AMA framework
 # 03rd POMO | 
 # 04th POMO | 
 # 05th POMO | 
