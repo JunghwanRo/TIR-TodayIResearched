@@ -77,7 +77,7 @@ START TIME :
 # 07th POMO | Aishwarya PhD Defense
 # 08th POMO | Aishwarya PhD Defense
 # 09th POMO | Making USV framework
-# 10th POMO | 
+# 10th POMO | Making USV framework(Import connections)
 # 11th POMO | 
 # 12th POMO | 
 # 13th POMO | 
