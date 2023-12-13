@@ -78,7 +78,7 @@ START TIME :
 # 08th POMO | Aishwarya PhD Defense
 # 09th POMO | Making USV framework
 # 10th POMO | Making USV framework(Import connections)
-# 11th POMO | 
+# 11th POMO | Reviewing Crazyflie rl_example
 # 12th POMO | 
 # 13th POMO | 
 # 14th POMO | 
