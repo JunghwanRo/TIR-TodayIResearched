@@ -79,7 +79,7 @@ START TIME :
 # 09th POMO | Making USV framework
 # 10th POMO | Making USV framework(Import connections)
 # 11th POMO | Reviewing Crazyflie rl_example
-# 12th POMO | 
+# 12th POMO | How to make robot in the simulation
 # 13th POMO | 
 # 14th POMO | 
 # 15th POMO | 
