@@ -70,7 +70,7 @@ END TIME :
 START TIME : 08:55
 # 01st POMO | Make Heron in Isaac Sim
 # 02nd POMO | Make Heron in Isaac Sim
-# 03rd POMO | 
+# 03rd POMO | Make Heron in Isaac Sim
 # 04th POMO | 
 # 05th POMO | 
 # 06th POMO | 
