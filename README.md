@@ -82,7 +82,7 @@ START TIME : 08:55
 # 12th POMO | Debugging the Heron training without Buoyancy(Version cm -> m)
 # 13th POMO | Debugging the Heron training without Buoyancy
 # 14th POMO | Checked Thruster dynamics
-# 15th POMO | 
+# 15th POMO | Updated Action from [0 1] to [-1 1]
 # 16th POMO | 
 # 17th POMO | 
 # 18th POMO | 
