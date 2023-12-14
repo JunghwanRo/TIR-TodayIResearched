@@ -68,8 +68,8 @@ END TIME :
 #### <2023/12/14 THU>
 ```diff
 START TIME : 08:55
-# 01st POMO | 
-# 02nd POMO | 
+# 01st POMO | Make Heron in Isaac Sim
+# 02nd POMO | Make Heron in Isaac Sim
 # 03rd POMO | 
 # 04th POMO | 
 # 05th POMO | 
