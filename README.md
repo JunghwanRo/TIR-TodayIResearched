@@ -79,8 +79,8 @@ START TIME : 08:55
 # 09th POMO | Make Heron in Isaac Sim
 # 10th POMO | Debugging the Heron training without Buoyancy
 # 11th POMO | Debugging the Heron training without Buoyancy
-# 12th POMO | 
-# 13th POMO | 
+# 12th POMO | Debugging the Heron training without Buoyancy(Version cm -> m)
+# 13th POMO | Debugging the Heron training without Buoyancy
 # 14th POMO | 
 # 15th POMO | 
 # 16th POMO | 
