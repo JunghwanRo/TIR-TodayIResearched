@@ -73,7 +73,7 @@ START TIME :
 # 02nd POMO | Checked Thruster orientation
 # 03rd POMO | Checked Thruster orientation
 # 04th POMO | Checked Thruster Force
-# 05th POMO | 
+# 05th POMO | Checked Thruster Force
 # 06th POMO | 
 # 07th POMO | 
 # 08th POMO | 
