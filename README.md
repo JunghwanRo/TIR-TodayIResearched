@@ -70,9 +70,9 @@ END TIME :
 ```diff
 START TIME : 
 # 01st POMO | Checked Buoyancy Physics code
-# 02nd POMO | Thruster orientation check
-# 03rd POMO | Thruster orientation check
-# 04th POMO | 
+# 02nd POMO | Checked Thruster orientation
+# 03rd POMO | Checked Thruster orientation
+# 04th POMO | Checked Thruster Force
 # 05th POMO | 
 # 06th POMO | 
 # 07th POMO | 
