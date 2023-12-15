@@ -75,7 +75,7 @@ START TIME :
 # 04th POMO | Checked Thruster Force
 # 05th POMO | Checked Thruster Force
 # 06th POMO | Fixed thruster rotation (no rotation)
-# 07th POMO | 
+# 07th POMO | Research Meeting
 # 08th POMO | 
 # 09th POMO | 
 # 10th POMO | 
