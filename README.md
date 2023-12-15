@@ -76,9 +76,9 @@ START TIME :
 # 05th POMO | Checked Thruster Force
 # 06th POMO | Fixed thruster rotation (no rotation)
 # 07th POMO | Research Meeting
-# 08th POMO | 
-# 09th POMO | 
-# 10th POMO | 
+# 08th POMO | Add Physics(Hydodynamics) to scene
+# 09th POMO | Add Physics(Hydodynamics) to scene
+# 10th POMO | Add Physics(Hydodynamics) to scene
 # 11th POMO | 
 # 12th POMO | 
 # 13th POMO | 
