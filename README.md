@@ -69,9 +69,9 @@ END TIME :
 #### <2023/12/15 FRI>
 ```diff
 START TIME : 
-# 01st POMO | 
-# 02nd POMO | 
-# 03rd POMO | 
+# 01st POMO | Checked Buoyancy Physics code
+# 02nd POMO | Thruster orientation check
+# 03rd POMO | Thruster orientation check
 # 04th POMO | 
 # 05th POMO | 
 # 06th POMO | 
