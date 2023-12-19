@@ -66,7 +66,7 @@ END TIME :
 
 ### December.
 
-#### <YYYY/MM/DD DAY>
+#### <YYYY/MM/DD DAyt>
 ```diff
 START TIME : 
 # 01st POMO | 
