@@ -69,7 +69,7 @@ END TIME :
 #### <YYYY/MM/DD DAyt>
 ```diff
 START TIME : 
-# 01st POMO | 
+# 01st POMO | tbd
 # 02nd POMO | 
 # 03rd POMO | 
 # 04th POMO | 
