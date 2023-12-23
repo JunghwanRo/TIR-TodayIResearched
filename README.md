@@ -36,7 +36,7 @@ Old Version
 
 #### <YYYY/MM/DD DAY>
 ```diff
-START TIME : 0
+START TIME : 00
 # 01st POMO | 
 # 02nd POMO | 
 # 03rd POMO | 
