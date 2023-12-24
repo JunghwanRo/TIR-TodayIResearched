@@ -14,7 +14,7 @@ Old Version
 <!--
 #### -TEMPLATE-
 
-#### <YYYY/MM/DD DAY>
+#### <YYYY/MM/DD DAYYY>
 ```diff
 - PLAN
 # 08:00 - 09:00 | TBD
