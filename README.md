@@ -1,5 +1,5 @@
 # Today I Researched ~
-Review of each Hours I spent.
+Review of each Hours I spent. 
 ```diff
 New Version
 1 POMO / 30 minutes session
