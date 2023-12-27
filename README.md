@@ -2,7 +2,7 @@
 Review of each Hours I spent. 
 ```diff
 New Version
-1 POMO / 30 minutes session
+1 POMO / 30 minutes session 
 
 Old Version
 - Red / PLAN section
