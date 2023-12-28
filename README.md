@@ -5,7 +5,7 @@ New Version
 1 POMO / 30 minutes session 
 
 Old Version
-- Red / PLAN section
+- Red / PLAN section 
 + Green / Did well! Happy :). 41~60 minutes concentration
 ! Orange / Soso.. 20 ~ 40 minutes concentration
 # Gray / NA
