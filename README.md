@@ -4,7 +4,7 @@ Review of each Hours I spent.
 New Version
 1 POMO / 30 minutes session 
 
-Old Version
+Old Version 
 - Red / PLAN section 
 + Green / Did well! Happy :). 41~60 minutes concentration
 ! Orange / Soso.. 20 ~ 40 minutes concentration
