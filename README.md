@@ -7,7 +7,7 @@ New Version
 Old Version  
 - Red / PLAN section 
 + Green / Did well! Happy :). 41~60 minutes concentration 
-! Orange / Soso.. 20 ~ 40 minutes concentration
+! Orange / Soso.. 20 ~ 40 minutes concentration 
 # Gray / NA
 ```
 
