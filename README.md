@@ -24,7 +24,7 @@ END TIME = time left campus
 
 ## 2024
 
-#### <2023/01/11 THU> 
+#### <2024/01/11 THU> 
 ```diff
 ! START TIME | 08:22
 - PLAN
