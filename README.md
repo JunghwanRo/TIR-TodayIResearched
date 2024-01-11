@@ -24,17 +24,16 @@ END TIME = time left campus
 
 ## 2024
 
-#### <YYYY/MM/DD DAY> 
+#### <2023/01/11 THU> 
 ```diff
-! START TIME | XX:XX
+! START TIME | 08:22
 - PLAN
-# 
-# 
+# First Lecture of CS7630
+# Add Buoyancy and hydrodynamics to USV RL framework
 - RESULT
-# 
-# 
-+ Total XX POMOs
-! END TIME | XX:XX
+# Finished all planed work 
++ Total 19 POMOs
+! END TIME | 21:40
 ```
 
 <details>
