@@ -1,66 +1,42 @@
-# Today I Researched ~
-Review of each Hours I spent. 
+# Daily Plan, Result
 ```diff
-New Version
-1 POMO / 30 minutes session 
-
-Old Version  
-- Red / PLAN section 
-+ Green / Did well! Happy :). 41~60 minutes concentration 
-! Orange / Soso.. 20 ~ 40 minutes concentration 
-# Gray / NA 
+START TIME = time arrived on campus and started work
+END TIME = time left campus
+1 POMO = 30-minute session with pure concentration
 ``` 
 
 <!--
 #### -TEMPLATE- 
 
-#### <YYYY/MM/DD DAYYY> 
+#### <YYYY/MM/DD DAY> 
 ```diff
+! START TIME | XX:XX
 - PLAN
-# 08:00 - 09:00 | TBD
-# 09:00 - 10:00 | TBD
-# 10:00 - 11:00 | TBD
-# 11:00 - 12:00 | TBD
-# 12:00 - 13:00 | Lunch
-# 13:00 - 14:00 | TBD
-# 14:00 - 15:00 | TBD
-# 15:00 - 16:00 | TBD
-# 16:00 - 17:00 | TBD
-# 17:00 - 18:00 | TBD
-# 18:00 - 19:00 | Dinner
-# 19:00 - 20:00 | TBD
-# 20:00 - 21:00 | TBD
-# 21:00 - 22:00 | TBD
-# 22:00 - 23:00 | TBD
+# 
+# 
+- RESULT
+# 
+# 
++ Total XX POMOs
+! END TIME | XX:XX
 ```
-
-#### <YYYY/MM/DD DAY>
-```diff
-START TIME : 00:
-# 01st POMO | 
-# 02nd POMO | 
-# 03rd POMO | 
-# 04th POMO | 
-# 05th POMO | 
-# 06th POMO | 
-# 07th POMO | 
-# 08th POMO | 
-# 09th POMO | 
-# 10th POMO | 
-# 11th POMO | 
-# 12th POMO | 
-# 13th POMO | 
-# 14th POMO | 
-# 15th POMO | 
-# 16th POMO | 
-# 17th POMO | 
-# 18th POMO | 
-# 19th POMO | 
-# 20th POMO | 
-END TIME : 
-```
-
 -->
+
+## 2024
+
+#### <YYYY/MM/DD DAY> 
+```diff
+! START TIME | XX:XX
+- PLAN
+# 
+# 
+- RESULT
+# 
+# 
++ Total XX POMOs
+! END TIME | XX:XX
+```
+
 <details>
 <summary> Before Renewal </summary>
 
