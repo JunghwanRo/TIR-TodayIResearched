@@ -61,6 +61,8 @@ END TIME :
 ```
 
 -->
+<details>
+<summary> Before Renewal </summary>
 
 ## 2023
 
@@ -3169,4 +3171,6 @@ REVIEW START!
 + 21:00 - 22:00 | E-mail to RYOSHO(wheel transducer), Studied "Appendix A, Ultrasonic Waves in Solid Media"
 ! 22:00 - 23:00 | ML Basic Course search
 ```
+</details>
+
 </details>
