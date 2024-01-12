@@ -34,12 +34,14 @@ END TIME = time left campus
 # Weekly Meeting
 # Research Meeting
 # CS7630 HW2
-- RESULT
-# 
-# 
-+ Total XX POMOs
 
-! END TIME | XX:XX
+- RESULT
+# CS7630 HW2 is not available until next week(turtlebot preparation)
+# Updated USV RL framework, now working(need further improvement though)
+
++ Total 16 POMOs
+
+! END TIME | 22:00
 ```
 
 #### <2024/01/11 THU> 
