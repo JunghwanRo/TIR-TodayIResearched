@@ -1,4 +1,4 @@
-# Daily Plan, Result
+# Daily Plan & Result
 ```diff
 START TIME = time arrived on campus and started work
 END TIME = time left campus
@@ -10,10 +10,13 @@ END TIME = time left campus
 
 #### <YYYY/MM/DD DAY> 
 ```diff
-! START TIME | XX:XX
+! START TIME | 08:28
 - PLAN
-# 
-# 
+# Check Semester Schedule
+# Update USV RL framework(continuos action etc.)
+# Weekly Meeting
+# Research Meeting
+# CS7630 HW2
 - RESULT
 # 
 # 
@@ -31,7 +34,7 @@ END TIME = time left campus
 # First Lecture of CS7630
 # Add Buoyancy and hydrodynamics to USV RL framework
 - RESULT
-# Finished all planed work 
+# Finished all planned work 
 + Total 19 POMOs
 ! END TIME | 21:40
 ```
