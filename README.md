@@ -10,6 +10,22 @@ END TIME = time left campus
 
 #### <YYYY/MM/DD DAY> 
 ```diff
+! START TIME | XX:XX
+- PLAN
+# 
+# 
+- RESULT
+# 
+# 
++ Total XX POMOs
+! END TIME | XX:XX
+```
+-->
+
+## 2024
+
+#### <2024/01/12 FRI> 
+```diff
 ! START TIME | 08:28
 - PLAN
 # Check Semester Schedule
@@ -23,9 +39,6 @@ END TIME = time left campus
 + Total XX POMOs
 ! END TIME | XX:XX
 ```
--->
-
-## 2024
 
 #### <2024/01/11 THU> 
 ```diff
