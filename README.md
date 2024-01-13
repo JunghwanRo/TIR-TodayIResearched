@@ -24,6 +24,18 @@ END TIME = time left campus
 
 ## 2024
 
+#### <2024/01/13 SAT> 
+```diff
+! START TIME | XX:XX
+- PLAN
+# CIT5950 Module 0 and 1 
+- RESULT
+# 
+# 
++ Total XX POMOs
+! END TIME | XX:XX
+```
+
 #### <2024/01/12 FRI> 
 ```diff
 ! START TIME | 08:28
