@@ -24,7 +24,7 @@ END TIME = time left campus
 
 ## 2024
 
-#### <2024/01/13 SAT> 
+#### <2024/01/13 SAT>  
 ```diff
 ! START TIME | XX:XX
 - PLAN
