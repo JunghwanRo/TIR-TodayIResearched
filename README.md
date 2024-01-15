@@ -28,15 +28,13 @@ END TIME = time left campus
 ```diff
 - START TIME | 08:40
 + PLAN
-# 
-# 
+# Review all Assignments from Course 4, 5 of Deep Learning
 ! RESULT
-# 
-#
+# Plan Done
  
-+ Total XX POMOs
++ Total 17 POMOs
 
-- END TIME | XX:XX
+- END TIME | 22:13
 ```
 
 #### <2024/01/13 SAT>  
