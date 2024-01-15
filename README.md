@@ -24,6 +24,21 @@ END TIME = time left campus
 
 ## 2024
 
+#### <2024/01/15 MON> 
+```diff
+- START TIME | 08:40
++ PLAN
+# 
+# 
+! RESULT
+# 
+#
+ 
++ Total XX POMOs
+
+- END TIME | XX:XX
+```
+
 #### <2024/01/13 SAT>  
 ```diff
 ! START TIME | XX:XX
