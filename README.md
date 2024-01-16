@@ -27,16 +27,18 @@ END TIME = time left campus
 #### <2024/01/16 TUE> 
 ```diff
 ! START TIME | 08:35
+
 - PLAN
 # CS7630 Lecture
 # Discuss with Luis (R3AMA)
 # Improve Structure of RANS-USV framework
 # CIT595 Module 1
 - RESULT
-# 
-# 
-+ Total XX POMOs
-! END TIME | XX:XX
+# CIT595 Module 1 not finished
+
++ Total 15 POMOs
+
+! END TIME | 22:17
 ```
 
 #### <2024/01/15 MON> 
