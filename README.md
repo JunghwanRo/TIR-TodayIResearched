@@ -24,6 +24,20 @@ END TIME = time left campus
 
 ## 2024
 
+#### <2024/01/17 WED> 
+```diff
+Super Slippery day, Almost no one on campus
+! START TIME | 08:43
+- PLAN
+# 
+# 
+- RESULT
+# 
+# 
++ Total XX POMOs
+! END TIME | XX:XX
+```
+
 #### <2024/01/16 TUE> 
 ```diff
 ! START TIME | 08:35
