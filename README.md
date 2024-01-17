@@ -26,11 +26,10 @@ END TIME = time left campus
 
 #### <2024/01/17 WED> 
 ```diff
-Super Slippery day, Almost no one on campus
+It was a super Slippery day. Almost no one on campus
 ! START TIME | 08:43
 - PLAN
-# 
-# 
+# Update USV RL framework
 - RESULT
 # 
 # 
