@@ -11,6 +11,7 @@ END TIME = time left campus
 #### <YYYY/MM/DD DAY> 
 ```diff
 ! START TIME | XX:XX
+
 - PLAN
 # 
 # 
@@ -18,11 +19,28 @@ END TIME = time left campus
 # 
 # 
 + Total XX POMOs
+
 ! END TIME | XX:XX
 ```
 -->
 
 ## 2024
+
+#### <2024/01/18 THU> 
+```diff
+It's snowing a lot! but melting so fast.
+! START TIME | 08:40
+
+- PLAN
+# 
+# 
+- RESULT
+# 
+# 
++ Total XX POMOs
+
+! END TIME | XX:XX
+```
 
 #### <2024/01/17 WED> 
 ```diff
