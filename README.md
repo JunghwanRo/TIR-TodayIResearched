@@ -26,20 +26,34 @@ END TIME = time left campus
 
 ## 2024
 
+#### <2024/01/19 FRI> 
+```diff
+! START TIME | 08:43
+
+- PLAN
+# Finish Turtlebot Assignment
+# Improve Reward Design of USV RL Framework
+- RESULT
+# 
+# 
++ Total 19 POMOs
+
+! END TIME | 21:55
+```
+
 #### <2024/01/18 THU> 
 ```diff
 It's snowing a lot! but melting so fast.
 ! START TIME | 08:40
 
 - PLAN
-# 
-# 
+# Finish CS7630 Assignment
 - RESULT
 # 
 # 
-+ Total XX POMOs
++ Total 17 POMOs
 
-! END TIME | XX:XX
+! END TIME | 22:20
 ```
 
 #### <2024/01/17 WED> 
