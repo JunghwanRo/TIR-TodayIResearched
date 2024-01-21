@@ -26,19 +26,34 @@ END TIME = time left campus
 
 ## 2024
 
-#### <2023/01/20 SAT> 
+#### <2023/01/21 SUN> 
 ```diff
-! START TIME | XX:XX
+! START TIME | 11:45
 
 - PLAN
-# 
-# 
+# CIT595 Module 2
+# Domain Randomization Check
+# Literature Review (Autonomous Navigation of Mobile Robots)
 - RESULT
 # 
 # 
 + Total XX POMOs
 
 ! END TIME | XX:XX
+```
+
+#### <2023/01/20 SAT> 
+```diff
+! START TIME | 11:40
+
+- PLAN
+# Literature Review
+# Fix Warning of the RL Framework
+- RESULT
+# Plan Done
++ Total 08 POMOs
+
+! END TIME | 20:20
 ```
 
 #### <2024/01/19 FRI> 
@@ -49,8 +64,7 @@ END TIME = time left campus
 # Finish Turtlebot Assignment
 # Improve Reward Design of USV RL Framework
 - RESULT
-# 
-# 
+# Plan Done
 + Total 19 POMOs
 
 ! END TIME | 21:55
@@ -64,8 +78,7 @@ It's snowing a lot! but melting so fast.
 - PLAN
 # Finish CS7630 Assignment
 - RESULT
-# 
-# 
+# Plan Done
 + Total 17 POMOs
 
 ! END TIME | 22:20
@@ -75,13 +88,14 @@ It's snowing a lot! but melting so fast.
 ```diff
 It was a super Slippery day. Almost no one on campus
 ! START TIME | 08:43
+
 - PLAN
 # Update USV RL framework
 - RESULT
-# 
-# 
-+ Total XX POMOs
-! END TIME | XX:XX
+# Plan Done
++ Total 15 POMOs
+
+! END TIME | 21:34
 ```
 
 #### <2024/01/16 TUE> 
@@ -104,6 +118,7 @@ It was a super Slippery day. Almost no one on campus
 #### <2024/01/15 MON> 
 ```diff
 - START TIME | 08:40
+
 + PLAN
 # Review all Assignments from Course 4, 5 of Deep Learning
 ! RESULT
@@ -117,13 +132,14 @@ It was a super Slippery day. Almost no one on campus
 #### <2024/01/13 SAT>  
 ```diff
 ! START TIME | XX:XX
+
 - PLAN
 # CIT5950 Module 0 and 1 
 - RESULT
-# 
-# 
-+ Total XX POMOs
-! END TIME | XX:XX
+# CIT5950 Module 0
++ Total 06 POMOs
+
+! END TIME | 22:00
 ```
 
 #### <2024/01/12 FRI> 
