@@ -26,6 +26,19 @@ END TIME = time left campus
 
 ## 2024
 
+#### <2023/01/24 THU> 
+```diff
+! START TIME | 08:35
+
+- PLAN
+# Understand domain randomization of the framework
+- RESULT
+# 
+# 
++ Total XX POMOs
+
+! END TIME | XX:XX
+
 #### <2023/01/23 WED> 
 ```diff
 ! START TIME | 08:35
