@@ -37,7 +37,7 @@ END TIME = time left campus
 # 
 + Total XX POMOs
 
-! END TIME | XX:XX
+! END TIME | 22:50
 
 #### <2023/01/23 WED> 
 ```diff
