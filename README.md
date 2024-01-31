@@ -2,8 +2,9 @@
 ```diff
 START TIME = time arrived on campus and started work
 END TIME = time left campus
-Pure TIME = time with concentration measured, thanks to the Apple Watch
-
+CON TIME = time with concentration measured, thanks to the Apple Watch
+Planning = Plan in the morning
+Comment = Self-Reflection before leaving
 ``` 
 
 <!--
@@ -12,22 +13,33 @@ Pure TIME = time with concentration measured, thanks to the Apple Watch
 #### <YYYY/MM/DD DAY> 
 ```diff
 ! START TIME | XX:XX
-
-- PLAN
+- Planning
 # 
 # 
-- RESULT
-# 
-# 
-+ Total XX POMOs
-
+- Comment
+#
++ CON TIME = XX:XX
 ! END TIME | XX:XX
 ```
 -->
 
 ## 2024
 
+#### <2024/01/31 WED> 
+```diff
+! START TIME | 08:34
+- Planning
+# Team meeting
+# Add Current, Wind to framework
+# Watch part of CIT5950 Module
+# Check CS7630 HW4
+- Comment
+#
++ CON TIME = XX:XX
+! END TIME | XX:XX
+```
 
+Renewal Period
 
 #### <2023/01/24 THU> 
 ```diff
