@@ -26,6 +26,18 @@ Comment = Self-Reflection before leaving
 
 ## 2024
 
+#### <2024/02/01 THU> 
+```diff
+! START TIME | XX:XX
+- Planning
+# 
+# 
+- Comment
+#
++ CON TIME = XX:XX
+! END TIME | XX:XX
+```
+
 <details>
 <summary> January </summary>
  
