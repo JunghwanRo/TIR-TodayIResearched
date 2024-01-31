@@ -26,6 +26,9 @@ Comment = Self-Reflection before leaving
 
 ## 2024
 
+<details>
+<summary> January </summary>
+ 
 #### <2024/01/31 WED> 
 ```diff
 ! START TIME | 08:34
@@ -240,6 +243,7 @@ It was a super Slippery day. Almost no one on campus
 
 ! END TIME | 21:40
 ```
+</details>
 
 <details>
 <summary> Before Renewal </summary>
