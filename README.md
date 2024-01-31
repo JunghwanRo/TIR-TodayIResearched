@@ -2,7 +2,8 @@
 ```diff
 START TIME = time arrived on campus and started work
 END TIME = time left campus
-1 POMO = 30-minute session with pure concentration
+Pure TIME = time with concentration measured, thanks to the Apple Watch
+
 ``` 
 
 <!--
@@ -26,50 +27,7 @@ END TIME = time left campus
 
 ## 2024
 
-#### <YYYY/MM/DD DAY> 
-```diff
-! START TIME | XX:XX
 
-- PLAN
-# 
-# 
-- RESULT
-# 
-# 
-+ Total XX POMOs
-
-! END TIME | XX:XX
-```
-
-#### <YYYY/MM/DD DAY> 
-```diff
-! START TIME | XX:XX
-
-- PLAN
-# 
-# 
-- RESULT
-# 
-# 
-+ Total XX POMOs
-
-! END TIME | XX:XX
-```
-
-#### <YYYY/MM/DD DAY> 
-```diff
-! START TIME | XX:XX
-
-- PLAN
-# 
-# 
-- RESULT
-# 
-# 
-+ Total XX POMOs
-
-! END TIME | XX:XX
-```
 
 #### <2023/01/24 THU> 
 ```diff
@@ -78,8 +36,7 @@ END TIME = time left campus
 - PLAN
 # Understand domain randomization of the framework
 - RESULT
-# 
-# 
+# PLAN DONE
 + Total XX POMOs
 
 ! END TIME | 22:50
@@ -91,8 +48,7 @@ END TIME = time left campus
 - PLAN
 # Understand domain randomization of the framework
 - RESULT
-# 
-# 
+# PLAN DONE
 + Total XX POMOs
 
 ! END TIME | XX:XX
@@ -104,8 +60,7 @@ END TIME = time left campus
 - PLAN
 # Understand domain randomization of the framework
 - RESULT
-# 
-# 
+# PLAN DONE
 + Total XX POMOs
 
 ! END TIME | XX:XX
@@ -118,8 +73,7 @@ END TIME = time left campus
 # Understand domain randomization of the framework
 # Literature search for structuring our paper
 - RESULT
-# 
-# 
+# PLAN DONE
 + Total XX POMOs
 
 ! END TIME | XX:XX
@@ -134,8 +88,7 @@ END TIME = time left campus
 # Domain Randomization Check
 # Literature Review (Autonomous Navigation of Mobile Robots)
 - RESULT
-# 
-# 
+# PLAN DONE
 + Total XX POMOs
 
 ! END TIME | XX:XX
