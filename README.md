@@ -35,9 +35,9 @@ Comment = Self-Reflection before leaving
 # Watch part of CIT5950 Module
 # Check CS7630 HW4
 - Comment
-#
-+ CON TIME = XX:XX
-! END TIME | XX:XX
+# Helped other groups for CS7630. Current added, but wind requires more time. Only finished Quiz for CIT595
++ CON TIME = 09:07
+! END TIME | 21:55
 ```
 
 Renewal Period
