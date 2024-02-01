@@ -28,10 +28,12 @@ Comment = Self-Reflection before leaving
 
 #### <2024/02/01 THU> 
 ```diff
-! START TIME | XX:XX
+! START TIME | 08:20
 - Planning
-# 
-# 
+# CS7630 HW4
+# Opportunity Search
+# Read Literature about system identification of USV
+# Add wind effect to the framework
 - Comment
 #
 + CON TIME = XX:XX
