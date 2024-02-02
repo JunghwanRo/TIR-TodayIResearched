@@ -26,6 +26,20 @@ Comment = Self-Reflection before leaving
 
 ## 2024
 
+#### <2024/02/02 FRI> 
+```diff
+! START TIME | 07:50
+- Planning
+# CS7630 HW4 Wrap up, submission
+# Research Meeting
+# Get the structure of paper
+# CIT595 project1b
+- Comment
+#
++ CON TIME = XX:XX
+! END TIME | XX:XX
+```
+
 #### <2024/02/01 THU> 
 ```diff
 ! START TIME | 08:20
@@ -35,9 +49,9 @@ Comment = Self-Reflection before leaving
 # Read Literature about system identification of USV
 # Add wind effect to the framework
 - Comment
-#
-+ CON TIME = XX:XX
-! END TIME | XX:XX
+# Not many interesting Opportunities were found. SI for USV was quite concise. Wind effect not needed.
++ CON TIME = 11:20
+! END TIME | 23:30
 ```
 
 <details>
