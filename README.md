@@ -14,10 +14,10 @@ Comment = Self-Reflection before leaving
 #### <YYYY/MM/DD DAY> 
 ```diff
 ! START TIME | XX:XX
-- Planning
++ Planning
 # 
 # 
-- Comment
++ Comment
 #
 + CON TIME = XX:XX
 ! END TIME | XX:XX
