@@ -30,8 +30,10 @@ Comment = Self-Reflection before leaving
 ```diff
 ! START TIME | 08:55
 - Planning
-# 
-# 
+# Improve Holonomic 6-Wheel Control
+# Make Slide for HW4 presentation
+# Make a plan for RSL contact, Check projects
+# Quick Literature review for paper structure
 - Comment
 #
 + CON TIME = XX:XX
