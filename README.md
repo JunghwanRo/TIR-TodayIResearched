@@ -1,7 +1,7 @@
 # Daily Plan & Result
 ```diff
 ! START TIME = time arrived on campus and started work
-+ CON TIME = time with concentration measured, thanks to the Apple Watch
+- CON TIME = time with concentration measured, thanks to the Apple Watch
 ! END TIME = time left campus
 
 Planning = Plan in the morning
@@ -19,7 +19,7 @@ Comment = Self-Reflection before leaving
 # 
 + Comment
 #
-+ CON TIME = XX:XX
+- CON TIME = XX:XX
 ! END TIME | XX:XX
 ```
 -->
@@ -29,14 +29,14 @@ Comment = Self-Reflection before leaving
 #### <2024/02/03 SAT> 
 ```diff
 ! START TIME | 08:55
-- Planning
++ Planning
 # Improve Holonomic 6-Wheel Control
 # Make Slide for HW4 presentation
 # Make a plan for RSL contact, Check projects
 # Quick Literature review for paper structure
-- Comment
++ Comment
 #
-+ CON TIME = XX:XX
+- CON TIME = XX:XX
 ! END TIME | XX:XX
 ```
 
