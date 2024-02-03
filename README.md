@@ -26,18 +26,30 @@ Comment = Self-Reflection before leaving
 
 ## 2024
 
+#### <2024/02/03 SAT> 
+```diff
+! START TIME | 08:55
+- Planning
+# 
+# 
+- Comment
+#
++ CON TIME = XX:XX
+! END TIME | XX:XX
+```
+
 #### <2024/02/02 FRI> 
 ```diff
 ! START TIME | 07:50
 - Planning
 # CS7630 HW4 Wrap up, submission
 # Research Meeting
-# Get the structure of paper
+# Get the structure of the paper
 # CIT595 project1b
 - Comment
-#
-+ CON TIME = XX:XX
-! END TIME | XX:XX
+# All went as planned. Got interested in DNN-based simulation
++ CON TIME = 09:30
+! END TIME | 19:50
 ```
 
 #### <2024/02/01 THU> 
