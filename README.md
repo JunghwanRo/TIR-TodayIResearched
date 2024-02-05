@@ -26,6 +26,18 @@ Comment = Self-Reflection before leaving
 
 ## 2024
 
+#### <YYYY/MM/DD DAY> 
+```diff
+! START TIME | XX:XX
++ Planning
+# 
+# 
++ Comment
+#
+- CON TIME = XX:XX
+! END TIME | XX:XX
+```
+
 #### <2024/02/03 SAT> 
 ```diff
 ! START TIME | 08:55
