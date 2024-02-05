@@ -26,16 +26,22 @@ Comment = Self-Reflection before leaving
 
 ## 2024
 
-#### <YYYY/MM/DD DAY> 
+#### <2024/02/05 MON> 
 ```diff
-! START TIME | XX:XX
+! START TIME | 09:05
 + Planning
-# 
+# Complete the Experiment plan with thruster unbalance
 # 
 + Comment
 #
 - CON TIME = XX:XX
 ! END TIME | XX:XX
+```
+
+#### <2024/02/04 SUN> 
+```diff
++ Comment
+# Julia visit, Lab Member Meeting
 ```
 
 #### <2024/02/03 SAT> 
