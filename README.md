@@ -26,6 +26,20 @@ Comment = Self-Reflection before leaving
 
 ## 2024
 
+#### -TEMPLATE- 
+
+#### <YYYY/MM/DD DAY> 
+```diff
+! START TIME | XX:XX
++ Planning
+# 
+# 
++ Comment
+#
+- CON TIME = XX:XX
+! END TIME | XX:XX
+```
+
 #### <2024/02/06 WED> 
 ```diff
 ! START TIME | XX:XX
