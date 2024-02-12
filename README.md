@@ -50,6 +50,18 @@ Comment = Self-Reflection before leaving
 ! END TIME | XX:XX
 ```
 
+#### <YYYY/MM/DD DAY> 
+```diff
+! START TIME | XX:XX
++ Planning
+# 
+# 
++ Comment
+#
+- CON TIME = XX:XX
+! END TIME | XX:XX
+```
+
 #### <2024/02/06 WED> 
 ```diff
 ! START TIME | XX:XX
