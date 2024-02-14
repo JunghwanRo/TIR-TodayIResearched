@@ -28,9 +28,12 @@ Comment = Self-Reflection before leaving
 
 #### <2024/02/14 WED> 
 ```diff
-! START TIME | XX:XX
+! START TIME | 08:43
 + Planning
-# 
+# Check what I should prepare for the interview
+# Watch semi-final videos
+# Check three projects
+# Classify papers related to each project
 # 
 + Comment
 #
