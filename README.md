@@ -26,7 +26,7 @@ Comment = Self-Reflection before leaving
 
 ## 2024
 
-#### <YYYY/MM/DD DAY> 
+#### <2024/02/14 WED> 
 ```diff
 ! START TIME | XX:XX
 + Planning
@@ -38,7 +38,7 @@ Comment = Self-Reflection before leaving
 ! END TIME | XX:XX
 ```
 
-#### <YYYY/MM/DD DAY> 
+#### <2024/02/13 TUE> 
 ```diff
 ! START TIME | XX:XX
 + Planning
@@ -50,7 +50,7 @@ Comment = Self-Reflection before leaving
 ! END TIME | XX:XX
 ```
 
-#### <YYYY/MM/DD DAY> 
+#### <2024/02/12 MON> 
 ```diff
 ! START TIME | XX:XX
 + Planning
@@ -62,7 +62,7 @@ Comment = Self-Reflection before leaving
 ! END TIME | XX:XX
 ```
 
-#### <YYYY/MM/DD DAY> 
+#### <2024/02/11 SUN> 
 ```diff
 ! START TIME | XX:XX
 + Planning
@@ -74,7 +74,7 @@ Comment = Self-Reflection before leaving
 ! END TIME | XX:XX
 ```
 
-#### <YYYY/MM/DD DAY> 
+#### <2024/02/10 SAT> 
 ```diff
 ! START TIME | XX:XX
 + Planning
@@ -86,7 +86,7 @@ Comment = Self-Reflection before leaving
 ! END TIME | XX:XX
 ```
 
-#### <2024/02/06 WED> 
+#### <2024/02/09 FRI> 
 ```diff
 ! START TIME | XX:XX
 + Planning
@@ -98,7 +98,19 @@ Comment = Self-Reflection before leaving
 ! END TIME | XX:XX
 ```
 
-#### <2024/02/06 WED> 
+#### <2024/02/08 THU> 
+```diff
+! START TIME | XX:XX
++ Planning
+# 
+# 
++ Comment
+#
+- CON TIME = XX:XX
+! END TIME | XX:XX
+```
+
+#### <2024/02/07 WED> 
 ```diff
 ! START TIME | XX:XX
 + Planning
