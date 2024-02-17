@@ -26,6 +26,19 @@ Comment = Self-Reflection before leaving
 
 ## 2024
 
+#### <2024/02/17 SAT> 
+```diff
+! START TIME | 09:55
+- Planning
+# CIT595 Module 4, 5
+# CIT595 Project2a
+# Check Domain Randomization, Noise part in R3AMA framework
+- Comment
+# 
++ CON TIME = XX:XX
+! END TIME | XX:XX
+```
+
 IROS Crunch Start...
 
 #### <2024/02/02 FRI> 
