@@ -34,9 +34,9 @@ Comment = Self-Reflection before leaving
 # CIT595 Project2a
 # Check Domain Randomization, Noise part in R3AMA framework
 - Comment
-# 
-+ CON TIME = XX:XX
-! END TIME | XX:XX
+# Project2a done
++ CON TIME = 08:10
+! END TIME | 20:33
 ```
 
 IROS Crunch Start...
