@@ -26,6 +26,17 @@ Comment = Self-Reflection before leaving
 
 ## 2024
 
+#### <2024/02/18 SUN> 
+```diff
+! START TIME | 09:40
+- Planning
+# Check Domain Randomization, Noise part in R3AMA framework
+- Comment
+# 
++ CON TIME = 
+! END TIME | 
+```
+
 #### <2024/02/17 SAT> 
 ```diff
 ! START TIME | 09:55
