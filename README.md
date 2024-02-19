@@ -26,6 +26,18 @@ Comment = Self-Reflection before leaving
 
 ## 2024
 
+#### <2024/02/19 MON> 
+```diff
+! START TIME | 08:45
++ Planning
+# Get some .pth files
+# Finish Sway drag coefficient pipeline
++ Comment
+#
+- CON TIME = XX:XX
+! END TIME | XX:XX
+```
+
 #### <2024/02/18 SUN> 
 ```diff
 ! START TIME | 09:40
