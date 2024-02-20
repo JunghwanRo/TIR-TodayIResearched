@@ -26,16 +26,25 @@ Comment = Self-Reflection before leaving
 
 ## 2024
 
+#### <2024/02/20 TUE> 
+```diff
+! START TIME | 08:40
++ Planning
+# Framework, Separate Thruster-Force curve
+# Framework, Design Reward/Penalty
+# Framework, Add Line Following task
++ Comment
+#
+- CON TIME = XX:XX
+! END TIME | XX:XX
+```
+
 #### <2024/02/19 MON> 
 ```diff
 ! START TIME | 08:45
 + Planning
 # Get some .pth files
 # Finish Sway drag coefficient pipeline
-+ Comment
-#
-- CON TIME = XX:XX
-! END TIME | XX:XX
 ```
 
 #### <2024/02/18 SUN> 
@@ -43,10 +52,6 @@ Comment = Self-Reflection before leaving
 ! START TIME | 09:40
 - Planning
 # Check Domain Randomization, Noise part in R3AMA framework
-- Comment
-# 
-+ CON TIME = 
-! END TIME | 
 ```
 
 #### <2024/02/17 SAT> 
