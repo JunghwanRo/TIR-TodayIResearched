@@ -26,6 +26,15 @@ Comment = Self-Reflection before leaving
 
 ## 2024
 
+#### <2024/02/21 WED> 
+```diff
+! START TIME | 08:40
++ Planning
+# CS7630 HW6
+# Team Meeting
+# Design habits
+```
+
 #### <2024/02/20 TUE> 
 ```diff
 ! START TIME | 08:40
@@ -33,10 +42,6 @@ Comment = Self-Reflection before leaving
 # Framework, Separate Thruster-Force curve
 # Framework, Design Reward/Penalty
 # Framework, Add Line Following task
-+ Comment
-#
-- CON TIME = XX:XX
-! END TIME | XX:XX
 ```
 
 #### <2024/02/19 MON> 
