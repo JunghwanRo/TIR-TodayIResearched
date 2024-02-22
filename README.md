@@ -26,6 +26,14 @@ Comment = Self-Reflection before leaving
 
 ## 2024
 
+#### <2024/02/22 THU> 
+```diff
+! START TIME | 08:43
++ Planning
+# CS7630 HW6 - Develop SLAM with simulation and real robot
+# Kalman filter book
+```
+
 #### <2024/02/21 WED> 
 ```diff
 ! START TIME | 08:40
