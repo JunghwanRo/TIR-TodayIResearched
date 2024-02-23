@@ -26,6 +26,14 @@ Comment = Self-Reflection before leaving
 
 ## 2024
 
+#### <2024/02/23 FRI> 
+```diff
+! START TIME | 08:25
++ Planning
+# Framework update - Curriculum Learning
+# Surge Coefficient Pipeline
+```
+
 #### <2024/02/22 THU> 
 ```diff
 ! START TIME | 08:43
