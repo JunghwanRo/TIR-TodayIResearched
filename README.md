@@ -5,7 +5,7 @@
 ! END TIME = time left campus
 
 Planning = Plan in the morning
-Comment = Self-Reflection before leaving
+Comment = Self-Reflection before leaving 
 ``` 
 
 <!--
