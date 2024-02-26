@@ -11,7 +11,7 @@ Comment = Self-Reflection before leaving
 <!--
 #### -TEMPLATE- 
 
-#### <YYYY/MM/DD DAY> 
+#### <YYYY/MM/DD DAY>  
 ```diff
 ! START TIME | XX:XX
 + Planning
