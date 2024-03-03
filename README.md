@@ -1,5 +1,5 @@
 # Daily Plan & Result
-```diff
+```diff 
 ! START TIME = time arrived on campus and started work
 - CON TIME = time with concentration measured, thanks to the Apple Watch
 ! END TIME = time left campus
