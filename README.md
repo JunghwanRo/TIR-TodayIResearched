@@ -8,7 +8,7 @@ Planning = Plan in the morning
 Comment = Self-Reflection before leaving 
 ``` 
 
-<!-- 
+<!--  
 #### -TEMPLATE- 
 
 #### <YYYY/MM/DD DAY>  
