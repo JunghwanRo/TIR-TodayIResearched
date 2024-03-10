@@ -4,7 +4,7 @@
 - CON TIME = time with concentration measured, thanks to the Apple Watch 
 ! END TIME = time left campus
 
-Planning = Plan in the morning
+Planning = Plan in the morning 
 Comment = Self-Reflection before leaving 
 ``` 
 
