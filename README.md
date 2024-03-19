@@ -8,16 +8,14 @@ TODO : Tasks should be done.
 
 #### <YYYY/MM/DD DAY>  
 ```diff
-! START TIME | XX:XX
-+ Planning
-# 
-# 
-+ Comment
-#
-- CON TIME = XX:XX
-! END TIME | XX:XX
+
 ```
 -->
+
+#### <2024/03/19>  
+```diff
+
+```
 
 <details>
 <summary> Before Renewal </summary>
