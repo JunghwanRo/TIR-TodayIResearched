@@ -15,7 +15,8 @@ Long Term Goal : Leader in Robotics.
 
 #### <2024/03/19>  
 ```diff
-
+Made IROS2024 open-source git.
+Made part of IROS2024 supplemental Video.
 ```
 
 <details>
