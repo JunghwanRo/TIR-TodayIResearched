@@ -1,11 +1,6 @@
-# Daily Plan & Result
+# TODO, Daily Completed Tasks
 ```diff 
-! START TIME = time arrived on campus and started work
-- CON TIME = time with concentration measured, thanks to the Apple Watch 
-! END TIME = time left campus
-
-Planning = Plan in the morning 
-Comment = Self-Reflection before leaving 
+TODO : Tasks should be done.
 ``` 
  
 <!--  
