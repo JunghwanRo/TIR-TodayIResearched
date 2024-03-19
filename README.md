@@ -24,6 +24,9 @@ Comment = Self-Reflection before leaving
 ```
 -->
 
+<details>
+<summary> Before Renewal </summary>
+ 
 ## 2024
 
 #### <2024/02/23 FRI> 
@@ -336,9 +339,6 @@ It was a super Slippery day. Almost no one on campus
 ! END TIME | 21:40
 ```
 </details>
-
-<details>
-<summary> Before Renewal </summary>
 
 ## 2023
   
