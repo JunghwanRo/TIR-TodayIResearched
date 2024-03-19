@@ -1,6 +1,7 @@
-# TODO, Daily Completed Tasks
+# Daily Completed Tasks
 ```diff 
-TODO : Tasks should be done.
+Short Term Goal : RA-L publication.
+Long Term Goal : Leader in Robotics. 
 ``` 
  
 <!--  
