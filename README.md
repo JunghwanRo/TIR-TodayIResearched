@@ -14,9 +14,8 @@ Long Term Goal : Leader in Robotics.
 -->
 
 #### <2024/04/17>  
-```diff
- Moved to Status
-```
+
+Moved to [Status](https://github.com/JunghwanRo/status)
 
 <details>
 <summary> Before Renewal </summary>
