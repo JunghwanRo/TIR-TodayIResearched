@@ -1,15 +1,25 @@
-# Daily Completed Tasks
-```diff 
-Short Term Goal : RA-L publication during the project period. 
-Long Term Goal : Be a researcher people in the field recognize. 
+# Daily Plan & Reflection
+```diff
+! START TIME = time arrived on the LAB door
+! END TIME = time left the LAB
+
+Planning = Plan in the morning
+Reflection = Self-Reflection before leaving
 ``` 
- 
-<!--  
+
+<!--
 #### -TEMPLATE- 
 
-#### <YYYY/MM/DD DAY>  
+#### <YYYY/MM/DD DAY> 
 ```diff
-
+! START TIME | XX:XX
++ Planning
+# 
+# 
++ Reflection
+#
+- CON TIME = XX:XX
+! END TIME | XX:XX
 ```
 -->
 
@@ -30,6 +40,17 @@ Long Term Goal : Be a researcher people in the field recognize.
 # 20:00 - 21:00 | 
 # 21:00 - 22:00 | 
 # 22:00 - 23:00 | 
+```
+
+```diff
+! START TIME | XX:XX
++ Planning
+# 
+# 
++ Reflection
+#
+- CON TIME = XX:XX
+! END TIME | XX:XX
 ```
 
 <details>
