@@ -1,7 +1,7 @@
 # Daily Completed Tasks
 ```diff 
-Short Term Goal : RA-L publication.
-Long Term Goal : Leader in Robotics. 
+Short Term Goal : RA-L publication during the project period. 
+Long Term Goal : Be a researcher people in the field recognize. 
 ``` 
  
 <!--  
@@ -13,9 +13,24 @@ Long Term Goal : Leader in Robotics.
 ```
 -->
 
-#### <2024/04/17>  
-
-Moved to [Status](https://github.com/JunghwanRo/status)
+#### <2024/05/30 THU>
+```diff
+- PLAN
+! 07:24 - 08:20 | Studied Lagrangian equation, Robohub Podcast - David Scaramuzza (D2D Commuting)
+# 08:20 - 09:00 | Isaac Lab release discussion
+# 11:00 - 12:00 | 
+# 12:00 - 13:00 | 
+# 13:00 - 14:00 | 
+# 14:00 - 15:00 | 
+# 15:00 - 16:00 | 
+# 16:00 - 17:00 | 
+# 17:00 - 18:00 | 
+# 18:00 - 19:00 | 
+# 19:00 - 20:00 | 
+# 20:00 - 21:00 | 
+# 21:00 - 22:00 | 
+# 22:00 - 23:00 | 
+```
 
 <details>
 <summary> Before Renewal </summary>
