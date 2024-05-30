@@ -1,7 +1,8 @@
 # Daily Plan & Reflection
 ```diff
-! START TIME = time arrived on the LAB door
-! END TIME = time left the LAB
+! START TIME = Door 2 Door Commuting, HOME -> LAB
+! BACK TIME = Door 2 Door Commuting, LAB-> HOME
+! END TIME = Rest after at HOME study :)
 
 Planning = Plan in the morning
 Reflection = Self-Reflection before leaving
@@ -12,21 +13,21 @@ Reflection = Self-Reflection before leaving
 
 #### <YYYY/MM/DD DAY> 
 ```diff
-! START TIME | XX:XX
+! START TIME | 07:24 - 08:20, Studied Lagrangian equation, Robohub Podcast - David Scaramuzza
 + Planning
 # 
 # 
 + Reflection
 #
-- CON TIME = XX:XX
-! END TIME | XX:XX
+! BACK TIME  | 18:
+! END TIME   | 
 ```
 -->
 
 #### <2024/05/30 THU>
 ```diff
 - PLAN
-! 07:24 - 08:20 | Studied Lagrangian equation, Robohub Podcast - David Scaramuzza (D2D Commuting)
+!  (D2D Commuting)
 # 08:20 - 09:00 | Isaac Lab release discussion
 # 11:00 - 12:00 | 
 # 12:00 - 13:00 | 
