@@ -7,7 +7,7 @@
 Planning = Plan in the morning
 Reflection = Self-Reflection before leaving
 ``` 
-
+ 
 <!--
 #### -TEMPLATE- 
 
