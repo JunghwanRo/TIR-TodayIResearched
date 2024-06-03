@@ -1,7 +1,7 @@
 # Daily Plan & Reflection
 ```diff
 ! START TIME = Door 2 Door Commuting, HOME -> LAB
-! BACK TIME = Door 2 Door Commuting, LAB-> HOME
+! BACK TIME = Door 2 Door Commuting, LAB-> HOME 
 ! END TIME = Rest after at HOME study :)
 
 Planning = Plan in the morning
