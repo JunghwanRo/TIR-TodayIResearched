@@ -39,7 +39,7 @@ Apply forces to the correct part of Model, in the Simulation
 + 10:00 - 12:00 | Checked Isaac Lab Docs, Warp
 ! 12:00 - 14:00 | Xue's Presentation(Winch), Lunch
 + 14:00 - 16:00 | Monthly Group Meeting, Install/Match versions for Isaac Lab
-# 16:00 - 18:00 | 
++ 16:00 - 18:00 | Isaac Lab Install Verification, Checked Quadcopter example code
 # 18:00 - 18:50 | 
 ! 18:50 - 20:00 | Commute, Dinner
 # 20:00 - 22:00 | 
