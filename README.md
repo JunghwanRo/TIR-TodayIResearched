@@ -44,9 +44,13 @@ Apply forces to the correct part of Model, in the Simulation
 + 16:00 - 18:00 | Isaac Lab Install Verification, Checked Quadcopter example code
 + 18:00 - 18:50 | Replacing example Quadcopter with Fourbar Drone
 ! 18:50 - 20:00 | Commute, Dinner, PodCast - Marc Raibert: Boston Dynamics and the Future of Robotics
-! 20:00 - 21:55 | Walk, Review Lee Controller, Wrap-up meditation
+! 20:00 - 22:00 | Walk, Review Lee Controller, Wrap-up meditation
+! 22:00 - 22:39 | Watched Robot Learning - Jan Peters, Reflection
 
 ⭐ Reflection
+Installed and set Isaac Lab.
+Discovered some bugs in the new version.
+Overall, it was a good Performance day. Should find more resources for commuting.
 ```
 
 <details>
