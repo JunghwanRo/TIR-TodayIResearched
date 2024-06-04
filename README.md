@@ -36,7 +36,7 @@ Create Isaac Lab USD Model
 Apply forces to the correct part of Model, in the Simulation
 ! 07:20 - 08:10 | D2D Commute, PodCast - Marc Raibert: Boston Dynamics and the Future of Robotics
 + 08:10 - 10:00 | Installing Isaac Lab, Weekly Team Meeting(DREAM) Preparation
-# 10:00 - 12:00 |
+# 10:00 - 12:00 | Checked Isaac Lab Docs, Warp: Advancing Simulation AI with Differentiable GPU Computing in Python
 # 12:00 - 14:00 |
 # 14:00 - 16:00 |
 # 16:00 - 18:00 | 
