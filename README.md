@@ -44,8 +44,7 @@ Apply forces to the correct part of Model, in the Simulation
 + 16:00 - 18:00 | Isaac Lab Install Verification, Checked Quadcopter example code
 + 18:00 - 18:50 | Replacing example Quadcopter with Fourbar Drone
 ! 18:50 - 20:00 | Commute, Dinner, PodCast - Marc Raibert: Boston Dynamics and the Future of Robotics
-# 20:00 - 22:00 | 
-# 22:00 - 23:00 |
+! 20:00 - 21:45 | Walk, Review Lee Controller
 
 ⭐ Reflection
 ```
