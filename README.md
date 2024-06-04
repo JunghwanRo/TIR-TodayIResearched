@@ -13,18 +13,21 @@ Reflection = Self-Reflection before leaving
 
 #### <YYYY/MM/DD DAY> 
 ```diff
-! START TIME | 07:24 - 08:20, Studied Lagrangian equation, Robohub Podcast - David Scaramuzza
-+ Planning
-# 
-# 
-+ Reflection
-#
-! BACK TIME  | 18:
-! END TIME   | 
+! 07:20 - 08:10 | D2D Commute, 
+# 08:10 - 10:00 | 
+# 10:00 - 12:00 |
+# 12:00 - 14:00 |
+# 14:00 - 16:00 |
+# 16:00 - 18:00 | 
+# 18:00 - 18:50 | 
+# 18:50 - 20:00 | Commute, Dinner
+# 20:00 - 22:00 | 
+# 22:00 - 23:00 | 
+Reflection
 ```
 -->
 
-#### <2024/05/30 THU>
+#### <2024/06/04 TUE>
 ```diff
 - PLAN
 !  (D2D Commuting)
@@ -41,17 +44,6 @@ Reflection = Self-Reflection before leaving
 # 20:00 - 21:00 | 
 # 21:00 - 22:00 | 
 # 22:00 - 23:00 | 
-```
-
-```diff
-! START TIME | XX:XX
-+ Planning
-# 
-# 
-+ Reflection
-#
-- CON TIME = XX:XX
-! END TIME | XX:XX
 ```
 
 <details>
