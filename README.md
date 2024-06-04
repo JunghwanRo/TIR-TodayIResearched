@@ -1,11 +1,10 @@
 # Daily Plan & Reflection
 ```diff
-! START TIME = Door 2 Door Commuting, HOME -> LAB
-! BACK TIME = Door 2 Door Commuting, LAB-> HOME 
-! END TIME = Rest after at HOME study :)
-
-Planning = Plan in the morning
-Reflection = Self-Reflection before leaving
++ Concentrated Well. Pure Concentration Time Rate > 0.75
+! A bit distracted. Pure Concentration Rate > 0.50
+- Much distracted. Pure Concentration Rate > 0.25
+Plan = Daily TODO list at the beginning of the day
+Reflection = Self-Reflection at the end of the day
 ``` 
  
 <!--
@@ -13,6 +12,8 @@ Reflection = Self-Reflection before leaving
 
 #### <YYYY/MM/DD DAY> 
 ```diff
+🌠 PLAN
+
 ! 07:20 - 08:10 | D2D Commute, 
 # 08:10 - 10:00 | 
 # 10:00 - 12:00 |
@@ -23,13 +24,17 @@ Reflection = Self-Reflection before leaving
 # 18:50 - 20:00 | Commute, Dinner
 # 20:00 - 22:00 | 
 # 22:00 - 23:00 | 
-Reflection
+⭐ Reflection
 ```
 -->
 
 #### <2024/06/04 TUE>
 ```diff
-! 07:20 - 08:10 | D2D Commute, 
+🌠 PLAN
+Check, and install Isaac Lab Release
+Create Isaac Lab USD Model
+Apply forces to the correct part of Model, in the Simulation
+! 07:20 - 08:10 | D2D Commute, PodCast - Marc Raibert: Boston Dynamics and the Future of Robotics
 # 08:10 - 10:00 | 
 # 10:00 - 12:00 |
 # 12:00 - 14:00 |
