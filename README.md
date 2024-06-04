@@ -1,10 +1,12 @@
 # Daily Plan & Reflection
 ```diff
-+ Concentrated Well. Pure Concentration Time Rate > 0.75
-! A bit distracted. Pure Concentration Rate > 0.50
-- Much distracted. Pure Concentration Rate > 0.25
-Plan = Daily TODO list at the beginning of the day
-Reflection = Self-Reflection at the end of the day
++ Well-Focused: Focus Time Rate > 75%
+! Somewhat Distracted: Focus Time Rate > 50%
+- Highly Distracted: Focus Time Rate > 25%
+# Non-Core Research Activities
+
+Plan: Daily TODO list at the beginning of the day
+Reflection: Self-reflection at the end of the day
 ``` 
  
 <!--
