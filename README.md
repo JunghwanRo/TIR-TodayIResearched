@@ -38,8 +38,9 @@ Reflection
 # 18:00 - 18:50 | 
 # 18:50 - 20:00 | Commute, Dinner
 # 20:00 - 22:00 | 
-# 22:00 - 23:00 | 
-Reflection
+# 22:00 - 23:00 |
+
+⭐ Reflection
 ```
 
 <details>
