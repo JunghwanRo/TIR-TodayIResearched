@@ -42,10 +42,10 @@ Isaac Lab Tutorial
 ! 10:00 - 12:00 | WSL Welcome Tour, Resolved the USD Model Problem
 ! 12:00 - 14:00 | Lunch, Debugging closed kinematics chain in 4.0.0
 + 14:00 - 16:00 | Debugging closed kinematics chain in 4.0.0, Fixing force application
-# 16:00 - 18:00 | 
-# 18:00 - 18:50 | 
-# 18:50 - 20:00 | Commute, Dinner
-# 20:00 - 22:00 | 
++ 16:00 - 18:00 | Fixing force application, Nvidia Forum check
++ 18:00 - 18:50 | Building from working quadrotor version one by one
+- 18:50 - 20:00 | Commute, Dinner
+! 20:00 - 22:00 | Walk, 
 # 22:00 - 23:00 | 
 ⭐ Reflection
 ```
