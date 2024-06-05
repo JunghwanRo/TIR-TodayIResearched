@@ -33,7 +33,9 @@ Reflection: Self-reflection at the end of the day
 #### <2024/06/05 WED> 
 ```diff
 🌠 PLAN
-
+Replace the Quadcopter example with Fourbar
+Remodel(assign Mass/Inertia) the Fourbar model
+Sample Running of four-bar simulation
 ! 07:25 - 08:22 | D2D Commute, PodCast - Marc Raibert: Boston Dynamics, MIT Seminar - Mirko Kovac
 # 08:22 - 10:00 | 
 # 10:00 - 12:00 |
