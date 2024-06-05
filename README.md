@@ -38,8 +38,8 @@ Remodel(assign Mass/Inertia) the Fourbar model
 Sample Running of four-bar simulation
 Isaac Lab Tutorial
 ! 07:25 - 08:22 | D2D Commute, PodCast - Marc Raibert: Boston Dynamics, MIT Seminar - Mirko Kovac
-# 08:22 - 10:00 | 
-# 10:00 - 12:00 |
++ 08:22 - 10:00 | Replaced Quadrotor example with Fourbar Drone
+! 10:00 - 12:00 | WSL Welcome Tour, Resolved the USD Model Problem
 # 12:00 - 14:00 |
 # 14:00 - 16:00 |
 # 16:00 - 18:00 | 
