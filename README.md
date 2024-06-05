@@ -30,6 +30,23 @@ Reflection: Self-reflection at the end of the day
 ```
 -->
 
+#### <2024/06/05 WED> 
+```diff
+🌠 PLAN
+
+! 07:25 - 08:22 | D2D Commute, PodCast - Marc Raibert: Boston Dynamics, MIT Seminar - Mirko Kovac
+# 08:22 - 10:00 | 
+# 10:00 - 12:00 |
+# 12:00 - 14:00 |
+# 14:00 - 16:00 |
+# 16:00 - 18:00 | 
+# 18:00 - 18:50 | 
+# 18:50 - 20:00 | Commute, Dinner
+# 20:00 - 22:00 | 
+# 22:00 - 23:00 | 
+⭐ Reflection
+```
+
 #### <2024/06/04 TUE>
 ```diff
 🌠 PLAN
