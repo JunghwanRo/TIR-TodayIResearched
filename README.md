@@ -45,9 +45,11 @@ Isaac Lab Tutorial
 + 16:00 - 18:00 | Fixing force application, Nvidia Forum check
 + 18:00 - 18:50 | Building from working quadrotor version one by one
 - 18:50 - 20:00 | Commute, Dinner
-! 20:00 - 22:00 | Walk, 
-# 22:00 - 23:00 | 
+! 20:00 - 22:03 | Walk, Robot Learning - Jan Peters, Reflection
 ⭐ Reflection
+Was able to replace the example with a simply generated quadrotor model, but not with the fourbar.usd. 
+4.0.0 version has several bugs, including that it is generating undesired internal forces in the closed kinematics chain. 
+Now, I am changing parts one by one from the simple quadrotor, which is working, to figure out which part is causing the bug.
 ```
 
 #### <2024/06/04 TUE>
