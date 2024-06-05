@@ -40,8 +40,8 @@ Isaac Lab Tutorial
 ! 07:25 - 08:22 | D2D Commute, PodCast - Marc Raibert: Boston Dynamics, MIT Seminar - Mirko Kovac
 + 08:22 - 10:00 | Replaced Quadrotor example with Fourbar Drone
 ! 10:00 - 12:00 | WSL Welcome Tour, Resolved the USD Model Problem
-# 12:00 - 14:00 |
-# 14:00 - 16:00 |
+! 12:00 - 14:00 | Lunch, Debugging closed kinematics chain in 4.0.0
++ 14:00 - 16:00 | Debugging closed kinematics chain in 4.0.0, Fixing force application
 # 16:00 - 18:00 | 
 # 18:00 - 18:50 | 
 # 18:50 - 20:00 | Commute, Dinner
