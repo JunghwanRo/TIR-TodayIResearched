@@ -46,7 +46,7 @@ Isaac Lab Tutorial
 + 18:00 - 20:00 | Fixed internal force problem, Isaac Lab Tutorials
 ! 20:00 - 21:31 | Dinner, Isaac Lab Tutorials
 ! 21:31 - 22:22 | D2D Commute, Bright Minds #1 Mirko Kovac: Enabling sustainability with bio-inspired robots
-! 22:22 - 22:40 | Reflection, Robot Learning - Jan Peters
+! 22:22 - 22:54 | Reflection, Robot Learning - Jan Peters
 ⭐ Reflection
 Debugging a new complex framework was not easy.
 Using an older framework might expedite the research,
