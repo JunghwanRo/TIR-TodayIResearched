@@ -41,8 +41,8 @@ Isaac Lab Tutorial
 + 08:13 - 10:00 | Resolved VS Code error:133 by reinstalling it, Fixing the force/torque setting
 + 10:00 - 12:00 | Fizing the force/torque setting
 ! 12:00 - 14:00 | Lunch, Fixing the prim_path problem
-# 14:00 - 16:00 |
-# 16:00 - 18:00 | 
++ 14:00 - 16:00 | Building quad from base example
++ 16:00 - 18:00 | Building quad from base example
 # 18:00 - 18:50 | 
 # 18:50 - 20:00 | Commute, Dinner
 # 20:00 - 22:00 | 
