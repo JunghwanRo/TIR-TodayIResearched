@@ -35,7 +35,7 @@ Reflection: Self-reflection at the end of the day
 🌠 PLAN
 
 + 07:20 - 08:13 | D2D Commute, MIT Robotics - Mirko Kovac (Fascinating!!!)
-# 08:13 - 10:00 | 
+# 08:13 - 10:00 | Resolved VS Code error:133 by reinstalling it
 # 10:00 - 12:00 |
 # 12:00 - 14:00 |
 # 14:00 - 16:00 |
