@@ -43,11 +43,14 @@ Isaac Lab Tutorial
 ! 12:00 - 14:00 | Lunch, Fixing the prim_path problem
 + 14:00 - 16:00 | Building quad from base example
 + 16:00 - 18:00 | Building quad from base example
-# 18:00 - 18:50 | 
-# 18:50 - 20:00 | Commute, Dinner
-# 20:00 - 22:00 | 
-# 22:00 - 23:00 | 
++ 18:00 - 20:00 | Fixed internal force problem, Isaac Lab Tutorials
+! 20:00 - 21:31 | Dinner, Isaac Lab Tutorials
+! 21:31 - 22:22 | D2D Commute, Bright Minds #1 Mirko Kovac: Enabling sustainability with bio-inspired robots
+# 22:22 - 22:40 | Reflection, Robot Learning - Jan Peters
 ⭐ Reflection
+Debugging a new complex framework was not easy.
+Using an older framework might expedite the research,
+but I'd like to do PhD so it is better to stick to a new comprehensive framework.
 ```
 
 #### <2024/06/05 WED> 
