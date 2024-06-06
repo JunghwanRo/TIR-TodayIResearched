@@ -39,8 +39,8 @@ Run four-bar RL
 Isaac Lab Tutorial
 + 07:20 - 08:13 | D2D Commute, MIT Robotics - Mirko Kovac (Fascinating!!!)
 + 08:13 - 10:00 | Resolved VS Code error:133 by reinstalling it, Fixing the force/torque setting
-# 10:00 - 12:00 |
-# 12:00 - 14:00 |
++ 10:00 - 12:00 | Fizing the force/torque setting
+! 12:00 - 14:00 | Lunch, Fixing the prim_path problem
 # 14:00 - 16:00 |
 # 16:00 - 18:00 | 
 # 18:00 - 18:50 | 
