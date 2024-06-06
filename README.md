@@ -33,7 +33,10 @@ Reflection: Self-reflection at the end of the day
 #### <2024/06/06 THU> 
 ```diff
 🌠 PLAN
-
+Fix the force/torque application
+Run four-bar simulation
+Run four-bar RL
+Isaac Lab Tutorial
 + 07:20 - 08:13 | D2D Commute, MIT Robotics - Mirko Kovac (Fascinating!!!)
 + 08:13 - 10:00 | Resolved VS Code error:133 by reinstalling it, Fixing the force/torque setting
 # 10:00 - 12:00 |
