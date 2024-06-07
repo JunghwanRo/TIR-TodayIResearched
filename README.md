@@ -41,7 +41,7 @@ Finish Isaac Lab Tutorials
 
 ! 07:21 - 08:15 | D2D Commute, MIT Robotics - Soon-Jo Chung - Contraction is All You Need in Robot Learning
 + 08:15 - 10:00 | Isaac Lab Tutorial, Weekly Team Meeting (Adam)
-# 10:00 - 12:00 | Weekly Team Meeting (Adam), Coffee Chat with Ilya
+# 10:00 - 12:00 | Weekly Team Meeting (Adam), Coffee Chat with Ilya, Review Meeting
 # 12:00 - 14:00 |
 # 14:00 - 16:00 |
 # 16:00 - 18:00 | 
