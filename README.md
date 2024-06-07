@@ -42,7 +42,7 @@ Finish Isaac Lab Tutorials
 + 10:00 - 12:00 | Weekly Team Meeting (Adam), Coffee Chat with Ilya, Review Meeting
 ! 12:00 - 14:00 | Lunch, Isaac Lab Tutorial
 + 14:00 - 16:00 | Isaac Lab Tutorial
-# 16:00 - 18:00 | 
+# 16:00 - 18:00 | Finished Isaac Lab Tutorial, IsaacLab How-to Guide
 # 18:00 - 18:50 | 
 # 18:50 - 20:00 | Commute, Dinner
 # 20:00 - 22:00 | 
