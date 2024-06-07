@@ -10,6 +10,7 @@ Reflection: Self-reflection at the end of the day
 ``` 
  
 <!--
+
 #### -TEMPLATE- 
 
 #### <YYYY/MM/DD DAY> 
@@ -28,7 +29,28 @@ Reflection: Self-reflection at the end of the day
 # 22:00 - 23:00 | 
 ⭐ Reflection
 ```
+
 -->
+
+#### -TEMPLATE- 
+
+#### <2024/06/07 FRI> 
+```diff
+🌠 PLAN
+Finish Isaac Lab Tutorials
+
+! 07:21 - 08:15 | D2D Commute, MIT Robotics - Soon-Jo Chung - Contraction is All You Need in Robot Learning
+# 08:15 - 10:00 | 
+# 10:00 - 12:00 |
+# 12:00 - 14:00 |
+# 14:00 - 16:00 |
+# 16:00 - 18:00 | 
+# 18:00 - 18:50 | 
+# 18:50 - 20:00 | Commute, Dinner
+# 20:00 - 22:00 | 
+# 22:00 - 23:00 | 
+⭐ Reflection
+```
 
 #### <2024/06/06 THU> 
 ```diff
@@ -51,6 +73,7 @@ Isaac Lab Tutorial
 Debugging a new complex framework was not easy.
 Using an older framework might expedite the research,
 but I'd like to do PhD so it is better to stick to a new comprehensive framework.
+Could stay longer since Julia was volunteering overnight.
 ```
 
 #### <2024/06/05 WED> 
