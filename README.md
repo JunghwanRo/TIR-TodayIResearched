@@ -42,7 +42,7 @@ Finish Isaac Lab Tutorials
 ! 12:00 - 14:00 | Lunch, Isaac Lab Tutorial
 + 14:00 - 16:00 | Isaac Lab Tutorial
 + 16:00 - 17:43 | Finished Isaac Lab Tutorial, IsaacLab How-to Guide
-! 17:43 - 20:00 | Commute, Dinner, MIT Robotics - Soon-Jo Chung, Mastering Omniverse 4 Robotics
+- 17:43 - 20:00 | Commute, Dinner, MIT Robotics - Soon-Jo Chung, Mastering Omniverse 4 Robotics
 # 20:00 - 22:00 | 
 # 22:00 - 23:00 | 
 ⭐ Reflection
