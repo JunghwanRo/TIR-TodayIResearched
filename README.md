@@ -32,8 +32,6 @@ Reflection: Self-reflection at the end of the day
 
 -->
 
-#### -TEMPLATE- 
-
 #### <2024/06/07 FRI> 
 ```diff
 🌠 PLAN
