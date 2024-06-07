@@ -36,15 +36,13 @@ Reflection: Self-reflection at the end of the day
 ```diff
 🌠 PLAN
 Finish Isaac Lab Tutorials
-
 ! 07:21 - 08:15 | D2D Commute, MIT Robotics - Soon-Jo Chung - Contraction is All You Need in Robot Learning
 + 08:15 - 10:00 | Isaac Lab Tutorial, Weekly Team Meeting (Adam)
 + 10:00 - 12:00 | Weekly Team Meeting (Adam), Coffee Chat with Ilya, Review Meeting
 ! 12:00 - 14:00 | Lunch, Isaac Lab Tutorial
 + 14:00 - 16:00 | Isaac Lab Tutorial
-# 16:00 - 18:00 | Finished Isaac Lab Tutorial, IsaacLab How-to Guide
-# 18:00 - 18:50 | 
-# 18:50 - 20:00 | Commute, Dinner
++ 16:00 - 17:43 | Finished Isaac Lab Tutorial, IsaacLab How-to Guide
+! 17:43 - 20:00 | Commute, Dinner, MIT Robotics - Soon-Jo Chung, Mastering Omniverse 4 Robotics
 # 20:00 - 22:00 | 
 # 22:00 - 23:00 | 
 ⭐ Reflection
