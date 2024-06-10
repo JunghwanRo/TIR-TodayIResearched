@@ -37,12 +37,14 @@ Reflection: Self-reflection at the end of the day
 🌠 PLAN
 Make a Scene with Isaac Lab
 Weekly Update Meeting
+Add Thruster Vectoring to the Scene
+Upgrade Scene into Direct workflow RL
 # Had House Fixing Inspection
 # 08:00 - 08:55 | D2D Commute, Read "Review of Biomimetic Approached for Drones"
-# 08:55 - 10:00 |
-# 10:00 - 12:00 |
-# 12:00 - 14:00 |
-# 14:00 - 16:00 |
++ 08:55 - 10:00 | Developing InteractiveScene for Fourbar 
++ 10:00 - 12:00 | Developing InteractiveScene for Fourbar 
+! 12:00 - 14:00 | Lunch, Developed InteractiveScene for Fourbar
+# 14:00 - 16:00 | Weekly Update Meeting, Thruster Vectoring
 # 16:00 - 18:00 | 
 # 18:00 - 18:50 | 
 # 18:50 - 20:00 | Commute, Dinner
