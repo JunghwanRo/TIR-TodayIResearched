@@ -35,9 +35,11 @@ Reflection: Self-reflection at the end of the day
 #### <2024/06/10 MON> 
 ```diff
 🌠 PLAN
-
-! 07:20 - 08:10 | D2D Commute, 
-# 08:10 - 10:00 | 
+Make a Scene with Isaac Lab
+Weekly Update Meeting
+# Had House Fixing Inspection
+# 08:00 - 08:55 | D2D Commute, Read "Review of Biomimetic Approached for Drones"
+# 08:55 - 10:00 |
 # 10:00 - 12:00 |
 # 12:00 - 14:00 |
 # 14:00 - 16:00 |
