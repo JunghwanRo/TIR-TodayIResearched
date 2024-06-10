@@ -32,11 +32,13 @@ Reflection: Self-reflection at the end of the day
 
 -->
 
-#### <2024/06/09 SUN> 
+#### <2024/06/10 MON> 
 ```diff
 🌠 PLAN
-Make a Scene with Isaac Lab
-# 09:48 - 12:00 | Planning, Initiate a Scene - Isaac Lab
+
+! 07:20 - 08:10 | D2D Commute, 
+# 08:10 - 10:00 | 
+# 10:00 - 12:00 |
 # 12:00 - 14:00 |
 # 14:00 - 16:00 |
 # 16:00 - 18:00 | 
@@ -45,6 +47,18 @@ Make a Scene with Isaac Lab
 # 20:00 - 22:00 | 
 # 22:00 - 23:00 | 
 ⭐ Reflection
+```
+
+#### <2024/06/09 SUN> 
+```diff
+🌠 PLAN
+Make a Scene with Isaac Lab
+! 09:48 - 12:00 | Planning, Initiate a Scene - Isaac Lab
+# 12:00 - 18:00 | Forest Picnic with Juli
+# 18:00 - 20:00 | Rest
++ 20:00 - 21:00 | Initiate a Scene - Isaac Lab
+⭐ Reflection
+Rested well.
 ```
 
 #### <2024/06/08 SAT> 
