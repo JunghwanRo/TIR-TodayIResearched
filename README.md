@@ -32,6 +32,23 @@ Reflection: Self-reflection at the end of the day
 
 -->
 
+#### <2024/06/11 TUE> 
+```diff
+🌠 PLAN
+
+! 07:30 - 08:35 | D2D Commute, MIT Robotics - Kevin Chen - Agile, robust, and multifunctional micro-aerial-robots
+# 08:35 - 10:00 | 
+# 10:00 - 12:00 |
+# 12:00 - 14:00 |
+# 14:00 - 16:00 |
+# 16:00 - 18:00 | 
+# 18:00 - 18:50 | 
+# 18:50 - 20:00 | Commute, Dinner
+# 20:00 - 22:00 | 
+# 22:00 - 23:00 | 
+⭐ Reflection
+```
+
 #### <2024/06/10 MON> 
 ```diff
 🌠 PLAN
