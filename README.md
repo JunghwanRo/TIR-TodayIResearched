@@ -44,13 +44,14 @@ Upgrade Scene into Direct workflow RL
 + 08:55 - 10:00 | Developing InteractiveScene for Fourbar 
 + 10:00 - 12:00 | Developing InteractiveScene for Fourbar 
 ! 12:00 - 14:00 | Lunch, Developed InteractiveScene for Fourbar
-# 14:00 - 16:00 | Weekly Update Meeting, Thruster Vectoring
-# 16:00 - 18:00 | 
-# 18:00 - 18:50 | 
-# 18:50 - 20:00 | Commute, Dinner
-# 20:00 - 22:00 | 
-# 22:00 - 23:00 | 
++ 14:00 - 16:00 | Weekly Update Meeting, Thruster Vectoring
++ 16:00 - 18:00 | Adding Vectoring joint to Scene
++ 18:00 - 18:43 | Adding Vectoring joint to Scene
+! 18:43 - 20:00 | Commute, Dinner, Climate Robotics Summit - Aerial
+# 20:00 - 20:30 | Skimmed "Reaching the limit in autonomous racing: Optimal control versus reinforcement learning."
 ⭐ Reflection
+Could figure out a critical bug.
+It persists on more complex prim structures.
 ```
 
 #### <2024/06/09 SUN> 
