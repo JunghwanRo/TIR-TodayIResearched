@@ -45,10 +45,11 @@ Add correct generated torques
 + 14:00 - 16:00 | Adding vectoring joint, fixing the apply force bug
 + 16:00 - 18:00 | Adding vectoring joint, fixing the apply force bug
 + 18:00 - 18:43 | Adding vectoring joint, fixing the apply force bug
-! 18:43 - 20:00 | Commute, Dinner, 
-# 20:00 - 22:00 | 
-# 22:00 - 23:00 | 
+! 18:43 - 20:00 | Commute, Dinner, Aerial Inspection of Large Infrastructures in Challenging Conditions
+! 20:00 - 21:40 | Reflection, Checking Isaac Lab github codes
 ⭐ Reflection
+Scene updated into RL env. But without vectoring and correct dynamics(torque)
+Still experiencing an external force bug after updating the used file.
 ```
 
 #### <2024/06/10 MON> 
