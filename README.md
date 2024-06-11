@@ -39,13 +39,13 @@ Update Scene into RL Environment
 Add vectoring joint
 Add correct generated torques
 ! 07:30 - 08:35 | D2D Commute, MIT Robotics - Kevin Chen - Agile, robust, and multifunctional micro-aerial-robots
-# 08:35 - 10:00 | 
-# 10:00 - 12:00 |
-# 12:00 - 14:00 |
-# 14:00 - 16:00 |
-# 16:00 - 18:00 | 
-# 18:00 - 18:50 | 
-# 18:50 - 20:00 | Commute, Dinner
++ 08:35 - 10:00 | Adding vectoring joint, fixing the apply force bug
++ 10:00 - 12:00 | Scene Updated into RL Environment
+! 12:00 - 14:00 | Lunch, Semester Project Presentation - Rie
++ 14:00 - 16:00 | Adding vectoring joint, fixing the apply force bug
++ 16:00 - 18:00 | Adding vectoring joint, fixing the apply force bug
++ 18:00 - 18:43 | Adding vectoring joint, fixing the apply force bug
+! 18:43 - 20:00 | Commute, Dinner, 
 # 20:00 - 22:00 | 
 # 22:00 - 23:00 | 
 ⭐ Reflection
