@@ -63,7 +63,7 @@ Add correct generated torques
 + 16:00 - 18:00 | Adding vectoring joint, fixing the apply force bug
 + 18:00 - 18:43 | Adding vectoring joint, fixing the apply force bug
 ! 18:43 - 20:00 | Commute, Dinner, Aerial Inspection of Large Infrastructures in Challenging Conditions
-! 20:00 - 21:40 | Reflection, Checking Isaac Lab github codes
+! 20:00 - 22:05 | Reflection, Checking Isaac Lab github codes, wikidocs:Python
 ⭐ Reflection
 Scene updated into RL env. But without vectoring and correct dynamics(torque)
 Still experiencing an external force bug after updating the used file.
