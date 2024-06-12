@@ -35,9 +35,9 @@ Reflection: Self-reflection at the end of the day
 #### <2024/06/12 WED> 
 ```diff
 🌠 PLAN
-Check if we can use Rigid Object functions instead of Articulation ones.
-! 07:20 - 08:10 | D2D Commute, 
-# 08:10 - 10:00 | 
+Check if we can use Rigid Object functions instead of Articulation ones
+! 07:21 - 08:18 | D2D Commute, Bio-inspired drones deliver sustainable societal good
+# 08:18 - 10:00 | 
 # 10:00 - 12:00 |
 # 12:00 - 14:00 |
 # 14:00 - 16:00 |
