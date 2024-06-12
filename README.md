@@ -48,8 +48,7 @@ Complete dynamics of thrusters (i.e. torques)
 + 16:00 - 18:00 | Checking Eurepus-RL-main code, Adding Thruster Torques for general Propeller
 + 18:00 - 18:43 | Added Thruster Torques for general Propeller
 - 18:43 - 20:00 | Commute, Dinner, EI Seminar - Animesh Garg - Building Blocks of Generalizable Autonomy: Duality of Discovery & Bias
-# 20:00 - 22:00 | 
-# 22:00 - 23:00 | 
+! 20:00 - 22:24 | Rest, Wikidocs:Python 
 ⭐ Reflection
 Bypassed the set_external_force function problem by Finding & Assigning indices manually.
 Two vectoring joints (1 DOF revolute joint) were added to RL env., and observation/action was expanded to match this change.
