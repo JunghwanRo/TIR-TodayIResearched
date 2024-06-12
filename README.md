@@ -36,10 +36,14 @@ Reflection: Self-reflection at the end of the day
 ```diff
 🌠 PLAN
 Check if we can use Rigid Object functions instead of Articulation ones
+Update RL env with discovered body ids
+Add vectoring thruster angle, gamma to RL observation
+Add vectoring thruster angle to RL actions
+Complete dynamics of thrusters (i.e. torques)
 ! 07:21 - 08:18 | D2D Commute, Bio-inspired drones deliver sustainable societal good
-# 08:18 - 10:00 | 
-# 10:00 - 12:00 |
-# 12:00 - 14:00 |
++ 08:18 - 10:00 | Fixing set_external_force problem
++ 10:00 - 12:00 | Bypassed the set_external_force bug
+! 12:00 - 14:00 | Lunch, Updating RL env to take more observations
 # 14:00 - 16:00 |
 # 16:00 - 18:00 | 
 # 18:00 - 18:50 | 
@@ -47,6 +51,8 @@ Check if we can use Rigid Object functions instead of Articulation ones
 # 20:00 - 22:00 | 
 # 22:00 - 23:00 | 
 ⭐ Reflection
+Bypassed the set_external_force function problem by investigating & assigning indices manually.
+
 ```
 
 #### <2024/06/11 TUE> 
