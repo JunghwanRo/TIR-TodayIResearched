@@ -44,7 +44,7 @@ Complete dynamics of thrusters (i.e. torques)
 + 08:18 - 10:00 | Fixing set_external_force problem
 + 10:00 - 12:00 | Bypassed the set_external_force bug
 ! 12:00 - 14:00 | Lunch, Updating RL env to take more observations
-# 14:00 - 16:00 |
++ 14:00 - 16:00 | Expanded the RL observation, action
 # 16:00 - 18:00 | 
 # 18:00 - 18:50 | 
 # 18:50 - 20:00 | Commute, Dinner
