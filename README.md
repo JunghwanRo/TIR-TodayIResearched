@@ -57,6 +57,7 @@ Further requirements
 o Accurate Thruster Dynamics (Add torque, match torque with the manufacturer-provided graph)
 o Joint modeling
 o Increase DOF of thruster joints
+o Check more drone simulators (Air drag?)
 ```
 
 #### <2024/06/11 TUE> 
