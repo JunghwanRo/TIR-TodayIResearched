@@ -52,12 +52,12 @@ Complete dynamics of thrusters (i.e. torques)
 # 22:00 - 23:00 | 
 ⭐ Reflection
 Bypassed the set_external_force function problem by Finding & Assigning indices manually.
-The vectoring joint (1 DOF revolute joint) was added to RL env., and observation/action was expanded to match this change.
-Further requirements
+Two vectoring joints (1 DOF revolute joint) were added to RL env., and observation/action was expanded to match this change.
+Further imminent requirements
 o Accurate Thruster Dynamics (Add torque, match torque with the manufacturer-provided graph)
 o Joint modeling
 o Increase DOF of thruster joints
-o Check more drone simulators (Air drag?)
+o Check more drone simulators for improvement (Fuselage Air drag?)
 ```
 
 #### <2024/06/11 TUE> 
