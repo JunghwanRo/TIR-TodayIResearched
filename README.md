@@ -45,9 +45,9 @@ Complete dynamics of thrusters (i.e. torques)
 + 10:00 - 12:00 | Bypassed the set_external_force bug
 ! 12:00 - 14:00 | Lunch, Updating RL env to take more observations
 + 14:00 - 16:00 | Expanded the RL observation, action
-# 16:00 - 18:00 | Checking Eurepus-RL-main code
-# 18:00 - 18:50 | 
-# 18:50 - 20:00 | Commute, Dinner
++ 16:00 - 18:00 | Checking Eurepus-RL-main code, Adding Thruster Torques for general Propeller
++ 18:00 - 18:43 | Added Thruster Torques for general Propeller
+- 18:43 - 20:00 | Commute, Dinner, EI Seminar - Animesh Garg - Building Blocks of Generalizable Autonomy: Duality of Discovery & Bias
 # 20:00 - 22:00 | 
 # 22:00 - 23:00 | 
 ⭐ Reflection
