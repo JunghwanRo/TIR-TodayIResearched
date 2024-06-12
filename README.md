@@ -37,7 +37,7 @@ Reflection: Self-reflection at the end of the day
 🌠 PLAN
 Check if we can use Rigid Object functions instead of Articulation ones
 Update RL env with discovered body ids
-Add vectoring thruster angle, gamma to RL observation
+Add vectoring thruster angle, gamma & derivative to RL observation
 Add vectoring thruster angle to RL actions
 Complete dynamics of thrusters (i.e. torques)
 ! 07:21 - 08:18 | D2D Commute, Bio-inspired drones deliver sustainable societal good
