@@ -51,8 +51,12 @@ Complete dynamics of thrusters (i.e. torques)
 # 20:00 - 22:00 | 
 # 22:00 - 23:00 | 
 ⭐ Reflection
-Bypassed the set_external_force function problem by investigating & assigning indices manually.
-
+Bypassed the set_external_force function problem by Finding & Assigning indices manually.
+The vectoring joint (1 DOF revolute joint) was added to RL env., and observation/action was expanded to match this change.
+Further requirements
+o Accurate Thruster Dynamics (Add torque, match torque with the manufacturer-provided graph)
+o Joint modeling
+o Increase DOF of thruster joints
 ```
 
 #### <2024/06/11 TUE> 
