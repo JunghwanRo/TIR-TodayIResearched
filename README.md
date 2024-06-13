@@ -32,6 +32,26 @@ Reflection: Self-reflection at the end of the day
 
 -->
 
+#### <2024/06/13 THU> 
+```diff 
+🌠 PLAN
+Fix the bug
+Run RL with updated torque
++ 07:17 - 08:05 | D2D Commute, MIT Robotics - Roland Siegwart - Flying Robots
++ 08:10 - 10:00 | Fixing the set_external_force bug in IsaacLab
++ 10:00 - 12:00 | Fixed the set_external_force bug in IsaacLab
+- 12:00 - 14:00 | Move to Zentrum campus, Emanuele PhD Defense
+# 14:00 - 16:00 | Emanuele PhD Defense Apero
+# 16:00 - 18:00 | Emanuele PhD Defense Apero
+# 18:00 - 18:50 | Back to Lab
+# 18:50 - 20:00 | Commute, Dinner
++ 20:00 - 22:00 | Pull Request for the fixed bug, Ran training with 0 damping
++ 22:00 - 22:30 | Reflection
+⭐ Reflection
+Still, a lot of things to do,
+but happy with the fixed bug and kind of working simulation environment.
+```
+
 #### <2024/06/12 WED> 
 ```diff
 🌠 PLAN
