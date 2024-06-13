@@ -14,7 +14,7 @@ Reflection: Self-reflection at the end of the day
 #### -TEMPLATE- 
 
 #### <YYYY/MM/DD DAY> 
-```diff
+```diff 
 🌠 PLAN
 
 ! 07:20 - 08:10 | D2D Commute, 
