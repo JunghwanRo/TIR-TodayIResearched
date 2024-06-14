@@ -32,6 +32,21 @@ Reflection: Self-reflection at the end of the day
 
 -->
 
+#### <2024/06/14 FRI> 
+```diff 
+🌠 PLAN
+RobotX Day!!!
++ 08:50 - 10:00 | RobotX - Keynote
++ 10:00 - 12:00 | RobotX - Keynote
++ 12:00 - 14:00 | RobotX - exhibition
++ 14:00 - 16:00 | RobotX - exhibition
++ 16:00 - 18:00 | RobotX - Apero
+# 18:00 - 20:00 | Commute, Dinner
+! 20:00 - 22:00 | Reflection, Prepare Midterm
+⭐ Reflection
+A Really inspiring event... I hope I will have a working demo next time.
+```
+
 #### <2024/06/13 THU> 
 ```diff 
 🌠 PLAN
