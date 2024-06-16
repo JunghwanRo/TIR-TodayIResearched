@@ -32,6 +32,15 @@ Reflection: Self-reflection at the end of the day
 
 -->
 
+#### <2023/06/15 SAT> 
+```diff 
+🌠 PLAN
+Rest With Juli
++ 20:00 - 21:00 | Prepare 5210 Midterm
+⭐ Reflection
+Rested. 
+```
+
 #### <2024/06/14 FRI> 
 ```diff 
 🌠 PLAN
