@@ -32,6 +32,25 @@ Reflection: Self-reflection at the end of the day
 
 -->
 
+#### <2023/06/16 SUN> 
+```diff 
+🌠 PLAN
+Midterm Preparation
+1. Go through the Instructions.
+2. Check Practice Exam / Answers.
+3. Check Midterm Recitation.
+4. Summarize the Textbook with GPT.
+5. Review Lecture Videos.
+# 12:00 - 14:00 | 
+# 14:00 - 16:00 | 
+# 16:00 - 18:00 | 
+# 18:00 - 18:50 | 
+# 18:50 - 20:00 | Commute, Dinner
+# 20:00 - 22:00 | 
+# 22:00 - 23:00 | 
+⭐ Reflection
+```
+
 #### <2023/06/15 SAT> 
 ```diff 
 🌠 PLAN
