@@ -38,9 +38,9 @@ Reflection: Self-reflection at the end of the day
 Midterm Preparation
 1. Go through the Instructions.
 2. Check Practice Exam / Answers.
-3. Check Midterm Recitation.
-4. Summarize the Textbook with GPT.
-5. Review Lecture Videos.
+3. Summarize the Textbook with GPT.
+4. Review Lecture Videos.
+5. Check Midterm Recitation.
 # 12:00 - 14:00 | 
 # 14:00 - 16:00 | 
 # 16:00 - 18:00 | 
