@@ -32,6 +32,23 @@ Reflection: Self-reflection at the end of the day
 
 -->
 
+#### <2024/06/17 MON> 
+```diff 
+🌠 PLAN
+
+! 07:20 - 08:10 | D2D Commute, 
+# 08:10 - 10:00 | 
+# 10:00 - 12:00 |
+# 12:00 - 14:00 |
+# 14:00 - 16:00 |
+# 16:00 - 18:00 | 
+# 18:00 - 18:50 |  
+# 18:50 - 20:00 | Commute, Dinner
+# 20:00 - 22:00 | 
+# 22:00 - 23:00 | 
+⭐ Reflection
+```
+
 #### <2023/06/16 SUN> 
 ```diff 
 🌠 PLAN
@@ -41,14 +58,15 @@ Midterm Preparation
 3. Summarize the Textbook with GPT.
 4. Review Lecture Videos.
 5. Check Midterm Recitation.
-# 12:00 - 14:00 | 
-# 14:00 - 16:00 | 
-# 16:00 - 18:00 | 
-# 18:00 - 18:50 | 
-# 18:50 - 20:00 | Commute, Dinner
-# 20:00 - 22:00 | 
-# 22:00 - 23:00 | 
++ 12:00 - 14:00 | Prepare 5210 Midterm
++ 14:00 - 16:00 | Prepare 5210 Midterm
++ 16:00 - 18:00 | Prepare 5210 Midterm
++ 18:00 - 20:00 | Prepare 5210 Midterm
+! 20:00 - 22:00 | Dinner, Prepare 5210 Midterm
++ 22:00 - 24:00 | Prepare 5210 Midterm
++ 24:00 - 25:30 | Took 5210 Midterm
 ⭐ Reflection
+Midterm Prepared/Executed well... Anyway it would be nice if I started study earlier.
 ```
 
 #### <2023/06/15 SAT> 
