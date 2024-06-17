@@ -17,7 +17,7 @@ Reflection: Self-reflection at the end of the day
 ```diff 
 🌠 PLAN
 
-! 07:20 - 08:10 | D2D Commute, 
+! 07:20 - 08:10 | D2D Commute
 # 08:10 - 10:00 | 
 # 10:00 - 12:00 |
 # 12:00 - 14:00 |
@@ -35,9 +35,12 @@ Reflection: Self-reflection at the end of the day
 #### <2024/06/17 MON> 
 ```diff 
 🌠 PLAN
-
-! 07:20 - 08:10 | D2D Commute, 
-# 08:10 - 10:00 | 
+Weekly Update Meeting
+Increase DOF of thruster joints
+Accurate Thruster Dynamics (Match torque with the manufacturer-provided graph)
+Check more drone simulators for improvement (Fuselage Air drag?)
+! 07:40 - 08:30 | D2D Commute, Russ Tedrake: Underactuated Robotics, Control, Dynamics and Touch 
+# 08:30 - 10:00 | 
 # 10:00 - 12:00 |
 # 12:00 - 14:00 |
 # 14:00 - 16:00 |
