@@ -49,7 +49,7 @@ Reflection: Self-reflection at the end of the day
 ⭐ Reflection
 ```
 
-#### <2023/06/16 SUN> 
+#### <2024/06/16 SUN> 
 ```diff 
 🌠 PLAN
 Midterm Preparation
