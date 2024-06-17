@@ -47,7 +47,7 @@ Check more drone simulators for improvement (Fuselage Air drag?)
 + 16:00 - 18:00 | Meeting Review, Updated RL env with 2dof
 + 18:00 - 18:43 | Updated RL env with 2dof, articulation root changed
 # 18:43 - 20:00 | Commute, Dinner
-- 20:00 - 21:30 | Reflection
+! 20:00 - 21:46 | Reflection, CIS5210 Module 7 Lecture
 ⭐ Reflection
 Weekly meeting could figure out many requirements.
 Can establish more solid plan for the publication.
