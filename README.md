@@ -42,8 +42,8 @@ Check more drone simulators for improvement (Fuselage Air drag?)
 ! 07:40 - 08:30 | D2D Commute, Russ Tedrake: Underactuated Robotics, Control, Dynamics and Touch 
 + 08:30 - 10:00 | Increased to 2DOF vectoring joint
 + 10:00 - 12:00 | Checked angular acceleration with inertia tensor change, Prepare weekly update meeting
-# 12:00 - 14:00 |
-# 14:00 - 16:00 |
+! 12:00 - 14:00 | Lunch, Weekly Update Meeting
++ 14:00 - 16:00 | Weekly Update Meeting, Remove Project info on the web
 # 16:00 - 18:00 | 
 # 18:00 - 18:50 |  
 # 18:50 - 20:00 | Commute, Dinner
