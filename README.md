@@ -40,8 +40,8 @@ Increase DOF of thruster joints
 Accurate Thruster Dynamics (Match torque with the manufacturer-provided graph)
 Check more drone simulators for improvement (Fuselage Air drag?)
 ! 07:40 - 08:30 | D2D Commute, Russ Tedrake: Underactuated Robotics, Control, Dynamics and Touch 
-# 08:30 - 10:00 | 
-# 10:00 - 12:00 |
++ 08:30 - 10:00 | Increased to 2DOF vectoring joint
++ 10:00 - 12:00 | Checked angular acceleration with inertia tensor change
 # 12:00 - 14:00 |
 # 14:00 - 16:00 |
 # 16:00 - 18:00 | 
