@@ -44,12 +44,13 @@ Check more drone simulators for improvement (Fuselage Air drag?)
 + 10:00 - 12:00 | Checked angular acceleration with inertia tensor change, Prepare weekly update meeting
 ! 12:00 - 14:00 | Lunch, Weekly Update Meeting
 + 14:00 - 16:00 | Weekly Update Meeting, Remove Project info on the web
-# 16:00 - 18:00 | Meeting Review
-# 18:00 - 18:50 |  
-# 18:50 - 20:00 | Commute, Dinner
-# 20:00 - 22:00 | 
-# 22:00 - 23:00 | 
++ 16:00 - 18:00 | Meeting Review, Updated RL env with 2dof
++ 18:00 - 18:43 | Updated RL env with 2dof, articulation root changed
+# 18:43 - 20:00 | Commute, Dinner
+- 20:00 - 21:30 | Reflection
 ⭐ Reflection
+Weekly meeting could figure out many requirements.
+Can establish more solid plan for the publication.
 ```
 
 #### <2024/06/16 SUN> 
