@@ -45,9 +45,11 @@ Check the delay of action in other literature
 + 14:00 - 16:00 | Dream Lab Meeting
 + 16:00 - 17:45 | Added time delay constant to RL env.
 # 17:45 - 20:00 | Commute, Haircut
-! 20:00 - 22:00 | Dinner, CIS5210 Module 7 Lecture
-# 22:00 - 23:00 | 
++ 20:00 - 22:00 | Dinner, CIS5210 Module 7 Lecture, Reflection
 ⭐ Reflection
+Model updated to satisfy >1.75D (D=0.3, L=0.6).
+Time delay constant was added for force/torque.
+control input changed to prop rpm, then converted to force/torque
 ```
 
 #### <2024/06/17 MON> 
