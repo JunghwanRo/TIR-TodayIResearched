@@ -46,6 +46,7 @@ Check the delay of action in other literature
 + 16:00 - 17:45 | Added time delay constant to RL env.
 # 17:45 - 20:00 | Commute, Haircut
 + 20:00 - 22:00 | Dinner, CIS5210 Module 7 Lecture, Reflection
++ 22:00 - 23:00 | CIS5210 Module 8 Lecture
 ⭐ Reflection
 Model updated to satisfy >1.75D (D=0.3, L=0.6).
 Time delay constant was added for force/torque.
