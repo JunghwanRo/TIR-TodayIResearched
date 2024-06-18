@@ -32,6 +32,25 @@ Reflection: Self-reflection at the end of the day
 
 -->
 
+#### <2024/06/18 TUE> 
+```diff 
+🌠 PLAN
+Make the movement of vectoring joint more realistic
+Change the force and torque more realistic
+Check the delay of action in other literature
+! 07:24 - 08:20 | D2D Commute, Russ Tedrake: Underactuated Robotics, Control, Dynamics and Touch 
+# 08:20 - 10:00 | 
+# 10:00 - 12:00 |
+# 12:00 - 14:00 |
+# 14:00 - 16:00 |
+# 16:00 - 18:00 | 
+# 18:00 - 18:50 |  
+# 18:50 - 20:00 | Commute, Dinner
+# 20:00 - 22:00 | 
+# 22:00 - 23:00 | 
+⭐ Reflection
+```
+
 #### <2024/06/17 MON> 
 ```diff 
 🌠 PLAN
