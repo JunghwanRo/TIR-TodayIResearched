@@ -39,10 +39,10 @@ Make the movement of vectoring joint more realistic
 Change the force and torque more realistic
 Check the delay of action in other literature
 ! 07:24 - 08:20 | D2D Commute, Russ Tedrake: Underactuated Robotics, Control, Dynamics and Touch 
-# 08:20 - 10:00 | Changed model to satisfy 1.75D(30prop, 60link)
-# 10:00 - 12:00 |
-# 12:00 - 14:00 |
-# 14:00 - 16:00 |
++ 08:20 - 10:00 | Changed model to satisfy 1.75D(30prop, 60link), time delay constant added
++ 10:00 - 12:00 | time delay constant added
+! 12:00 - 14:00 | Lunch, Vertiq propeller study
+# 14:00 - 16:00 | Dream Lab Meeting
 # 16:00 - 18:00 | 
 # 18:00 - 18:50 |  
 # 18:50 - 20:00 | Commute, Dinner
