@@ -32,6 +32,24 @@ Reflection: Self-reflection at the end of the day
 
 -->
 
+#### <2024/06/19 WED> 
+```diff 
+🌠 PLAN
+Apply time delay to vectoring
+Simple task with morphing
+! 07:19 - 08:15 | D2D Commute, Russ Tedrake: Underactuated Robotics, Control, Dynamics and Touch 
+# 08:15 - 10:00 | 
+# 10:00 - 12:00 |
+# 12:00 - 14:00 |
+# 14:00 - 16:00 |
+# 16:00 - 18:00 | 
+# 18:00 - 18:50 |  
+# 18:50 - 20:00 | Commute, Dinner
+# 20:00 - 22:00 | 
+# 22:00 - 23:00 | 
+⭐ Reflection
+```
+
 #### <2024/06/18 TUE> 
 ```diff 
 🌠 PLAN
