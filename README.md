@@ -40,11 +40,11 @@ Simple task with morphing
 ! 07:19 - 08:15 | D2D Commute, Russ Tedrake: Underactuated Robotics, Control, Dynamics and Touch 
 + 08:15 - 10:00 | Added time delay constant for joint control
 + 10:00 - 12:00 | Divided env into core/task
-# 12:00 - 14:00 |
-# 14:00 - 16:00 |
-# 16:00 - 18:00 | 
-# 18:00 - 18:50 |  
-# 18:50 - 20:00 | Commute, Dinner
+! 12:00 - 14:00 | Lunch, Fixing articulation root state
+# 14:00 - 16:00 | Changed approach and fixed the articulation root into base_link
+# 16:00 - 18:00 | Added XYZ + Gamma (XYZR) task
+! 18:00 - 18:43 | Dinner, Checked XYZR agent
+# 18:43 - 20:00 | Commute
 # 20:00 - 22:00 | 
 # 22:00 - 23:00 | 
 ⭐ Reflection
