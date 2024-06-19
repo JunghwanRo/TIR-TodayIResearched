@@ -38,8 +38,8 @@ Reflection: Self-reflection at the end of the day
 Apply time delay to vectoring
 Simple task with morphing
 ! 07:19 - 08:15 | D2D Commute, Russ Tedrake: Underactuated Robotics, Control, Dynamics and Touch 
-# 08:15 - 10:00 | 
-# 10:00 - 12:00 |
++ 08:15 - 10:00 | Added time delay constant for joint control
++ 10:00 - 12:00 | Divided env into core/task
 # 12:00 - 14:00 |
 # 14:00 - 16:00 |
 # 16:00 - 18:00 | 
