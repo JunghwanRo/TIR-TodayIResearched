@@ -44,10 +44,13 @@ Simple task with morphing
 + 14:00 - 16:00 | Changed approach and fixed the articulation root into base_link
 + 16:00 - 18:00 | Added XYZ + Gamma (XYZR) task
 ! 18:00 - 18:43 | Dinner, Checked XYZR agent
-# 18:43 - 20:00 | Commute
-# 20:00 - 22:00 | 
-# 22:00 - 23:00 | 
+# 18:43 - 20:00 | Commute, Walk
++ 20:00 - 22:00 | CIS5210 Module 8 Lecture
++ 22:00 - 22:30 | Reflection
 ⭐ Reflection
+Added time delay constant for joint control.
+Divided env into core/task to add several tasksFixed undesired articulation_root problem (previously, we did not have a rigid body at the COM, which does not change its orientation).
+Added GoTo XYZ + Gamma task. The goal is to reach a random XYZ position/Gamma angle. 
 ```
 
 #### <2024/06/18 TUE> 
