@@ -7,7 +7,7 @@
 
 Plan: Daily TODO list at the beginning of the day
 Reflection: Self-reflection at the end of the day 
-``` 
+```  
  
 <!-- 
 
