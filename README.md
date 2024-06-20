@@ -32,6 +32,21 @@ Reflection: Self-reflection at the end of the day
 
 -->
 
+#### <2024/06/20 THU> 
+```diff 
+🌠 PLAN
+Navy's Need. Meeting Admirals
+# 08:15 - 12:00 | Got a Monitor from Ricardo
+# 12:00 - 14:00 | Move to Basel Airport
++ 14:00 - 16:40 | Flight to Warsaw, Read "Servo Integrated Nonlinear Model Predictive Control for Overactuated Tiltable-Quadrotors"
+# 16:40 - 18:00 | Dinner with Admirals
+# 18:00 - 20:00 | Dinner with Admirals, Move to Kobylka
+# 20:00 - 22:00 | Meet Yulka's Family
++ 22:00 - 23:00 | Reflection, CIS5210 HW6
+⭐ Reflection
+Call of Duty.
+```
+
 #### <2024/06/19 WED> 
 ```diff 
 🌠 PLAN
