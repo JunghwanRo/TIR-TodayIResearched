@@ -40,9 +40,9 @@ Guiding Admirals, Meeting Julka's friends
 # 09:30 - 12:00 | Guiding Admirals
 # 12:00 - 14:00 | Time with Midshipmen
 # 14:00 - 16:00 | Meeting Julka's friend (Karolina#2)
-+ 16:00 - 18:00 | CIS5210 HW6
-# 18:00 - 18:50 | Visited julka's Aunt
-# 18:50 - 20:00 | Commute, Dinner
++ 16:00 - 18:00 | CIS5210 HW6 DONE
+# 18:00 - 18:30 | Visited julka's Aunt
+# 18:30 - 20:00 | Visiting Gabi, CIS5210 HW7
 # 20:00 - 22:00 | 
 # 22:00 - 23:00 | 
 ⭐ Reflection
