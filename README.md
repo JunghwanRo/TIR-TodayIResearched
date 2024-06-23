@@ -40,14 +40,13 @@ Polish CV, Summer Schools application
 CIS5210 Review
 Literature Review
 + 10:00 - 12:00 | CIS5210 Review, ETHZ RSS Preparation
-# 12:00 - 14:00 |
-# 14:00 - 16:00 |
-# 16:00 - 18:00 | 
-# 18:00 - 18:50 |  
-# 18:50 - 20:00 | Commute, Dinner
-# 20:00 - 22:00 | 
-# 22:00 - 23:00 | 
+# 12:00 - 14:00 | Time with Julka Family
++ 14:00 - 16:00 | CV Polish, applied to Czech RAS Summer School
+# 16:00 - 18:00 | Move to Airport
+# 18:00 - 20:00 | Warsaw to Zurich
+# 20:00 - 22:00 | Warsaw to Zurich
 ⭐ Reflection
+Julka Family visit. Updated CV... I hope the IROS paper will be accepted!
 ```
 
 #### <2024/06/21 FRI> 
