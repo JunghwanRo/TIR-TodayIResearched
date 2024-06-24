@@ -18,7 +18,7 @@ Reflection: Self-reflection at the end of the day
 🌠 PLAN
 
 ! 07:20 - 08:10 | D2D Commute
-# 08:10 - 10:00 | 
+# 08:20 - 10:00 | 
 # 10:00 - 12:00 |
 # 12:00 - 14:00 |
 # 14:00 - 16:00 |
@@ -31,6 +31,23 @@ Reflection: Self-reflection at the end of the day
 ```
 
 -->
+
+#### <2024/06/24 MON> 
+```diff 
+🌠 PLAN
+
+! 07:35 - 08:17 | D2D Commute, Robert Playter: Boston Dynamics CEO on Humanoid and Legged Robotics
+# 08:17 - 10:00 | 
+# 10:00 - 12:00 |
+# 12:00 - 14:00 |
+# 14:00 - 16:00 |
+# 16:00 - 18:00 | 
+# 18:00 - 18:50 |  
+# 18:50 - 20:00 | Commute, Dinner
+# 20:00 - 22:00 | 
+# 22:00 - 23:00 | 
+⭐ Reflection
+```
 
 #### <2024/06/23 SUN> 
 ```diff 
