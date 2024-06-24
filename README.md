@@ -47,9 +47,12 @@ Weekly Update Meeting
 + 16:00 - 18:00 | Added Orientation Visualization, Added FixedR Task
 + 18:00 - 18:45 | Added .json logging to FixedR
 # 18:45 - 20:00 | Commute, Grocery
-- 20:00 - 22:00 | 
-# 22:00 - 23:00 | 
+- 20:00 - 22:00 | Dinner, CIS5210 Module 9 Lecture
++ 22:00 - 22:43 | CIS5210 Module 9 Lecture, Reflection
 ⭐ Reflection
+Got Accepted for the Santanna SS.
+Added Task for XYZO, XYZOR, but still rotating or not morphing.
+Added Orientation Visualization, FixedR Task. Added Logging Function.
 ```
 
 #### <2024/06/23 SUN> 
