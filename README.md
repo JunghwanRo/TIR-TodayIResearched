@@ -32,7 +32,7 @@ Reflection: Self-reflection at the end of the day
 
 -->
 
-#### <2024/06/22 SAT> 
+#### <2024/06/23 SUN> 
 ```diff 
 🌠 PLAN
 Plan ETHZ RSS
@@ -47,6 +47,23 @@ Literature Review
 # 20:00 - 22:00 | Warsaw to Zurich
 ⭐ Reflection
 Julka Family visit. Updated CV... I hope the IROS paper will be accepted!
+```
+
+#### <2024/06/22 SAT> 
+```diff 
+🌠 PLAN
+CIS5210 HW Review
+Time with Julka's Family
+Update CV, Profile
++ 10:00 - 12:00 | Checked CV and update, CIS5210 HW Review
+# 12:00 - 14:00 | Time with Julka Family (Festival)
+# 14:00 - 16:00 | Time with Julka Family (Festival)
+# 16:00 - 18:00 | Time with Julka Family (Festival)
+# 18:00 - 20:00 | Rest
+# 20:00 - 22:00 | Rest
+! 22:00 - 23:00 | Linkedin Update, Available Summer Schools
+⭐ Reflection
+Julka Family visit.
 ```
 
 #### <2024/06/21 FRI> 
