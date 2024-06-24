@@ -43,11 +43,11 @@ Weekly Update Meeting
 + 08:17 - 10:00 | Adding GoToXYZOR task
 + 10:00 - 12:00 | Added GoToXYZOR task, Applied to Santanna Summer School
 ! 12:00 - 14:00 | Lunch, Weekly Update Meeting
-# 14:00 - 16:00 | Weekly Update Meeting, Figure out undesired force
-# 16:00 - 18:00 | 
-# 18:00 - 18:50 |  
-# 18:50 - 20:00 | Commute, Dinner
-# 20:00 - 22:00 | 
++ 14:00 - 16:00 | Weekly Update Meeting, Figure out undesired force
++ 16:00 - 18:00 | Added Orientation Visualization, Added FixedR Task
++ 18:00 - 18:45 | Added .json logging to FixedR
+# 18:45 - 20:00 | Commute, Grocery
+- 20:00 - 22:00 | 
 # 22:00 - 23:00 | 
 ⭐ Reflection
 ```
