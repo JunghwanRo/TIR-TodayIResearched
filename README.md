@@ -35,7 +35,10 @@ Reflection: Self-reflection at the end of the day
 #### <2024/06/24 MON> 
 ```diff 
 🌠 PLAN
-
+Send POS to Gatech Student Office
+Apply for the Univ Santanna SS
+Tasks for XYZO, XYZOR
+Weekly Update Meeting
 ! 07:35 - 08:17 | D2D Commute, Robert Playter: Boston Dynamics CEO on Humanoid and Legged Robotics
 # 08:17 - 10:00 | 
 # 10:00 - 12:00 |
