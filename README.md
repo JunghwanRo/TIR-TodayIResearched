@@ -40,9 +40,9 @@ Apply for the Univ Santanna SS
 Tasks for XYZO, XYZOR
 Weekly Update Meeting
 ! 07:35 - 08:17 | D2D Commute, Robert Playter: Boston Dynamics CEO on Humanoid and Legged Robotics
-# 08:17 - 10:00 | 
-# 10:00 - 12:00 |
-# 12:00 - 14:00 |
++ 08:17 - 10:00 | Adding GoToXYZOR task
++ 10:00 - 12:00 | Added GoToXYZOR task, Applied to Santanna Summer School
+! 12:00 - 14:00 | Lunch, Weekly Meeting
 # 14:00 - 16:00 |
 # 16:00 - 18:00 | 
 # 18:00 - 18:50 |  
