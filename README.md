@@ -46,9 +46,12 @@ Plan the SPEAR TIM, Friday Mid-Presentation
 + 16:00 - 18:00 | Adding Go&Return Task
 + 18:00 - 18:45 | Adding Go&Return Task
 # 18:50 - 20:00 | Commute, Dinner
-# 20:00 - 22:00 | 
+# 20:00 - 22:00 | Rest
 # 22:00 - 23:00 | 
 ⭐ Reflection
+2 Meetings, 
+Adding go&return task, not training well.
+Should prepare two meetings on thursday and friday.
 ```
 
 #### <2024/06/24 MON> 
