@@ -42,7 +42,7 @@ Plan the SPEAR TIM, Friday Mid-Presentation
 + 08:30 - 10:00 | Preparing SPEAR meeting, SPEAR LAB Internal Meeting
 + 10:00 - 12:00 | SPEAR LAB Internal Meeting, Review the meeting, Checked Time Delay on recent RPG works
 ! 12:00 - 14:00 | Lunch, Prepare for DREAM weekly meeting
-# 14:00 - 16:00 |
++ 14:00 - 16:00 | DREAM weekly meeting, 
 # 16:00 - 18:00 | 
 # 18:00 - 18:50 |  
 # 18:50 - 20:00 | Commute, Dinner
