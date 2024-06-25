@@ -35,10 +35,12 @@ Reflection: Self-reflection at the end of the day
 #### <2024/06/25 TUE> 
 ```diff 
 🌠 PLAN
-
+SPEAR Monthly Meeting
+DREAM Lab Meeting
+Plan the SPEAR TIM, Friday Mid-Presentation
 ! 07:35 - 08:30 | D2D Commute, Robert Playter: Boston Dynamics CEO on Humanoid and Legged Robotics
 + 08:30 - 10:00 | Preparing SPEAR meeting, SPEAR LAB Internal Meeting
-# 10:00 - 12:00 | SPEAR LAB Internal Meeting
+# 10:00 - 12:00 | SPEAR LAB Internal Meeting, Review the meeting
 # 12:00 - 14:00 |
 # 14:00 - 16:00 |
 # 16:00 - 18:00 | 
