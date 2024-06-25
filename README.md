@@ -40,8 +40,8 @@ DREAM Lab Meeting
 Plan the SPEAR TIM, Friday Mid-Presentation
 ! 07:35 - 08:30 | D2D Commute, Robert Playter: Boston Dynamics CEO on Humanoid and Legged Robotics
 + 08:30 - 10:00 | Preparing SPEAR meeting, SPEAR LAB Internal Meeting
-# 10:00 - 12:00 | SPEAR LAB Internal Meeting, Review the meeting
-# 12:00 - 14:00 |
++ 10:00 - 12:00 | SPEAR LAB Internal Meeting, Review the meeting, Checked Time Delay on recent RPG works
+! 12:00 - 14:00 | Lunch, Prepare for DREAM weekly meeting
 # 14:00 - 16:00 |
 # 16:00 - 18:00 | 
 # 18:00 - 18:50 |  
