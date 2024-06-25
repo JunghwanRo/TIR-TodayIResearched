@@ -32,6 +32,23 @@ Reflection: Self-reflection at the end of the day
 
 -->
 
+#### <2024/06/25 TUE> 
+```diff 
+🌠 PLAN
+
+! 07:35 - 08:30 | D2D Commute, Robert Playter: Boston Dynamics CEO on Humanoid and Legged Robotics
++ 08:30 - 10:00 | Preparing SPEAR meeting, SPEAR LAB Internal Meeting
+# 10:00 - 12:00 | SPEAR LAB Internal Meeting
+# 12:00 - 14:00 |
+# 14:00 - 16:00 |
+# 16:00 - 18:00 | 
+# 18:00 - 18:50 |  
+# 18:50 - 20:00 | Commute, Dinner
+# 20:00 - 22:00 | 
+# 22:00 - 23:00 | 
+⭐ Reflection
+```
+
 #### <2024/06/24 MON> 
 ```diff 
 🌠 PLAN
