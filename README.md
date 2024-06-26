@@ -41,14 +41,17 @@ Prepare Friday Presentation
 ! 07:27 - 08:13 | D2D Commute, ABB Robotics Podcast
 + 08:13 - 10:00 | Writing abstract draft, Debugging Return Task
 + 10:00 - 12:00 | Preparing 1-page slide for SPEAR TIM, Debugging Return Task
-! 12:00 - 14:00 | Lunch, 
-# 14:00 - 16:00 |
-# 16:00 - 18:00 | 
-# 18:00 - 18:50 |  
+! 12:00 - 14:00 | Lunch, Debugging Return Task
+# 14:00 - 16:00 | Trying to make GoToXYZOR work
+# 16:00 - 18:00 | Made GoToXYZOR work
+# 18:00 - 18:50 | Literature Review
 # 18:50 - 20:00 | Commute, Dinner
-# 20:00 - 22:00 | 
-# 22:00 - 23:00 | 
+# 20:00 - 22:00 | Rest
+! 22:00 - 23:00 | Reflection,
 ⭐ Reflection
+I found some bugs in the Return Task, but it is still not training well.
+Could train a model working for GoToXYZOR.
+Preparing slides for Thursday/Friday meetings.
 ```
 
 #### <2024/06/25 TUE> 
