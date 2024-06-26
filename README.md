@@ -39,9 +39,9 @@ Debug Return Task
 Prepare TIM Slide
 Prepare Friday Presentation
 ! 07:27 - 08:13 | D2D Commute, ABB Robotics Podcast
-# 08:13 - 10:00 | 
-# 10:00 - 12:00 |
-# 12:00 - 14:00 |
++ 08:13 - 10:00 | Writing abstract draft, Debugging Return Task
++ 10:00 - 12:00 | Preparing 1-page slide for SPEAR TIM, Debugging Return Task
+! 12:00 - 14:00 | Lunch, 
 # 14:00 - 16:00 |
 # 16:00 - 18:00 | 
 # 18:00 - 18:50 |  
