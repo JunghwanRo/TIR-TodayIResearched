@@ -32,10 +32,12 @@ Reflection: Self-reflection at the end of the day
 
 -->
 
-#### <YYYY/MM/DD DAY> 
+#### <2024/06/26 WED> 
 ```diff 
 🌠 PLAN
-
+Debug Return Task
+Prepare TIM Slide
+Prepare Friday Presentation
 ! 07:27 - 08:13 | D2D Commute, ABB Robotics Podcast
 # 08:13 - 10:00 | 
 # 10:00 - 12:00 |
