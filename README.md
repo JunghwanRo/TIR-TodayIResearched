@@ -32,6 +32,23 @@ Reflection: Self-reflection at the end of the day
 
 -->
 
+#### <YYYY/MM/DD DAY> 
+```diff 
+🌠 PLAN
+
+! 07:27 - 08:13 | D2D Commute, ABB Robotics Podcast
+# 08:13 - 10:00 | 
+# 10:00 - 12:00 |
+# 12:00 - 14:00 |
+# 14:00 - 16:00 |
+# 16:00 - 18:00 | 
+# 18:00 - 18:50 |  
+# 18:50 - 20:00 | Commute, Dinner
+# 20:00 - 22:00 | 
+# 22:00 - 23:00 | 
+⭐ Reflection
+```
+
 #### <2024/06/25 TUE> 
 ```diff 
 🌠 PLAN
@@ -47,11 +64,10 @@ Plan the SPEAR TIM, Friday Mid-Presentation
 + 18:00 - 18:45 | Adding Go&Return Task
 # 18:50 - 20:00 | Commute, Dinner
 # 20:00 - 22:00 | Rest
-# 22:00 - 23:00 | 
 ⭐ Reflection
 2 Meetings, 
-Adding go&return task, not training well.
-Should prepare two meetings on thursday and friday.
+Adding return task, not training well.
+Should prepare two meetings on Thursday and Friday.
 ```
 
 #### <2024/06/24 MON> 
