@@ -32,6 +32,24 @@ Reflection: Self-reflection at the end of the day
 
 -->
 
+#### <2024/06/27 THU> 
+```diff 
+🌠 PLAN
+SPEAR TIM
+Prepare for the Friday Presentation
+! 07:27 - 08:13 | D2D Commute, IROS 35th Anniversary Forum Talk 1: Roland Siegwart - Flying Robots
++ 08:13 - 10:00 | SPEAR Tech Integration Meeting 
+# 10:00 - 12:00 |
+# 12:00 - 14:00 |
+# 14:00 - 16:00 |
+# 16:00 - 18:00 | 
+# 18:00 - 18:50 |  
+# 18:50 - 20:00 | Commute, Dinner
+# 20:00 - 22:00 | 
+# 22:00 - 23:00 | 
+⭐ Reflection
+```
+
 #### <2024/06/26 WED> 
 ```diff 
 🌠 PLAN
@@ -39,7 +57,7 @@ Debug Return Task
 Prepare TIM Slide
 Prepare Friday Presentation
 ! 07:27 - 08:13 | D2D Commute, ABB Robotics Podcast
-+ 08:13 - 10:00 | Writing abstract draft, Debugging Return Task
++ 08:13 - 10:00 | Writing an abstract draft, Debugging Return Task
 + 10:00 - 12:00 | Preparing 1-page slide for SPEAR TIM, Debugging Return Task
 ! 12:00 - 14:00 | Lunch, Debugging Return Task
 + 14:00 - 16:00 | Trying to make GoToXYZOR work
