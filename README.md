@@ -39,11 +39,11 @@ SPEAR TIM
 Prepare for the Friday Presentation
 ! 07:27 - 08:13 | D2D Commute, IROS 35th Anniversary Forum Talk 1: Roland Siegwart - Flying Robots
 + 08:13 - 10:00 | SPEAR Tech Integration Meeting, Preparing Friday Presentation
-+ 10:00 - 12:00 | Preparing Friday Presentation
-! 12:00 - 14:00 | Lunch, Preparing Friday Presentation
-+ 14:00 - 16:00 | Preparing Friday Presentation
-+ 16:00 - 18:00 | Preparing Friday Presentation
-+ 18:00 - 18:50 | Preparing Friday Presentation
++ 10:00 - 12:00 | Preparing Friday Presentation (Background)
+! 12:00 - 14:00 | Lunch, Preparing Friday Presentation (Background)
++ 14:00 - 16:00 | Preparing Friday Presentation (Morphing Drone)
++ 16:00 - 18:00 | Preparing Friday Presentation (Morphing Drone)
++ 18:00 - 18:50 | Preparing Friday Presentation (Progress)
 # 18:50 - 20:00 | Commute, Dinner
 # 20:00 - 22:00 | 
 # 22:00 - 23:00 | 
