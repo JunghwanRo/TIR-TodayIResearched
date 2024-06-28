@@ -47,6 +47,9 @@ Reflection: Self-reflection at the end of the day
 # 20:00 - 22:00 | 
 # 22:00 - 23:00 | 
 ⭐ Reflection
+Technical Issue at the beginning of the presentation,
+The script was gone, and they gave a really shitty presentation at the beginning.
+Need to prepare better. 
 ```
 
 #### <2024/06/27 THU> 
@@ -60,11 +63,13 @@ Prepare for the Friday Presentation
 ! 12:00 - 14:00 | Lunch, Preparing Friday Presentation (Background)
 + 14:00 - 16:00 | Preparing Friday Presentation (Morphing Drone)
 + 16:00 - 18:00 | Preparing Friday Presentation (Morphing Drone)
-+ 18:00 - 18:50 | Preparing Friday Presentation (Progress)
-# 18:50 - 20:00 | Commute, Dinner
-# 20:00 - 22:00 | 
-# 22:00 - 23:00 | 
++ 18:00 - 20:00 | Preparing Friday Presentation
+! 20:00 - 22:00 | Commute, Preparing Friday Presentation
+! 22:00 - 24:00 | Dinner, Preparing Friday Presentation
++ 24:00 - 25:40 | Preparing Friday Presentation
 ⭐ Reflection
+The whole day was spent preparing slides and scripts.
+I need to improve the speed of preparation.
 ```
 
 #### <2024/06/26 WED> 
