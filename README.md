@@ -32,12 +32,12 @@ Reflection: Self-reflection at the end of the day
 
 -->
 
-#### <2024/06/28 FRI> 
+#### <2024/06/29 SAT> 
 ```diff 
 🌠 PLAN
 
-! 07:27 - 08:15 | D2D Commute, Preparing for the presentation
-+ 08:20 - 10:00 | Mid Presentation
+! 07:20 - 08:10 | D2D Commute
+# 08:20 - 10:00 | 
 # 10:00 - 12:00 |
 # 12:00 - 14:00 |
 # 14:00 - 16:00 |
@@ -46,6 +46,23 @@ Reflection: Self-reflection at the end of the day
 # 18:50 - 20:00 | Commute, Dinner
 # 20:00 - 22:00 | 
 # 22:00 - 23:00 | 
+⭐ Reflection
+```
+
+#### <2024/06/28 FRI> 
+```diff 
+🌠 PLAN
+Mid presentation
+Prepare for RSS
+! 07:27 - 08:15 | D2D Commute, Preparing for the presentation
++ 08:20 - 10:00 | Mid Presentation
++ 10:00 - 12:00 | Mid Presentation reflection,  
+! 12:00 - 14:00 | Lunch, 
+# 14:00 - 16:00 | Commute, Bought items for RSS
+# 16:00 - 18:00 | RSS Packing
+# 18:00 - 20:00 | Rest
+! 20:00 - 22:00 | CIS5210 HW8
++ 22:00 - 24:10 | CIS5210 HW8, Reflection, IsaacLab 0.3.0 -> 1.0.0 merge
 ⭐ Reflection
 Technical Issue at the beginning of the presentation,
 The script was gone, and they gave a really shitty presentation at the beginning.
