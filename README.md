@@ -35,7 +35,7 @@ Reflection: Self-reflection at the end of the day
 #### <2024/06/29 SAT> 
 ```diff 
 🌠 PLAN
-
+Robotics Summer School
 ! 07:20 - 08:10 | D2D Commute
 # 08:20 - 10:00 | 
 # 10:00 - 12:00 |
