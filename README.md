@@ -5,7 +5,7 @@
 - Highly Distracted: Focus Time Rate > 25%
 # Non Research Activities
 
-Plan: Daily TODO list at the beginning of the day 
+Plan: Daily TODO list at the beginning of the day  
 Reflection: Self-reflection at the end of the day 
 ```  
  
@@ -32,10 +32,61 @@ Reflection: Self-reflection at the end of the day
 
 -->
 
+#### <2024/07/02 TUE> 
+```diff 
+🌠 PLAN
+Robotics Summer School!!!
+! 07:20 - 08:10 | D2D Commute
+# 08:20 - 10:00 | 
+# 10:00 - 12:00 |
+# 12:00 - 14:00 |
+# 14:00 - 16:00 |
+# 16:00 - 18:00 | 
+# 18:00 - 18:50 |  
+# 18:50 - 20:00 | Commute, Dinner
+# 20:00 - 22:00 | 
+# 22:00 - 23:00 | 
+⭐ Reflection
+```
+
+#### <2024/07/01 MON> 
+```diff 
+🌠 PLAN
+Robotics Summer School!!!
+! 07:20 - 08:10 | D2D Commute
+# 08:20 - 10:00 | 
+# 10:00 - 12:00 |
+# 12:00 - 14:00 |
+# 14:00 - 16:00 |
+# 16:00 - 18:00 | 
+# 18:00 - 18:50 |  
+# 18:50 - 20:00 | Commute, Dinner
+# 20:00 - 22:00 | 
+# 22:00 - 23:00 | 
+⭐ Reflection
+```
+
+#### <2024/06/30 SUN> 
+```diff 
+🌠 PLAN
+Robotics Summer School!!!
+! 07:20 - 08:10 | D2D Commute
+# 08:20 - 10:00 | 
+# 10:00 - 12:00 |
+# 12:00 - 14:00 |
+# 14:00 - 16:00 |
+# 16:00 - 18:00 | 
+# 18:00 - 18:50 |  
+# 18:50 - 20:00 | Commute, Dinner
+# 20:00 - 22:00 | 
+# 22:00 - 23:00 | 
+⭐ Reflection
+```
+
 #### <2024/06/29 SAT> 
 ```diff 
 🌠 PLAN
-Robotics Summer School
+Robotics Summer School!!!
 ! 07:20 - 08:10 | D2D Commute
 # 08:20 - 10:00 | 
 # 10:00 - 12:00 |
