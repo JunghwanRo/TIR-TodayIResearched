@@ -32,54 +32,93 @@ Reflection: Self-reflection at the end of the day
 
 -->
 
-#### <2024/07/02 TUE> 
+#### <2024/07/05 FRI>  
 ```diff 
 🌠 PLAN
 Robotics Summer School!!!
-! 07:20 - 08:10 | D2D Commute
-# 08:20 - 10:00 | 
-# 10:00 - 12:00 |
-# 12:00 - 14:00 |
-# 14:00 - 16:00 |
-# 16:00 - 18:00 | 
-# 18:00 - 18:50 |  
-# 18:50 - 20:00 | Commute, Dinner
-# 20:00 - 22:00 | 
-# 22:00 - 23:00 | 
+! 06:40 - 08:00 | ETHZ Robotics Summer School!
+! 08:00 - 10:00 | ETHZ Robotics Summer School!
+! 10:00 - 12:00 | ETHZ Robotics Summer School!
 ⭐ Reflection
 ```
 
-#### <2024/07/01 MON> 
+#### <2024/07/04 THU>  
 ```diff 
 🌠 PLAN
 Robotics Summer School!!!
-! 07:20 - 08:10 | D2D Commute
-# 08:20 - 10:00 | 
-# 10:00 - 12:00 |
-# 12:00 - 14:00 |
-# 14:00 - 16:00 |
-# 16:00 - 18:00 | 
-# 18:00 - 18:50 |  
-# 18:50 - 20:00 | Commute, Dinner
-# 20:00 - 22:00 | 
-# 22:00 - 23:00 | 
+! 06:40 - 08:00 | ETHZ Robotics Summer School!
+! 08:00 - 10:00 | ETHZ Robotics Summer School!
+! 10:00 - 12:00 | ETHZ Robotics Summer School!
+! 12:00 - 14:00 | ETHZ Robotics Summer School!
+! 14:00 - 16:00 | ETHZ Robotics Summer School!
+! 16:00 - 18:00 | ETHZ Robotics Summer School!
+! 18:00 - 20:00 | ETHZ Robotics Summer School!
+! 20:00 - 22:00 | ETHZ Robotics Summer School!
+! 22:00 - 24:00 | ETHZ Robotics Summer School!
 ⭐ Reflection
 ```
 
-#### <2024/06/30 SUN> 
+#### <2024/07/03 WED>  
 ```diff 
 🌠 PLAN
 Robotics Summer School!!!
-! 07:20 - 08:10 | D2D Commute
-# 08:20 - 10:00 | 
-# 10:00 - 12:00 |
-# 12:00 - 14:00 |
-# 14:00 - 16:00 |
-# 16:00 - 18:00 | 
-# 18:00 - 18:50 |  
-# 18:50 - 20:00 | Commute, Dinner
-# 20:00 - 22:00 | 
-# 22:00 - 23:00 | 
+! 06:40 - 08:00 | ETHZ Robotics Summer School!
+! 08:00 - 10:00 | ETHZ Robotics Summer School!
+! 10:00 - 12:00 | ETHZ Robotics Summer School!
+! 12:00 - 14:00 | ETHZ Robotics Summer School!
+! 14:00 - 16:00 | ETHZ Robotics Summer School!
+! 16:00 - 18:00 | ETHZ Robotics Summer School!
+! 18:00 - 20:00 | ETHZ Robotics Summer School!
+! 20:00 - 22:00 | ETHZ Robotics Summer School!
+! 22:00 - 24:00 | ETHZ Robotics Summer School!
+⭐ Reflection
+```
+
+#### <2024/07/02 TUE>  
+```diff 
+🌠 PLAN
+Robotics Summer School!!!
+! 06:40 - 08:00 | ETHZ Robotics Summer School!
+! 08:00 - 10:00 | ETHZ Robotics Summer School!
+! 10:00 - 12:00 | ETHZ Robotics Summer School!
+! 12:00 - 14:00 | ETHZ Robotics Summer School!
+! 14:00 - 16:00 | ETHZ Robotics Summer School!
+! 16:00 - 18:00 | ETHZ Robotics Summer School!
+! 18:00 - 20:00 | ETHZ Robotics Summer School!
+! 20:00 - 22:00 | ETHZ Robotics Summer School!
+! 22:00 - 24:00 | ETHZ Robotics Summer School!
+⭐ Reflection
+```
+
+#### <2024/07/01 MON>  
+```diff 
+🌠 PLAN
+Robotics Summer School!!!
+! 06:40 - 08:00 | ETHZ Robotics Summer School!
+! 08:00 - 10:00 | ETHZ Robotics Summer School!
+! 10:00 - 12:00 | ETHZ Robotics Summer School!
+! 12:00 - 14:00 | ETHZ Robotics Summer School!
+! 14:00 - 16:00 | ETHZ Robotics Summer School!
+! 16:00 - 18:00 | ETHZ Robotics Summer School!
+! 18:00 - 20:00 | ETHZ Robotics Summer School!
+! 20:00 - 22:00 | ETHZ Robotics Summer School!
+! 22:00 - 24:00 | ETHZ Robotics Summer School!
+⭐ Reflection
+```
+
+#### <2024/06/20 SUN>  
+```diff 
+🌠 PLAN
+Robotics Summer School!!!
+! 06:40 - 08:00 | ETHZ Robotics Summer School!
+! 08:00 - 10:00 | ETHZ Robotics Summer School!
+! 10:00 - 12:00 | ETHZ Robotics Summer School!
+! 12:00 - 14:00 | ETHZ Robotics Summer School!
+! 14:00 - 16:00 | ETHZ Robotics Summer School!
+! 16:00 - 18:00 | ETHZ Robotics Summer School!
+! 18:00 - 20:00 | ETHZ Robotics Summer School!
+! 20:00 - 22:00 | ETHZ Robotics Summer School!
+! 22:00 - 24:00 | ETHZ Robotics Summer School!
 ⭐ Reflection
 ```
 
@@ -87,16 +126,15 @@ Robotics Summer School!!!
 ```diff 
 🌠 PLAN
 Robotics Summer School!!!
-! 07:20 - 08:10 | D2D Commute
-# 08:20 - 10:00 | 
-# 10:00 - 12:00 |
-# 12:00 - 14:00 |
-# 14:00 - 16:00 |
-# 16:00 - 18:00 | 
-# 18:00 - 18:50 |  
-# 18:50 - 20:00 | Commute, Dinner
-# 20:00 - 22:00 | 
-# 22:00 - 23:00 | 
+! 06:40 - 08:00 | ETHZ Robotics Summer School!
+! 08:00 - 10:00 | ETHZ Robotics Summer School!
+! 10:00 - 12:00 | ETHZ Robotics Summer School!
+! 12:00 - 14:00 | ETHZ Robotics Summer School!
+! 14:00 - 16:00 | ETHZ Robotics Summer School!
+! 16:00 - 18:00 | ETHZ Robotics Summer School!
+! 18:00 - 20:00 | ETHZ Robotics Summer School!
+! 20:00 - 22:00 | ETHZ Robotics Summer School!
+! 22:00 - 24:00 | ETHZ Robotics Summer School!
 ⭐ Reflection
 ```
 
