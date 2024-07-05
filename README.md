@@ -83,7 +83,7 @@ Robotics Summer School!!!
 ⭐ Reflection
 ```
 
-#### <2024/06/29 SAT> 
+#### <2024/06/29 SAT>  
 ```diff 
 🌠 PLAN
 Robotics Summer School!!!
