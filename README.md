@@ -32,6 +32,16 @@ Reflection: Self-reflection at the end of the day
 
 -->
 
+#### <2024/07/06 SAT>  
+```diff 
+🌠 PLAN
+
+! 06:40 - 08:00 | ETHZ Robotics Summer School!
+! 08:00 - 10:00 | ETHZ Robotics Summer School!
+! 10:00 - 12:00 | ETHZ Robotics Summer School!
+⭐ Reflection
+```
+
 #### <2024/07/05 FRI>  
 ```diff 
 🌠 PLAN
