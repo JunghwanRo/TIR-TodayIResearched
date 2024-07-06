@@ -11,7 +11,7 @@ Reflection: Self-reflection at the end of the day
  
 <!-- 
 
-#### -TEMPLATE-  
+#### -TEMPLATE-   
 
 #### <YYYY/MM/DD DAY> 
 ```diff 
