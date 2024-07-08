@@ -32,14 +32,42 @@ Reflection: Self-reflection at the end of the day
 
 -->
 
-#### <2024/07/06 SAT>  
+#### <YYYY/MM/DD DAY> 
 ```diff 
 🌠 PLAN
 
-! 06:40 - 08:00 | ETHZ Robotics Summer School!
-! 08:00 - 10:00 | ETHZ Robotics Summer School!
-! 10:00 - 12:00 | ETHZ Robotics Summer School!
+! 07:20 - 08:10 | D2D Commute
+# 08:20 - 10:00 | 
+# 10:00 - 12:00 |
+# 12:00 - 14:00 |
+# 14:00 - 16:00 |
+# 16:00 - 18:00 | 
+# 18:00 - 18:50 |  
+# 18:50 - 20:00 | Commute, Dinner
+# 20:00 - 22:00 | 
+# 22:00 - 23:00 | 
 ⭐ Reflection
+```
+
+#### <2024/07/07 SUN>  
+```diff 
+🌠 PLAN
+Rest, Apply for an internship
+# 08:00 - 18:00 | REST
+! 18:00 - 20:00 | Updated CV, Cover Letter for AI Institute
+⭐ Reflection
+I came back from ETHZ RSS and slept an average of 3 hours during summer school.
+Recovering sleep and spending time with Juli. Applied for the AI Institute.
+```
+
+#### <2024/07/06 SAT>  
+```diff 
+🌠 PLAN
+REST
+# 00:00 - 24:00 | Resting
+⭐ Reflection
+I came back from ETHZ RSS and slept an average of 3 hours during summer school.
+Recovering sleep and spending time with Juli.
 ```
 
 #### <2024/07/05 FRI>  
