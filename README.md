@@ -32,10 +32,12 @@ Reflection: Self-reflection at the end of the day
 
 -->
 
-#### <YYYY/MM/DD DAY> 
+#### <2024/07/08 MON> 
 ```diff 
 🌠 PLAN
-
+Weekly Update Meeting with Luca
+Check joint configuration
+Add several models to the framework and modularize it.
 ! 07:20 - 08:10 | D2D Commute
 # 08:20 - 10:00 | 
 # 10:00 - 12:00 |
