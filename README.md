@@ -39,12 +39,12 @@ Weekly Update Meeting with Luca
 Check joint configuration
 Add several models to the framework and modularize it.
 IROS 2024 paper review
-! 07:20 - 08:10 | D2D Commute
-# 08:20 - 10:00 | 
-# 10:00 - 12:00 |
-# 12:00 - 14:00 |
-# 14:00 - 16:00 |
-# 16:00 - 18:00 | 
+! 07:35 - 08:30 | D2D Commute, How to improve your writing: A guide for PhD students and academics
++ 08:20 - 10:00 | Prepare for the Weekly Update Meeting, Weekly Update Meeting
++ 10:00 - 12:00 | Weekly Update Meeting, IROS 2024 Review
+- 12:00 - 14:00 | Lunch, Search for available PhD Programs
++ 14:00 - 16:00 | IROS 2024 Review Meeting
++ 16:00 - 18:00 | Checked joint reference change, Checked joint torque control
 # 18:00 - 18:50 |  
 # 18:50 - 20:00 | Commute, Dinner
 # 20:00 - 22:00 | 
