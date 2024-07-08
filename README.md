@@ -47,11 +47,14 @@ IROS 2024 paper review
 - 12:00 - 14:00 | Lunch, Search for available PhD Programs
 + 14:00 - 16:00 | IROS 2024 Review Meeting
 + 16:00 - 18:00 | Checked joint reference change, Checked joint torque control
-# 18:00 - 18:50 |  
-# 18:50 - 20:00 | Commute, Dinner
-# 20:00 - 22:00 | 
-# 22:00 - 23:00 | 
+! 18:00 - 18:50 | Stanford, MIT RA opportunities
+- 18:50 - 20:00 | Commute, Dinner
+! 20:00 - 22:00 | Revision for IROS 2024 Paper
+! 22:00 - 23:00 | CIS5210 Module10, Reflection
 ⭐ Reflection
+Gearing up after Summer School. 
+Checked the possibility of joints.
+IROS 2024 revisioned.
 ```
 
 #### <2024/07/07 SUN>  
