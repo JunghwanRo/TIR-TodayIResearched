@@ -3,7 +3,7 @@
 + Well-Focused: Focus Time Rate > 75%
 ! Somewhat Distracted: Focus Time Rate > 50%
 - Highly Distracted: Focus Time Rate > 25%
-# Non Research Activities
+# Non-Research Activities
 
 Plan: Daily TODO list at the beginning of the day
 Reflection: Self-reflection at the end of the day
@@ -34,13 +34,13 @@ Daily Routine: 5m presentation
 
 -->
 
-#### <YYYY/MM/DD DAY> 
+#### <2024/07/10 WED> 
 ```diff 
 🌠 PLAN
 
-! 07:20 - 08:10 | D2D Commute
-# 08:20 - 10:00 | 
-# 10:00 - 12:00 |
+! 07:35 - 08:30 | D2D Commute, Beginner Italian Course: Lesson 5
+# 08:30 - 10:00 | Read "Design, Modeling and Control of a Novel Morphing Quadrotor"
+# 10:00 - 12:00 | 
 # 12:00 - 14:00 |
 # 14:00 - 16:00 |
 # 16:00 - 18:00 | 
