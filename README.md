@@ -37,6 +37,7 @@ Daily Routine: 5m presentation
 #### <2024/07/10 WED> 
 ```diff 
 🌠 PLAN
+Make a morphrotor env, which can select the kind of multirotor.
 
 ! 07:35 - 08:30 | D2D Commute, Beginner Italian Course: Lesson 5
 + 08:30 - 10:00 | Read "Design, Modeling and Control of a Novel Morphing Quadrotor"
