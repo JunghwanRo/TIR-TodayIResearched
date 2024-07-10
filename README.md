@@ -34,6 +34,23 @@ Daily Routine: 5m presentation
 
 -->
 
+#### <YYYY/MM/DD DAY> 
+```diff 
+🌠 PLAN
+
+! 07:20 - 08:10 | D2D Commute
+# 08:20 - 10:00 | 
+# 10:00 - 12:00 |
+# 12:00 - 14:00 |
+# 14:00 - 16:00 |
+# 16:00 - 18:00 | 
+# 18:00 - 18:50 |  
+# 18:50 - 20:00 | Commute, Dinner
+# 20:00 - 22:00 | 
+# 22:00 - 23:00 | 
+⭐ Reflection
+```
+
 #### <2024/07/09 TUE> 
 ```diff 
 🌠 PLAN
@@ -45,11 +62,13 @@ Literature Review for Drone Reward Function
 ! 12:00 - 14:00 | Lunch, Prepare for DREAM Meeting
 + 14:00 - 16:00 | DREAM Meeting, Literature Review for Morphing Drone RL
 + 16:00 - 18:00 | Meeting with Luca, Joint Configuration
-+ 18:00 - 18:50 | Joint stiffness/Damping Unit check
-# 18:50 - 20:00 | Commute, Dinner
-# 20:00 - 22:00 | 
-# 22:00 - 23:00 | 
++ 18:00 - 19:10 | Joint stiffness/Damping Unit check
+# 19:10 - 20:00 | Commute
+# 20:00 - 22:00 | Dinner, Workout
++ 22:00 - 23:00 | CIS5210 Module 10
 ⭐ Reflection
+The literature review was not productive. Could not concentrate well.
+Joint configuration worked well, now time to proceed versatile model development.
 ```
 
 #### <2024/07/08 MON> 
