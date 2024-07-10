@@ -39,8 +39,8 @@ Daily Routine: 5m presentation
 🌠 PLAN
 
 ! 07:35 - 08:30 | D2D Commute, Beginner Italian Course: Lesson 5
-# 08:30 - 10:00 | Read "Design, Modeling and Control of a Novel Morphing Quadrotor"
-# 10:00 - 12:00 | 
++ 08:30 - 10:00 | Read "Design, Modeling and Control of a Novel Morphing Quadrotor"
++ 10:00 - 12:00 | Meditation
 # 12:00 - 14:00 |
 # 14:00 - 16:00 |
 # 16:00 - 18:00 | 
