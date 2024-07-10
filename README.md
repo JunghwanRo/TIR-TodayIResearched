@@ -38,14 +38,13 @@ Daily Routine: 5m presentation
 ```diff 
 🌠 PLAN
 Make a morphrotor env, which can select the kind of multirotor.
-
 ! 07:35 - 08:30 | D2D Commute, Beginner Italian Course: Lesson 5
 + 08:30 - 10:00 | Read "Design, Modeling and Control of a Novel Morphing Quadrotor"
-+ 10:00 - 12:00 | Meditation
-# 12:00 - 14:00 |
-# 14:00 - 16:00 |
-# 16:00 - 18:00 | 
-# 18:00 - 18:50 |  
++ 10:00 - 12:00 | Adding Morphrotor env, which can select several multirotor types
+! 12:00 - 14:00 | Lunch, Adding Morphrotor env, which can select several multirotor types
++ 14:00 - 16:00 | Adding Morphrotor env, which can select several multirotor types
+! 16:00 - 18:00 | Adding Morphrotor env, which can select several multirotor types
++ 18:00 - 18:50 |  Adding Morphrotor env, which can select several multirotor types
 # 18:50 - 20:00 | Commute, Dinner
 # 20:00 - 22:00 | 
 # 22:00 - 23:00 | 
