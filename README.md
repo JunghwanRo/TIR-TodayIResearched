@@ -37,20 +37,21 @@ Daily Routine: 5m presentation
 #### <2024/07/11 THU> 
 ```diff 
 🌠 PLAN
-Fix bug and add Morphrotor env
+Fix the bug and add Morphrotor env
 Add x-figure drone to Morphrotor env
 Floor Inspection
 ! 07:48 - 08:35 | D2D Commute, CIS5210 Module 10
-# 08:35 - 10:00 | 
-# 10:00 - 12:00 |
-# 12:00 - 14:00 |
-# 14:00 - 16:00 |
-# 16:00 - 18:00 | 
-# 18:00 - 18:50 |  
-# 18:50 - 20:00 | Commute, Dinner
-# 20:00 - 22:00 | 
-# 22:00 - 23:00 | 
++ 08:35 - 10:00 | Fixed the bug and add Morphrotor env
++ 10:00 - 12:00 | Add x-figure drone to Morphrotor env
+! 12:00 - 14:00 | Lunch, Add x-figure drone to Morphrotor env
++ 14:00 - 14:43 | Add x-figure drone to Morphrotor env
+! 14:43 - 16:00 | Cummute, Floor/Window Inspection
+! 16:00 - 18:00 | CIS5210 Module 10
+# 18:00 - 20:00 | Dinner, Grocery
+! 20:00 - 22:00 | CIS5210 Module 10
+# 22:00 - 23:00 | Dance with Juli
 ⭐ Reflection
+Added Morphrotor env for the x-bar and four-bar.
 ```
 
 #### <2024/07/10 WED> 
