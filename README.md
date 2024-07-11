@@ -34,6 +34,25 @@ Daily Routine: 5m presentation
 
 -->
 
+#### <2024/07/11 THU> 
+```diff 
+🌠 PLAN
+Fix bug and add Morphrotor env
+Add x-figure drone to Morphrotor env
+Floor Inspection
+! 07:48 - 08:35 | D2D Commute, CIS5210 Module 10
+# 08:35 - 10:00 | 
+# 10:00 - 12:00 |
+# 12:00 - 14:00 |
+# 14:00 - 16:00 |
+# 16:00 - 18:00 | 
+# 18:00 - 18:50 |  
+# 18:50 - 20:00 | Commute, Dinner
+# 20:00 - 22:00 | 
+# 22:00 - 23:00 | 
+⭐ Reflection
+```
+
 #### <2024/07/10 WED> 
 ```diff 
 🌠 PLAN
@@ -44,11 +63,13 @@ Make a morphrotor env, which can select the kind of multirotor.
 ! 12:00 - 14:00 | Lunch, Adding Morphrotor env, which can select several multirotor types
 + 14:00 - 16:00 | Adding Morphrotor env, which can select several multirotor types
 ! 16:00 - 18:00 | Adding Morphrotor env, which can select several multirotor types
-+ 18:00 - 18:50 |  Adding Morphrotor env, which can select several multirotor types
++ 18:00 - 18:50 | Adding Morphrotor env, which can select several multirotor types
 # 18:50 - 20:00 | Commute, Dinner
-# 20:00 - 22:00 | 
-# 22:00 - 23:00 | 
+# 20:00 - 22:00 | Shopping
+! 22:00 - 23:00 | CIS5210 Module 10
 ⭐ Reflection
+Concentration Level was lower than usual.
+While developing Morphrotor env, the trained policy was not working well in play.py.
 ```
 
 #### <2024/07/09 TUE> 
