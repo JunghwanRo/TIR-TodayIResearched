@@ -44,15 +44,17 @@ Add two-rotor vectoring thruster works well
 Check rotor rotating
 ! 07:30 - 08:18 | D2D Commute, Beginner Italian Course: Lesson 5/6
 + 08:18 - 10:00 | Validated X-bar training working well
-+ 10:00 - 12:00 | Made Fourbar training works (not trained well), Added two-rotor vectoring drone
-! 12:00 - 14:00 | Lunch, 
-# 14:00 - 16:00 |
++ 10:00 - 12:00 | Made Fourbar training works (not trained well), Adding two-rotor vectoring drone
+! 12:00 - 14:00 | Lunch, Added two-rotor vectoring drone
+! 14:00 - 16:00 | Headache, Check rotor rotating, update previous drones cfg
 # 16:00 - 18:00 | 
 # 18:00 - 18:50 |  
 # 18:50 - 20:00 | Commute, Dinner
 # 20:00 - 22:00 | 
 # 22:00 - 23:00 | 
 ⭐ Reflection
+Need to apply rpm - thrust, torque graph
+Need to apply joint state - torque graph
 ```
 
 #### <2024/07/11 THU> 
