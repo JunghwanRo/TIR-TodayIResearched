@@ -38,6 +38,7 @@ Daily Routine: 5m presentation
 ```diff 
 🌠 PLAN
 Validate X-bar training working well
+Check if Hub Moment is working properly
 Make Fourbar training work well as well
 Add two-rotor vectoring thruster works well
 ! 07:30 - 08:18 | D2D Commute, Beginner Italian Course: Lesson 5/6
