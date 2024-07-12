@@ -41,10 +41,11 @@ Validate X-bar training working well
 Check if Hub Moment is working properly
 Make Fourbar training work well as well
 Add two-rotor vectoring thruster works well
+Check rotor rotating
 ! 07:30 - 08:18 | D2D Commute, Beginner Italian Course: Lesson 5/6
-# 08:18 - 10:00 | 
-# 10:00 - 12:00 |
-# 12:00 - 14:00 |
++ 08:18 - 10:00 | Validated X-bar training working well
++ 10:00 - 12:00 | Made Fourbar training works (not trained well), Added two-rotor vectoring drone
+! 12:00 - 14:00 | Lunch, 
 # 14:00 - 16:00 |
 # 16:00 - 18:00 | 
 # 18:00 - 18:50 |  
