@@ -34,6 +34,25 @@ Daily Routine: 5m presentation
 
 -->
 
+#### <2024/07/12 FRI> 
+```diff 
+🌠 PLAN
+Validate X-bar training working well
+Make Fourbar training work well as well
+Add two-rotor vectoring thruster works well
+! 07:30 - 08:18 | D2D Commute, Beginner Italian Course: Lesson 5/6
+# 08:18 - 10:00 | 
+# 10:00 - 12:00 |
+# 12:00 - 14:00 |
+# 14:00 - 16:00 |
+# 16:00 - 18:00 | 
+# 18:00 - 18:50 |  
+# 18:50 - 20:00 | Commute, Dinner
+# 20:00 - 22:00 | 
+# 22:00 - 23:00 | 
+⭐ Reflection
+```
+
 #### <2024/07/11 THU> 
 ```diff 
 🌠 PLAN
@@ -57,7 +76,7 @@ Added Morphrotor env for the x-bar and four-bar.
 #### <2024/07/10 WED> 
 ```diff 
 🌠 PLAN
-Make a morphrotor env, which can select the kind of multirotor.
+Make a Morphrotor env, which can select the kind of multirotor.
 ! 07:35 - 08:30 | D2D Commute, Beginner Italian Course: Lesson 5
 + 08:30 - 10:00 | Read "Design, Modeling and Control of a Novel Morphing Quadrotor"
 + 10:00 - 12:00 | Adding Morphrotor env, which can select several multirotor types
