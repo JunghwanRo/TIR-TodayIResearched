@@ -11,7 +11,7 @@ Reflection: Self-reflection at the end of the day
 Daily Routine: 5m presentation
 ```  
  
-<!-- 
+<!--  
 
 #### -TEMPLATE-   
 
