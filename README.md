@@ -37,10 +37,12 @@ Daily Routine: 5m presentation
 #### <204/07/17 WED> 
 ```diff 
 🌠 PLAN
-
-! 07:20 - 08:10 | D2D Commute
-# 08:20 - 10:00 | 
-# 10:00 - 12:00 |
+Weekly Update Meeting
+Literature review for reward function
+Literature review for sensor
+! 07:41 - 08:33 | D2D Commute, Prepare for the Weekly Update
++ 08:33 - 10:00 | Prepare for the Weekly Update, Weekly Update Meeting
++ 10:00 - 12:00 | Weekly Update Meeting
 # 12:00 - 14:00 |
 # 14:00 - 16:00 |
 # 16:00 - 18:00 | 
