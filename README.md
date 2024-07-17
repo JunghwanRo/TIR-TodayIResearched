@@ -34,6 +34,88 @@ Daily Routine: 5m presentation
 
 -->
 
+#### <204/07/17 WED> 
+```diff 
+🌠 PLAN
+
+! 07:20 - 08:10 | D2D Commute
+# 08:20 - 10:00 | 
+# 10:00 - 12:00 |
+# 12:00 - 14:00 |
+# 14:00 - 16:00 |
+# 16:00 - 18:00 | 
+# 18:00 - 18:50 |  
+# 18:50 - 20:00 | Commute, Dinner
+# 20:00 - 22:00 | 
+# 22:00 - 23:00 | 
+⭐ Reflection
+```
+
+#### <2024/07/16 TUE> 
+```diff 
+🌠 PLAN
+Metz - Visiting DREAM Lab
+Finish CIS5210 HW
+Finish CIS5210 EC
+# 00:00 - 02:00 | Back to Zurich Home
+# 02:00 - 04:00 | Back to Zurich Home
+# 04:00 - 06:00 | Back to Zurich Home
+! 14:00 - 16:00 | CIS5210 HW09
++ 16:00 - 18:00 | CIS5210 HW09
++ 18:00 - 20:00 | CIS5210 HW09
++ 20:00 - 22:00 | CIS5210 Extra Credit - Hallucination
++ 22:00 - 23:00 | CIS5210 Extra Credit - Hallucination
+⭐ Reflection
+It was a crazy day. With 30kg of luggage and a 30+inch Monitor box.
+Under heavy rain, at night, no bus... good memory.
+```
+
+#### <2024/07/15 MON> 
+```diff 
+🌠 PLAN
+Paris - Visiting Jarel, Pillipo
+Metz - Visiting DREAM Lab
+# 08:00 - 10:00 | Paris - Visiting Jarel, Pillipo
+# 10:00 - 12:00 | Paris - Visiting Jarel, Pillipo
+# 12:00 - 14:00 | Paris - Visiting Jarel, Pillipo
+# 14:00 - 16:00 | Metz - Visiting DREAM Lab
+# 16:00 - 18:00 | Metz - Visiting DREAM Lab
+# 18:00 - 20:00 | Metz - Visiting DREAM Lab
+# 20:00 - 22:00 | Metz - Visiting DREAM Lab
+# 22:00 - 23:00 | Metz - Visiting DREAM Lab
+⭐ Reflection
+```
+
+#### <2024/07/14 SUN> 
+```diff 
+🌠 PLAN
+Paris - Visiting Jarel, Pillipo
+# 08:00 - 10:00 | Paris - Visiting Jarel, Pillipo
+# 10:00 - 12:00 | Paris - Visiting Jarel, Pillipo
+# 12:00 - 14:00 | Paris - Visiting Jarel, Pillipo
+# 14:00 - 16:00 | Paris - Visiting Jarel, Pillipo
+# 16:00 - 18:00 | Paris - Visiting Jarel, Pillipo
+# 18:00 - 20:00 | Paris - Visiting Jarel, Pillipo
+# 20:00 - 22:00 | Paris - Visiting Jarel, Pillipo
+# 22:00 - 23:00 | Paris - Visiting Jarel, Pillipo
+⭐ Reflection
+```
+
+#### <2024/07/13 SAT> 
+```diff 
+🌠 PLAN
+Paris - Visiting Jarel, Pillipo
+# 08:00 - 10:00 | Paris - Visiting Jarel, Pillipo
+# 10:00 - 12:00 | Paris - Visiting Jarel, Pillipo
+# 12:00 - 14:00 | Paris - Visiting Jarel, Pillipo
+# 14:00 - 16:00 | Paris - Visiting Jarel, Pillipo
+# 16:00 - 18:00 | Paris - Visiting Jarel, Pillipo
+# 18:00 - 20:00 | Paris - Visiting Jarel, Pillipo
+# 20:00 - 22:00 | Paris - Visiting Jarel, Pillipo
+# 22:00 - 23:00 | Paris - Visiting Jarel, Pillipo
+⭐ Reflection
+```
+
 #### <2024/07/12 FRI> 
 ```diff 
 🌠 PLAN
@@ -47,11 +129,9 @@ Check rotor rotating
 + 10:00 - 12:00 | Made Fourbar training works (not trained well), Adding two-rotor vectoring drone
 ! 12:00 - 14:00 | Lunch, Added two-rotor vectoring drone
 ! 14:00 - 16:00 | Headache, Check rotor rotating, update previous drones cfg
-# 16:00 - 18:00 | 
-# 18:00 - 18:50 |  
-# 18:50 - 20:00 | Commute, Dinner
-# 20:00 - 22:00 | 
-# 22:00 - 23:00 | 
++ 16:00 - 18:00 | Rotor rotating check
++ 18:00 - 18:50 | Review developed models
+# 18:50 - 24:00 | To Paris - Visiting Jarel, Pillipo
 ⭐ Reflection
 Need to apply rpm - thrust, torque graph
 Need to apply joint state - torque graph
