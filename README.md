@@ -48,13 +48,12 @@ Literature review for sensor
 ! 07:41 - 08:33 | D2D Commute, Prepare for the Weekly Update
 + 08:33 - 10:00 | Prepare for the Weekly Update, Weekly Update Meeting
 + 10:00 - 12:00 | Weekly Update Meeting
-# 12:00 - 14:00 |
-# 14:00 - 16:00 |
-# 16:00 - 18:00 | 
-# 18:00 - 18:50 |  
-# 18:50 - 20:00 | Commute, Dinner
-# 20:00 - 22:00 | 
-# 22:00 - 23:00 | 
+! 12:00 - 14:00 | Lunch, Review for sensor in drone simulation
++ 14:00 - 16:00 | Review for reward function
++ 16:00 - 18:00 | Review for reward function
+# 18:15 - 20:00 | Commute, Pick up Nella
+# 20:00 - 22:00 | Pick up Nella
+# 22:00 - 23:00 | Pick up Nella
 ⭐ Reflection
 ```
 
