@@ -56,7 +56,7 @@ Add location of force application
 ⭐ Reflection
 ```
 
-#### <204/07/17 WED> 
+#### <2024/07/17 WED> 
 ```diff 
 🌠 PLAN
 Weekly Update Meeting
