@@ -39,6 +39,23 @@ Add location of force application
 
 -->
 
+#### <2024/07/18 THU> 
+```diff 
+🌠 PLAN
+
+! 07:50 - 08:50 | D2D Commute, How to apply a PhD
+# 08:50 - 10:00 | 
+# 10:00 - 12:00 |
+# 12:00 - 14:00 |
+# 14:00 - 16:00 |
+# 16:00 - 18:00 | 
+# 18:00 - 18:50 |  
+# 18:50 - 20:00 | Commute, Dinner
+# 20:00 - 22:00 | 
+# 22:00 - 23:00 | 
+⭐ Reflection
+```
+
 #### <204/07/17 WED> 
 ```diff 
 🌠 PLAN
