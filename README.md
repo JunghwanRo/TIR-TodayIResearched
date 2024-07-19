@@ -42,18 +42,17 @@ Add location of force application
 #### <2024/07/18 THU> 
 ```diff 
 🌠 PLAN
-
-! 07:50 - 08:50 | D2D Commute, How to apply a PhD
-# 08:50 - 10:00 | 
-# 10:00 - 12:00 |
-# 12:00 - 14:00 |
-# 14:00 - 16:00 |
-# 16:00 - 18:00 | 
-# 18:00 - 18:50 |  
-# 18:50 - 20:00 | Commute, Dinner
-# 20:00 - 22:00 | 
-# 22:00 - 23:00 | 
+! 07:50 - 08:50 | D2D Commute, How to apply for a PhD
++ 08:50 - 10:00 | Literature review for reward function
++ 10:00 - 12:00 | Literature review for reward function
+! 12:00 - 14:00 | Lunch, Literature review for morphing drone development
+! 14:00 - 16:00 | Lab search
++ 16:00 - 17:50 | Literature review for morphing drone Simulation
+# 17:50 - 20:00 | Commute, Dinner
+# 20:00 - 22:00 | Time with Juli/Nella sister
+# 22:00 - 23:00 | Time with Juli/Nella sister
 ⭐ Reflection
+Contacted the 1st option Lab.
 ```
 
 #### <2024/07/17 WED> 
