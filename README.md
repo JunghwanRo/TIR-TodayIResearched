@@ -39,6 +39,26 @@ Add location of force application
 
 -->
 
+#### <2024/07/19 FRI> 
+```diff 
+🌠 PLAN
+Add Hovering Task to Framework
+Modify(Improve) GoTo Task
+Literature review for Waypoint Task
+Add Waypoint Task to Framework 
+! 07:21 - 08:13 | D2D Commute, Robotics Industry and Research
+# 08:13 - 10:00 | 
+# 10:00 - 12:00 |
+# 12:00 - 14:00 |
+# 14:00 - 16:00 |
+# 16:00 - 18:00 | 
+# 18:00 - 18:50 |  
+# 18:50 - 20:00 | Commute, Dinner
+# 20:00 - 22:00 | 
+# 22:00 - 23:00 | 
+⭐ Reflection
+```
+
 #### <2024/07/18 THU> 
 ```diff 
 🌠 PLAN
