@@ -47,9 +47,9 @@ Modify(Improve) GoTo Task
 Literature review for Waypoint Task
 Add Waypoint Task to Framework 
 ! 07:21 - 08:13 | D2D Commute, Robotics Industry and Research
-# 08:13 - 10:00 | Santanna Robotics Summer School Transfer, 
-# 10:00 - 12:00 |
-# 12:00 - 14:00 |
++ 08:13 - 10:00 | Santanna Robotics Summer School Transfer, Add Hovering Task to Framework
++ 10:00 - 12:00 | Add Hovering Task to Framework
+! 12:00 - 14:00 | Lunch, Meeting with NTNU, Add Hovering Task to Framework
 # 14:00 - 16:00 |
 # 16:00 - 18:00 | 
 # 18:00 - 18:50 |  
