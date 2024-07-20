@@ -44,18 +44,18 @@ Add location of force application
 🌠 PLAN
 Add Hovering Task to Framework
 Modify(Improve) GoTo Task
-Literature review for Waypoint Task
+Literature Review for Waypoint Task
 Add Waypoint Task to Framework 
 ! 07:21 - 08:13 | D2D Commute, Robotics Industry and Research
 + 08:13 - 10:00 | Santanna Robotics Summer School Transfer, Add Hovering Task to Framework
 + 10:00 - 12:00 | Add Hovering Task to Framework
 ! 12:00 - 14:00 | Lunch, Meeting with NTNU, Add Hovering Task to Framework
-# 14:00 - 16:00 |
-# 16:00 - 18:00 | 
-# 18:00 - 18:50 |  
-# 18:50 - 20:00 | Commute, Dinner
-# 20:00 - 22:00 | 
-# 22:00 - 23:00 | 
++ 14:00 - 16:00 | Review of reward functions for Hovering
++ 16:00 - 18:00 | Review of reward functions for Hovering
++ 18:00 - 18:23 | Test of rsl-rl
+# 18:23 - 20:00 | Commute, Dinner
+! 20:00 - 22:00 | Test of rsl-rl, Updated previous_action, previous_distance
+! 22:00 - 22:40 | Updating reward function of GoToXYZ
 ⭐ Reflection
 ```
 
