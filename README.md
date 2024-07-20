@@ -39,6 +39,22 @@ Add location of force application
 
 -->
 
+#### <2024/07/20 SAT> 
+```diff 
+🌠 PLAN
+
+# 08:40 - 10:00 | Calc of ang_diff using two position and robot quat
+# 10:00 - 12:00 |
+# 12:00 - 14:00 |
+# 14:00 - 16:00 |
+# 16:00 - 18:00 | 
+# 18:00 - 18:50 |  
+# 18:50 - 20:00 | Commute, Dinner
+# 20:00 - 22:00 | 
+# 22:00 - 23:00 | 
+⭐ Reflection
+```
+
 #### <2024/07/19 FRI> 
 ```diff 
 🌠 PLAN
