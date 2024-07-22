@@ -39,11 +39,12 @@ Add location of force application
 
 -->
 
-#### <2024/07/20 SAT> 
+#### <2024/07/22 MON> 
 ```diff 
 🌠 PLAN
 
-# 08:40 - 10:00 | Calc of ang_diff using two position and robot quat
+! 07:20 - 08:10 | D2D Commute
+# 08:20 - 10:00 | 
 # 10:00 - 12:00 |
 # 12:00 - 14:00 |
 # 14:00 - 16:00 |
@@ -53,6 +54,30 @@ Add location of force application
 # 20:00 - 22:00 | 
 # 22:00 - 23:00 | 
 ⭐ Reflection
+```
+
+#### <2024/07/21 SUN> 
+```diff 
+🌠 PLAN
+# 10:00 - 12:00 | Time with Nela
+# 12:00 - 14:00 | Time with Nela
+! 14:00 - 16:00 | Update morphrotor repo
+# 16:00 - 18:00 | Time with Nela
+# 18:00 - 20:00 | Time with Nela
+⭐ Reflection
+```
+
+#### <2024/07/20 SAT> 
+```diff 
+🌠 PLAN
++ 08:40 - 10:00 | Calc of ang_diff using two position and robot quat
+# 10:00 - 12:00 | Time with Nela
+# 12:00 - 14:00 | Time with Nela
+# 14:00 - 16:00 | Time with Nela
+# 16:00 - 18:00 | Time with Nela
+# 18:00 - 20:00 | Time with Nela
+⭐ Reflection
+Julia's Sister Nela Visiting
 ```
 
 #### <2024/07/19 FRI> 
