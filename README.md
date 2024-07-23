@@ -45,9 +45,9 @@ Add location of force application
 Finish updating GoToXYZ
 Add waypoint task
 Add rpm(action) - thrust/torque connection
-Make list of Elevator pitch (interview questions)
+Make a list of Elevator pitches (interview questions)
 ! 07:40 - 08:22 | D2D Commute, Stanford Webinar - The Frontier of Deep Learning for Robotics, Chelsea Finn
-# 08:22 - 10:00 | 
++ 08:22 - 10:00 | PhD possible questions list up
 # 10:00 - 12:00 |
 # 12:00 - 14:00 |
 # 14:00 - 16:00 |
