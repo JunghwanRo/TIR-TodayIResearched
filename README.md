@@ -39,10 +39,12 @@ Add location of force application
 
 -->
 
-#### <2024/07/22 MON> 
+#### <2024/07/23 TUE> 
 ```diff 
 🌠 PLAN
-
+FInish updating GoToXYZ
+Add waypoint task
+Add rpm(action) - thrust/torque connection
 ! 07:20 - 08:10 | D2D Commute
 # 08:20 - 10:00 | 
 # 10:00 - 12:00 |
@@ -54,6 +56,14 @@ Add location of force application
 # 20:00 - 22:00 | 
 # 22:00 - 23:00 | 
 ⭐ Reflection
+```
+
+#### <2024/07/22 MON> 
+```diff 
+🌠 PLAN
+⭐ Reflection
+Updated Framework with os.path.join
+Updating task GoToXYZ to include previous inputs
 ```
 
 #### <2024/07/21 SUN> 
