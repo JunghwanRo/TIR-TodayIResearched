@@ -42,11 +42,11 @@ Add location of force application
 #### <2024/07/23 TUE> 
 ```diff 
 🌠 PLAN
-FInish updating GoToXYZ
+Finish updating GoToXYZ
 Add waypoint task
 Add rpm(action) - thrust/torque connection
-! 07:20 - 08:10 | D2D Commute
-# 08:20 - 10:00 | 
+! 07:40 - 08:22 | D2D Commute, Stanford Webinar - The Frontier of Deep Learning for Robotics, Chelsea Finn
+# 08:22 - 10:00 | 
 # 10:00 - 12:00 |
 # 12:00 - 14:00 |
 # 14:00 - 16:00 |
