@@ -47,11 +47,11 @@ Add waypoint task
 Add rpm(action) - thrust/torque connection
 Make a list of Elevator pitches (interview questions)
 ! 07:40 - 08:22 | D2D Commute, Stanford Webinar - The Frontier of Deep Learning for Robotics, Chelsea Finn
-+ 08:22 - 10:00 | PhD possible questions list up
-# 10:00 - 12:00 |
-# 12:00 - 14:00 |
-# 14:00 - 16:00 |
-# 16:00 - 18:00 | 
++ 08:22 - 10:00 | PhD possible questions list up, Updating GoToXYZ
++ 10:00 - 12:00 | Updating GoToXYZ
+! 12:00 - 14:00 | Lunch, Updating GoToXYZ
++ 14:00 - 16:00 | Updated GoToXYZ
++ 16:00 - 18:00 | Reorganized visual marker for goal orientation
 # 18:00 - 18:50 |  
 # 18:50 - 20:00 | Commute, Dinner
 # 20:00 - 22:00 | 
