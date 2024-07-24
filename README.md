@@ -44,13 +44,13 @@ Add location of force application
 🌠 PLAN
 Add Thrust Class
 Add Joint Class
-! 07:20 - 08:10 | D2D Commute
-# 08:20 - 10:00 | 
-# 10:00 - 12:00 |
-# 12:00 - 14:00 |
-# 14:00 - 16:00 |
-# 16:00 - 18:00 | 
-# 18:00 - 18:50 |  
++ 07:40 - 08:25 | D2D Commute, CIS Module 13 NLP
++ 08:25 - 10:00 | Adding Thrust Class
++ 10:00 - 12:00 | Adding Thrust Class
+! 12:00 - 14:00 | Lunch, Adding Thrust Class
+! 14:00 - 16:00 | Adding Thrust Class
+! 16:00 - 18:00 | Adding Thrust Class
++ 18:00 - 18:50 | Adding Thrust Class
 # 18:50 - 20:00 | Commute, Dinner
 # 20:00 - 22:00 | 
 # 22:00 - 23:00 | 
