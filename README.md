@@ -52,10 +52,10 @@ Make a list of Elevator pitches (interview questions)
 ! 12:00 - 14:00 | Lunch, Updating GoToXYZ
 + 14:00 - 16:00 | Updated GoToXYZ
 + 16:00 - 18:00 | Reorganized visual marker for goal orientation
-# 18:00 - 18:50 |  
-# 18:50 - 20:00 | Commute, Dinner
-# 20:00 - 22:00 | 
-# 22:00 - 23:00 | 
++ 18:00 - 18:50 | Reorganized visual marker for goal orientation
+# 18:53 - 20:00 | Commute, Dinner
+! 20:00 - 22:00 | CIS5210 Module 12 NN
++ 22:00 - 23:10 | CIS5210 Module 12 NN
 ⭐ Reflection
 ```
 
