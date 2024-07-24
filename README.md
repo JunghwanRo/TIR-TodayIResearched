@@ -39,6 +39,24 @@ Add location of force application
 
 -->
 
+#### <2024/07/24 WED> 
+```diff 
+🌠 PLAN
+Add Thrust Class
+Add Joint Class
+! 07:20 - 08:10 | D2D Commute
+# 08:20 - 10:00 | 
+# 10:00 - 12:00 |
+# 12:00 - 14:00 |
+# 14:00 - 16:00 |
+# 16:00 - 18:00 | 
+# 18:00 - 18:50 |  
+# 18:50 - 20:00 | Commute, Dinner
+# 20:00 - 22:00 | 
+# 22:00 - 23:00 | 
+⭐ Reflection
+```
+
 #### <2024/07/23 TUE> 
 ```diff 
 🌠 PLAN
