@@ -39,6 +39,23 @@ Add location of force application
 
 -->
 
+#### <2024/07/25 THU> 
+```diff 
+🌠 PLAN
+SPEAR Monthly Update Meeting
+! 07:00 - 07:50 | D2D Commute, CIS Module 13 NLP
+# 07:50 - 10:00 | Prepare for the Monthly Update, Monthly Update Meeting
+# 10:00 - 12:00 | Monthly Update Meeting
+# 12:00 - 14:00 |
+# 14:00 - 16:00 |
+# 16:00 - 18:00 | 
+# 18:00 - 18:50 |  
+# 18:50 - 20:00 | Commute, Dinner
+# 20:00 - 22:00 | 
+# 22:00 - 23:00 | 
+⭐ Reflection
+```
+
 #### <2024/07/24 WED> 
 ```diff 
 🌠 PLAN
@@ -52,9 +69,9 @@ Add Joint Class
 ! 16:00 - 18:00 | Adding Thrust Class
 + 18:00 - 18:50 | Adding Thrust Class
 # 18:50 - 20:00 | Commute, Dinner
-# 20:00 - 22:00 | 
-# 22:00 - 23:00 | 
+# 20:00 - 22:00 | Checking available PhD Programs in Zurich
 ⭐ Reflection
+Minimum Concentration Level. Need improvement to publish something in September.
 ```
 
 #### <2024/07/23 TUE> 
