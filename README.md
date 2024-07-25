@@ -43,9 +43,11 @@ Add location of force application
 ```diff 
 🌠 PLAN
 SPEAR Monthly Update Meeting
+Add Rotor Class
+Add Joint Class
 ! 07:00 - 07:50 | D2D Commute, CIS Module 13 NLP
 # 07:50 - 10:00 | Prepare for the Monthly Update, Monthly Update Meeting
-# 10:00 - 12:00 | Monthly Update Meeting
+# 10:00 - 12:00 | Monthly Update Meeting, Added RotorDynamics Class now can choose different rotors
 # 12:00 - 14:00 |
 # 14:00 - 16:00 |
 # 16:00 - 18:00 | 
