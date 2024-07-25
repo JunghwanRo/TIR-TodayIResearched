@@ -13,7 +13,7 @@ Daily Routine: 5m presentation
 
 ```diff
 Tasks
-Add location of force application
+
 ```
  
 <!--  
@@ -44,6 +44,8 @@ Add location of force application
 🌠 PLAN
 SPEAR Monthly Update Meeting
 Add Rotor Class
+Move Time delay constant into the Rotor Class
+Add location of force application
 Add Joint Class
 ! 07:00 - 07:50 | D2D Commute, CIS Module 13 NLP
 # 07:50 - 10:00 | Prepare for the Monthly Update, Monthly Update Meeting
