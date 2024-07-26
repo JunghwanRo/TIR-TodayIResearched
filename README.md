@@ -42,7 +42,9 @@ Tasks
 #### <2024/07/26 FRI> 
 ```diff 
 🌠 PLAN
-
+Debug the Rotor Class
+Finish 5210 EC HW
+Add Joint Class for programmable joint
 ! 07:40 - 08:25 | D2D Commute, TOEFL words
 ! 08:25 - 10:00 | Project Registration, Debugging Rotor Class
 # 10:00 - 12:00 |
