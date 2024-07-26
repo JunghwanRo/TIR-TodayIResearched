@@ -48,9 +48,9 @@ Add Joint Class for programmable joint
 ! 07:40 - 08:25 | D2D Commute, TOEFL words
 ! 08:25 - 10:00 | Project Registration, Debugging Rotor Class
 + 10:00 - 12:00 | Debugged Rotor Class now running
-# 12:00 - 14:00 |
-# 14:00 - 16:00 |
-# 16:00 - 18:00 | 
+! 12:00 - 14:00 | Lunch, CIS5210 Wampa World EC
++ 14:00 - 16:00 | CIS5210 Wampa World EC
++ 16:00 - 18:00 | Finished CIS5210 Wampa World EC
 # 18:00 - 18:50 |  
 # 18:50 - 20:00 | Commute, Dinner
 # 20:00 - 22:00 | 
