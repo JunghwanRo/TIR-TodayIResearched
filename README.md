@@ -39,6 +39,23 @@ Tasks
 
 -->
 
+#### <2024/07/26 FRI> 
+```diff 
+🌠 PLAN
+
+! 07:40 - 08:25 | D2D Commute, TOEFL words
+! 08:25 - 10:00 | Project Registration, Debugging Rotor Class
+# 10:00 - 12:00 |
+# 12:00 - 14:00 |
+# 14:00 - 16:00 |
+# 16:00 - 18:00 | 
+# 18:00 - 18:50 |  
+# 18:50 - 20:00 | Commute, Dinner
+# 20:00 - 22:00 | 
+# 22:00 - 23:00 | 
+⭐ Reflection
+```
+
 #### <2024/07/25 THU> 
 ```diff 
 🌠 PLAN
@@ -48,15 +65,14 @@ Move Time delay constant into the Rotor Class
 Add location of force application
 Add Joint Class
 ! 07:00 - 07:50 | D2D Commute, CIS Module 13 NLP
-# 07:50 - 10:00 | Prepare for the Monthly Update, Monthly Update Meeting
-# 10:00 - 12:00 | Monthly Update Meeting, Added RotorDynamics Class now can choose different rotors
-# 12:00 - 14:00 |
-# 14:00 - 16:00 |
-# 16:00 - 18:00 | 
-# 18:00 - 18:50 |  
++ 07:50 - 10:00 | Prepare for the Monthly Update, Monthly Update Meeting
++ 10:00 - 12:00 | Monthly Update Meeting, Added RotorDynamics Class now can choose different rotors
+! 12:00 - 14:00 | Adding time constant to Rotor Class
++ 14:00 - 16:00 | Adding time constant to Rotor Class
++ 16:00 - 18:00 | Debugging time constant to Rotor Class
++ 18:00 - 18:50 | Debugging time constant to Rotor Class
 # 18:50 - 20:00 | Commute, Dinner
-# 20:00 - 22:00 | 
-# 22:00 - 23:00 | 
+! 20:00 - 22:00 | CIS5210 Wampa World Extra Credit
 ⭐ Reflection
 ```
 
