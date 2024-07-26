@@ -47,7 +47,7 @@ Finish 5210 EC HW
 Add Joint Class for programmable joint
 ! 07:40 - 08:25 | D2D Commute, TOEFL words
 ! 08:25 - 10:00 | Project Registration, Debugging Rotor Class
-# 10:00 - 12:00 |
++ 10:00 - 12:00 | Debugged Rotor Class now running
 # 12:00 - 14:00 |
 # 14:00 - 16:00 |
 # 16:00 - 18:00 | 
