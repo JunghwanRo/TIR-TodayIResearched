@@ -39,6 +39,19 @@ Tasks
 
 -->
 
+#### <2024/07/27 SAT> 
+```diff 
+🌠 PLAN
+# 10:00 - 12:00 | Sending Nela
+# 12:00 - 14:00 | Sending Nela
+# 14:00 - 16:00 | Sending Nela
+# 16:00 - 18:00 | Sending Nela
+! 18:00 - 20:00 | CIS5210 HW10
+! 20:00 - 22:00 | CIS5210 HW10
+! 22:00 - 23:00 | CIS5210 HW10
+⭐ Reflection
+```
+
 #### <2024/07/26 FRI> 
 ```diff 
 🌠 PLAN
@@ -51,10 +64,8 @@ Add Joint Class for programmable joint
 ! 12:00 - 14:00 | Lunch, CIS5210 Wampa World EC
 + 14:00 - 16:00 | CIS5210 Wampa World EC
 + 16:00 - 18:00 | Finished CIS5210 Wampa World EC
-# 18:00 - 18:50 |  
++ 18:00 - 18:50 | Adding joint class
 # 18:50 - 20:00 | Commute, Dinner
-# 20:00 - 22:00 | 
-# 22:00 - 23:00 | 
 ⭐ Reflection
 ```
 
