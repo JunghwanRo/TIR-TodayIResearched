@@ -39,6 +39,13 @@ Tasks
 
 -->
 
+#### <2024/07/28 SUN> 
+```diff 
+🌠 PLAN
+2024 IEEE RAS Summer School on Multi-Robot Systems
+⭐ Reflection
+```
+
 #### <2024/07/27 SAT> 
 ```diff 
 🌠 PLAN
