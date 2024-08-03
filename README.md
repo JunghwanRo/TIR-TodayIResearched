@@ -39,6 +39,54 @@ Tasks
 
 -->
 
+#### <2024/08/04 SUN> 
+```diff 
+```diff 
+🌠 PLAN
+2024 IEEE RAS Summer School on Multi-Robot Systems
+# 09:00 - 10:00 | 2024 IEEE RAS Summer School on Multi-Robot Systems
+# 10:00 - 12:00 | 2024 IEEE RAS Summer School on Multi-Robot Systems
+# 12:00 - 14:00 | 2024 IEEE RAS Summer School on Multi-Robot Systems
+# 14:00 - 16:00 | 2024 IEEE RAS Summer School on Multi-Robot Systems
+# 16:00 - 18:00 | 2024 IEEE RAS Summer School on Multi-Robot Systems
+# 18:00 - 20:00 | 2024 IEEE RAS Summer School on Multi-Robot Systems
+# 20:00 - 22:00 | 2024 IEEE RAS Summer School on Multi-Robot Systems
+# 22:00 - 23:00 | 2024 IEEE RAS Summer School on Multi-Robot Systems
+⭐ Reflection
+```
+
+#### <2024/08/03 SAT> 
+```diff 
+```diff 
+🌠 PLAN
+2024 IEEE RAS Summer School on Multi-Robot Systems
+# 09:00 - 10:00 | 2024 IEEE RAS Summer School on Multi-Robot Systems
+# 10:00 - 12:00 | 2024 IEEE RAS Summer School on Multi-Robot Systems
+# 12:00 - 14:00 | 2024 IEEE RAS Summer School on Multi-Robot Systems
+# 14:00 - 16:00 | 2024 IEEE RAS Summer School on Multi-Robot Systems
+# 16:00 - 18:00 | 2024 IEEE RAS Summer School on Multi-Robot Systems
+# 18:00 - 20:00 | 2024 IEEE RAS Summer School on Multi-Robot Systems
+# 20:00 - 22:00 | 2024 IEEE RAS Summer School on Multi-Robot Systems
+# 22:00 - 23:00 | 2024 IEEE RAS Summer School on Multi-Robot Systems
+⭐ Reflection
+```
+
+#### <2024/08/02 FRI> 
+```diff 
+```diff 
+🌠 PLAN
+2024 IEEE RAS Summer School on Multi-Robot Systems
+# 09:00 - 10:00 | 2024 IEEE RAS Summer School on Multi-Robot Systems
+# 10:00 - 12:00 | 2024 IEEE RAS Summer School on Multi-Robot Systems
+# 12:00 - 14:00 | 2024 IEEE RAS Summer School on Multi-Robot Systems
+# 14:00 - 16:00 | 2024 IEEE RAS Summer School on Multi-Robot Systems
+# 16:00 - 18:00 | 2024 IEEE RAS Summer School on Multi-Robot Systems
+# 18:00 - 20:00 | 2024 IEEE RAS Summer School on Multi-Robot Systems
+# 20:00 - 22:00 | 2024 IEEE RAS Summer School on Multi-Robot Systems
+# 22:00 - 23:00 | 2024 IEEE RAS Summer School on Multi-Robot Systems
+⭐ Reflection
+```
+
 #### <2024/08/01 THU> 
 ```diff 
 ```diff 
