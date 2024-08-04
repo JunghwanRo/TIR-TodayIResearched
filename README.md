@@ -53,6 +53,7 @@ Tasks
 # 20:00 - 22:00 | 2024 IEEE RAS Summer School on Multi-Robot Systems
 # 22:00 - 23:00 | 2024 IEEE RAS Summer School on Multi-Robot Systems
 ⭐ Reflection
+Prague Robotics Summer School Over!!!
 ```
 
 #### <2024/08/03 SAT> 
