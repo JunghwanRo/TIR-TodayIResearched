@@ -39,6 +39,25 @@ Tasks
 
 -->
 
+#### <2024/08/05 MON> 
+```diff 
+🌠 PLAN
+Finish CIS5210 HW10
+Add joint class
+Add WandB usage
+# 07:40 - 08:35 | D2D Commute
++ 08:35 - 10:00 | Prepare for the Monthly Update Meeting, SPEAR Meeting
+! 10:00 - 12:00 | CIS5210 HW10, Catch up with devel.
+# 12:00 - 14:00 |
+# 14:00 - 16:00 |
+# 16:00 - 18:00 | 
+# 18:00 - 18:50 |  
+# 18:50 - 20:00 | Commute, Dinner
+# 20:00 - 22:00 | 
+# 22:00 - 23:00 | 
+⭐ Reflection
+```
+
 #### <2024/08/04 SUN> 
 ```diff 
 ```diff 
