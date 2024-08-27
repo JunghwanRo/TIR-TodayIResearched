@@ -3,7 +3,7 @@
 + Well-Focused: Focus Time Rate > 75%
 ! Somewhat Distracted: Focus Time Rate > 50%
 - Highly Distracted: Focus Time Rate > 25%
-# Non-Research Activities
+# Non-Research Activities 
 
 Plan: Daily TODO list at the beginning of the day 
 Reflection: Self-reflection at the end of the day 
