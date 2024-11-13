@@ -1,6 +1,6 @@
 # Daily Plan & Reflection
 ```diff
-+ Well-Focused: Focus Time Rate > 75%
++ Well-Focused: Focus Time Rate > 75% 
 ! Somewhat Distracted: Focus Time Rate > 50%
 - Highly Distracted: Focus Time Rate > 25% 
 # Non-Research Activities 
